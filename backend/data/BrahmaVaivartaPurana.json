@@ -1,0 +1,622 @@
+[
+  {
+    "puranaId": 9,
+    "question": "Who compiled the Brahma Vaivarta Purana?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Markandeya"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 9,
+    "question": "The Brahma Vaivarta Purana is one of how many Mahapuranas?",
+    "options": ["18", "12", "16", "24"],
+    "answer": "18"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which deity is regarded as the Supreme Being in the Brahma Vaivarta Purana?",
+    "options": ["Krishna", "Shiva", "Brahma", "Indra"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who is considered Krishna's eternal divine consort?",
+    "options": ["Radha", "Rukmini", "Satyabhama", "Lakshmi"],
+    "answer": "Radha"
+  },
+  {
+    "puranaId": 9,
+    "question": "The Brahma Vaivarta Purana especially glorifies the divine love of?",
+    "options": ["Radha and Krishna", "Rama and Sita", "Shiva and Parvati", "Lakshmi and Vishnu"],
+    "answer": "Radha and Krishna"
+  },
+  {
+    "puranaId": 9,
+    "question": "How many major sections (Khandas) does the Brahma Vaivarta Purana contain?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "4"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which Khanda describes the creation of the universe?",
+    "options": ["Brahma Khanda", "Krishna Janma Khanda", "Prakriti Khanda", "Ganesha Khanda"],
+    "answer": "Brahma Khanda"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which Khanda mainly glorifies Goddess Prakriti?",
+    "options": ["Prakriti Khanda", "Brahma Khanda", "Krishna Janma Khanda", "Ganesha Khanda"],
+    "answer": "Prakriti Khanda"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which Khanda narrates the birth and childhood of Krishna?",
+    "options": ["Krishna Janma Khanda", "Brahma Khanda", "Prakriti Khanda", "Ganesha Khanda"],
+    "answer": "Krishna Janma Khanda"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which Khanda is dedicated to Lord Ganesha?",
+    "options": ["Ganesha Khanda", "Prakriti Khanda", "Krishna Janma Khanda", "Brahma Khanda"],
+    "answer": "Ganesha Khanda"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who is considered the original source of creation?",
+    "options": ["Krishna", "Brahma", "Shiva", "Indra"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who is regarded as the supreme feminine energy?",
+    "options": ["Radha", "Lakshmi", "Parvati", "Saraswati"],
+    "answer": "Radha"
+  },
+  {
+    "puranaId": 9,
+    "question": "What does Radha symbolize?",
+    "options": ["Pure devotion", "Wealth", "Knowledge", "Power"],
+    "answer": "Pure devotion"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which quality is most emphasized in this Purana?",
+    "options": ["Bhakti (Devotion)", "Anger", "Greed", "Violence"],
+    "answer": "Bhakti (Devotion)"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which sacred place is closely associated with Radha and Krishna?",
+    "options": ["Vrindavan", "Ayodhya", "Kashi", "Kurukshetra"],
+    "answer": "Vrindavan"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who is the mother of Lord Krishna?",
+    "options": ["Devaki", "Yashoda", "Kunti", "Rohini"],
+    "answer": "Devaki"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who lovingly raised Krishna in Gokul?",
+    "options": ["Yashoda", "Devaki", "Radha", "Rohini"],
+    "answer": "Yashoda"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who was Krishna's foster father?",
+    "options": ["Nanda", "Vasudeva", "Akrura", "Ugrasena"],
+    "answer": "Nanda"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which musical instrument is associated with Krishna?",
+    "options": ["Flute", "Veena", "Drum", "Conch"],
+    "answer": "Flute"
+  },
+  {
+    "puranaId": 9,
+    "question": "What does Krishna's flute symbolize?",
+    "options": ["Divine love", "War", "Wealth", "Power"],
+    "answer": "Divine love"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which quality should devotees cultivate?",
+    "options": ["Love", "Hatred", "Jealousy", "Cruelty"],
+    "answer": "Love"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who receives Krishna's special grace?",
+    "options": ["Sincere devotees", "The proud", "The greedy", "The dishonest"],
+    "answer": "Sincere devotees"
+  },
+  {
+    "puranaId": 9,
+    "question": "What is considered stronger than rituals?",
+    "options": ["Pure devotion", "Wealth", "Fame", "Power"],
+    "answer": "Pure devotion"
+  },
+  {
+    "puranaId": 9,
+    "question": "What is the highest goal of life according to this Purana?",
+    "options": ["Union with Krishna through devotion", "Material wealth", "Political power", "Military success"],
+    "answer": "Union with Krishna through devotion"
+  },
+  {
+    "puranaId": 9,
+    "question": "What is the central message of the Brahma Vaivarta Purana?",
+    "options": [
+      "Divine love and devotion to Radha-Krishna lead to liberation",
+      "Wealth is the highest achievement",
+      "Power is greater than devotion",
+      "Only rituals matter"
+    ],
+    "answer": "Divine love and devotion to Radha-Krishna lead to liberation"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who is considered the eternal beloved of Lord Krishna?",
+    "options": ["Radha", "Rukmini", "Satyabhama", "Draupadi"],
+    "answer": "Radha"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which forest is associated with Krishna's divine pastimes?",
+    "options": ["Vrindavan", "Dandaka", "Naimisharanya", "Kamyaka"],
+    "answer": "Vrindavan"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which river flows through Vrindavan?",
+    "options": ["Yamuna", "Ganga", "Godavari", "Saraswati"],
+    "answer": "Yamuna"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who was the tyrant king defeated by Krishna?",
+    "options": ["Kamsa", "Jarasandha", "Shishupala", "Duryodhana"],
+    "answer": "Kamsa"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who was Krishna's biological father?",
+    "options": ["Vasudeva", "Nanda", "Akrura", "Ugrasena"],
+    "answer": "Vasudeva"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which demoness tried to kill infant Krishna?",
+    "options": ["Putana", "Tataka", "Surpanakha", "Holika"],
+    "answer": "Putana"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which mountain did Krishna lift to protect the villagers?",
+    "options": ["Govardhana", "Meru", "Kailasa", "Vindhya"],
+    "answer": "Govardhana"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who was the king of the gods humbled by Krishna during the Govardhana episode?",
+    "options": ["Indra", "Agni", "Varuna", "Kubera"],
+    "answer": "Indra"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which festival celebrates Krishna lifting Govardhana Hill?",
+    "options": ["Govardhan Puja", "Holi", "Janmashtami", "Diwali"],
+    "answer": "Govardhan Puja"
+  },
+  {
+    "puranaId": 9,
+    "question": "What does Govardhana Hill symbolize?",
+    "options": ["God's protection", "Material wealth", "War", "Power"],
+    "answer": "God's protection"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which quality is most pleasing to Krishna?",
+    "options": ["Pure devotion", "Pride", "Greed", "Anger"],
+    "answer": "Pure devotion"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who is regarded as Krishna's divine energy?",
+    "options": ["Radha", "Lakshmi", "Parvati", "Saraswati"],
+    "answer": "Radha"
+  },
+  {
+    "puranaId": 9,
+    "question": "What is the highest form of worship according to the Purana?",
+    "options": ["Loving devotion", "Expensive rituals", "Political service", "Wealth donation only"],
+    "answer": "Loving devotion"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which emotion should devotees avoid?",
+    "options": ["Jealousy", "Compassion", "Humility", "Love"],
+    "answer": "Jealousy"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who receives Krishna's mercy?",
+    "options": ["Humble devotees", "The arrogant", "The dishonest", "The greedy"],
+    "answer": "Humble devotees"
+  },
+  {
+    "puranaId": 9,
+    "question": "What does Krishna's smile symbolize?",
+    "options": ["Divine compassion", "Pride", "Anger", "Fear"],
+    "answer": "Divine compassion"
+  },
+  {
+    "puranaId": 9,
+    "question": "What should accompany all acts of worship?",
+    "options": ["Faith", "Ego", "Hatred", "Cruelty"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 9,
+    "question": "What is considered temporary?",
+    "options": ["Material possessions", "Devotion", "Truth", "Love"],
+    "answer": "Material possessions"
+  },
+  {
+    "puranaId": 9,
+    "question": "What is eternal?",
+    "options": ["The soul", "The body", "Money", "Kingdoms"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 9,
+    "question": "What leads to liberation?",
+    "options": ["Bhakti", "Greed", "Violence", "Pride"],
+    "answer": "Bhakti"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which virtue strengthens relationships?",
+    "options": ["Forgiveness", "Hatred", "Jealousy", "Anger"],
+    "answer": "Forgiveness"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which quality destroys spiritual progress?",
+    "options": ["Ego", "Humility", "Truthfulness", "Compassion"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who protects sincere devotees?",
+    "options": ["Krishna", "Indra", "Kubera", "Agni"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 9,
+    "question": "What is the reward of sincere devotion?",
+    "options": ["Divine grace", "Fear", "Failure", "Confusion"],
+    "answer": "Divine grace"
+  },
+  {
+    "puranaId": 9,
+    "question": "According to the Brahma Vaivarta Purana, what is the highest path?",
+    "options": [
+      "Loving devotion to Radha and Krishna",
+      "Accumulating wealth",
+      "Seeking political power",
+      "Performing rituals without devotion"
+    ],
+    "answer": "Loving devotion to Radha and Krishna"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who is considered the Supreme Lord in the Brahma Vaivarta Purana?",
+    "options": ["Krishna", "Shiva", "Brahma", "Indra"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who is described as Krishna's eternal spiritual energy?",
+    "options": ["Radha", "Lakshmi", "Parvati", "Saraswati"],
+    "answer": "Radha"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which city is Krishna's birthplace?",
+    "options": ["Mathura", "Vrindavan", "Dwarka", "Ayodhya"],
+    "answer": "Mathura"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who was Krishna's maternal uncle?",
+    "options": ["Kamsa", "Jarasandha", "Shishupala", "Akrura"],
+    "answer": "Kamsa"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who carried baby Krishna across the Yamuna River?",
+    "options": ["Vasudeva", "Nanda", "Balarama", "Akrura"],
+    "answer": "Vasudeva"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which serpent protected baby Krishna during the journey to Gokul?",
+    "options": ["Shesha", "Kaliya", "Takshaka", "Vasuki"],
+    "answer": "Shesha"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which serpent was subdued by Krishna in the Yamuna River?",
+    "options": ["Kaliya", "Takshaka", "Shesha", "Vasuki"],
+    "answer": "Kaliya"
+  },
+  {
+    "puranaId": 9,
+    "question": "What did Krishna do after defeating Kaliya?",
+    "options": ["Forgave him and sent him away", "Killed him", "Imprisoned him", "Ignored him"],
+    "answer": "Forgave him and sent him away"
+  },
+  {
+    "puranaId": 9,
+    "question": "What does Krishna's victory over Kaliya symbolize?",
+    "options": ["Victory over ego and evil", "Victory in war", "Political success", "Material wealth"],
+    "answer": "Victory over ego and evil"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which quality is most loved by Krishna?",
+    "options": ["Humility", "Arrogance", "Greed", "Jealousy"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who is the elder brother of Krishna?",
+    "options": ["Balarama", "Arjuna", "Bhima", "Nakula"],
+    "answer": "Balarama"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which weapon is associated with Balarama?",
+    "options": ["Plough", "Bow", "Trident", "Chakra"],
+    "answer": "Plough"
+  },
+  {
+    "puranaId": 9,
+    "question": "What is the highest expression of Bhakti?",
+    "options": ["Selfless love", "Fear", "Desire for wealth", "Power"],
+    "answer": "Selfless love"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who is considered the ideal devotee of Krishna?",
+    "options": ["Radha", "Indra", "Kamsa", "Kubera"],
+    "answer": "Radha"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which quality destroys devotion?",
+    "options": ["Pride", "Compassion", "Truthfulness", "Kindness"],
+    "answer": "Pride"
+  },
+  {
+    "puranaId": 9,
+    "question": "What should accompany every prayer?",
+    "options": ["Faith", "Doubt", "Anger", "Hatred"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 9,
+    "question": "What does Krishna's flute call devotees toward?",
+    "options": ["Divine love", "Battle", "Wealth", "Power"],
+    "answer": "Divine love"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which virtue is praised throughout the Purana?",
+    "options": ["Compassion", "Cruelty", "Violence", "Jealousy"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 9,
+    "question": "What should be shared generously?",
+    "options": ["Love and kindness", "Hatred", "Fear", "Anger"],
+    "answer": "Love and kindness"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who ultimately guides devotees to liberation?",
+    "options": ["Krishna", "Kings", "Sages", "Warriors"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 9,
+    "question": "What is the reward of chanting Krishna's name?",
+    "options": ["Purification of the heart", "Material wealth", "Political power", "Military success"],
+    "answer": "Purification of the heart"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which relationship is considered eternal?",
+    "options": ["The soul's relationship with Krishna", "Material relationships", "Political alliances", "Business partnerships"],
+    "answer": "The soul's relationship with Krishna"
+  },
+  {
+    "puranaId": 9,
+    "question": "What is considered temporary?",
+    "options": ["The physical body", "The soul", "Devotion", "Divine love"],
+    "answer": "The physical body"
+  },
+  {
+    "puranaId": 9,
+    "question": "What leads to everlasting happiness?",
+    "options": ["Devotion to Krishna", "Wealth", "Power", "Fame"],
+    "answer": "Devotion to Krishna"
+  },
+  {
+    "puranaId": 9,
+    "question": "What is the central teaching of the Brahma Vaivarta Purana?",
+    "options": [
+      "Love and devotion to Radha-Krishna are the highest spiritual path",
+      "Material success is the goal of life",
+      "Political power is supreme",
+      "Only rituals bring liberation"
+    ],
+    "answer": "Love and devotion to Radha-Krishna are the highest spiritual path"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which sacred mantra is especially associated with devotion to Krishna?",
+    "options": ["Hare Krishna Mahamantra", "Mahamrityunjaya Mantra", "Gayatri Mantra", "Om Namah Shivaya"],
+    "answer": "Hare Krishna Mahamantra"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who is considered the embodiment of divine love?",
+    "options": ["Radha", "Lakshmi", "Parvati", "Saraswati"],
+    "answer": "Radha"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which quality attracts Krishna's blessings?",
+    "options": ["Humble devotion", "Pride", "Greed", "Jealousy"],
+    "answer": "Humble devotion"
+  },
+  {
+    "puranaId": 9,
+    "question": "What does Krishna's flute symbolize?",
+    "options": ["The soul's call toward God", "War", "Royal authority", "Material wealth"],
+    "answer": "The soul's call toward God"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which city became Krishna's kingdom after Mathura?",
+    "options": ["Dwarka", "Ayodhya", "Kashi", "Indraprastha"],
+    "answer": "Dwarka"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which demon took the form of a horse and was slain by Krishna?",
+    "options": ["Keshi", "Putana", "Aghasura", "Bakasura"],
+    "answer": "Keshi"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which demon appeared as a giant crane?",
+    "options": ["Bakasura", "Keshi", "Kaliya", "Dhenukasura"],
+    "answer": "Bakasura"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which demon appeared as a huge serpent?",
+    "options": ["Aghasura", "Putana", "Keshi", "Bakasura"],
+    "answer": "Aghasura"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who is the remover of obstacles described in the Ganesha Khanda?",
+    "options": ["Ganesha", "Kartikeya", "Hanuman", "Surya"],
+    "answer": "Ganesha"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which offering is especially dear to Lord Ganesha?",
+    "options": ["Modaka", "Butter", "Curd", "Milk"],
+    "answer": "Modaka"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which virtue is praised as the greatest ornament of a devotee?",
+    "options": ["Humility", "Wealth", "Power", "Fame"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 9,
+    "question": "What is considered the greatest form of worship?",
+    "options": ["Pure love for God", "Expensive rituals", "Political service", "Charity for fame"],
+    "answer": "Pure love for God"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who is the eternal protector of devotees?",
+    "options": ["Krishna", "Indra", "Agni", "Kubera"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 9,
+    "question": "What should accompany every act of devotion?",
+    "options": ["Sincerity", "Ego", "Hatred", "Greed"],
+    "answer": "Sincerity"
+  },
+  {
+    "puranaId": 9,
+    "question": "What destroys devotion?",
+    "options": ["False pride", "Compassion", "Faith", "Kindness"],
+    "answer": "False pride"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which quality brings peace to the heart?",
+    "options": ["Contentment", "Jealousy", "Anger", "Greed"],
+    "answer": "Contentment"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who should devotees remember at all times?",
+    "options": ["Krishna", "Kings", "Merchants", "Warriors"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 9,
+    "question": "What is the reward of chanting Krishna's holy names?",
+    "options": ["Spiritual purification", "Political influence", "Material luxury", "Physical strength"],
+    "answer": "Spiritual purification"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which quality helps overcome worldly attachments?",
+    "options": ["Devotion", "Greed", "Fear", "Anger"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 9,
+    "question": "According to the Purana, what is the true wealth of a devotee?",
+    "options": ["Love for Krishna", "Gold", "Land", "Jewels"],
+    "answer": "Love for Krishna"
+  },
+  {
+    "puranaId": 9,
+    "question": "Who grants liberation to sincere devotees?",
+    "options": ["Krishna", "Indra", "Kubera", "Yama"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 9,
+    "question": "What is eternal according to the Brahma Vaivarta Purana?",
+    "options": ["The soul", "The body", "Wealth", "Kingdoms"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 9,
+    "question": "Which path is described as the easiest way to attain God?",
+    "options": ["Bhakti Yoga", "Material success", "Political leadership", "Military conquest"],
+    "answer": "Bhakti Yoga"
+  },
+  {
+    "puranaId": 9,
+    "question": "What is the highest goal of human life?",
+    "options": ["Attaining Krishna through devotion", "Becoming wealthy", "Conquering kingdoms", "Gaining fame"],
+    "answer": "Attaining Krishna through devotion"
+  },
+  {
+    "puranaId": 9,
+    "question": "What is the ultimate message of the Brahma Vaivarta Purana?",
+    "options": [
+      "Pure devotion and divine love for Radha-Krishna lead to eternal bliss and liberation",
+      "Material wealth is life's greatest achievement",
+      "Political power is the highest goal",
+      "Only rituals can grant salvation"
+    ],
+    "answer": "Pure devotion and divine love for Radha-Krishna lead to eternal bliss and liberation"
+  }
+]

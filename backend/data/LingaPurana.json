@@ -1,0 +1,682 @@
+[
+  {
+    "puranaId": 10,
+    "question": "Who compiled the Linga Purana?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vasistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 10,
+    "question": "The Linga Purana is one of how many Mahapuranas?",
+    "options": ["18", "12", "16", "24"],
+    "answer": "18"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which deity is primarily glorified in the Linga Purana?",
+    "options": ["Lord Shiva", "Lord Vishnu", "Lord Brahma", "Lord Indra"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 10,
+    "question": "What does the Shiva Linga symbolize?",
+    "options": ["The infinite Supreme Reality", "A mountain", "The Sun", "The Moon"],
+    "answer": "The infinite Supreme Reality"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which form of Shiva is represented by the Linga?",
+    "options": ["Formless and eternal", "Child form", "Warrior form", "King form"],
+    "answer": "Formless and eternal"
+  },
+  {
+    "puranaId": 10,
+    "question": "Who failed to find the top of the infinite Linga of Light?",
+    "options": ["Brahma", "Vishnu", "Indra", "Agni"],
+    "answer": "Brahma"
+  },
+  {
+    "puranaId": 10,
+    "question": "Who failed to find the bottom of the infinite Linga of Light?",
+    "options": ["Vishnu", "Brahma", "Indra", "Surya"],
+    "answer": "Vishnu"
+  },
+  {
+    "puranaId": 10,
+    "question": "The infinite pillar of light represents whose greatness?",
+    "options": ["Shiva", "Vishnu", "Brahma", "Ganesha"],
+    "answer": "Shiva"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which flower falsely testified in favor of Brahma?",
+    "options": ["Ketaki flower", "Lotus", "Rose", "Jasmine"],
+    "answer": "Ketaki flower"
+  },
+  {
+    "puranaId": 10,
+    "question": "Why is the Ketaki flower traditionally not offered to Shiva?",
+    "options": ["Because it gave false testimony", "It has no fragrance", "It is poisonous", "It blooms at night"],
+    "answer": "Because it gave false testimony"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which festival celebrates the appearance of the infinite Linga of Light?",
+    "options": ["Maha Shivaratri", "Diwali", "Navaratri", "Holi"],
+    "answer": "Maha Shivaratri"
+  },
+  {
+    "puranaId": 10,
+    "question": "Who is the divine consort of Lord Shiva?",
+    "options": ["Parvati", "Lakshmi", "Saraswati", "Radha"],
+    "answer": "Parvati"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which sacred river is believed to flow from Shiva's hair?",
+    "options": ["Ganga", "Yamuna", "Godavari", "Narmada"],
+    "answer": "Ganga"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which serpent is usually seen around Shiva's neck?",
+    "options": ["Vasuki", "Takshaka", "Kaliya", "Shesha"],
+    "answer": "Vasuki"
+  },
+  {
+    "puranaId": 10,
+    "question": "What is Lord Shiva's primary weapon?",
+    "options": ["Trident (Trishula)", "Bow", "Sword", "Chakra"],
+    "answer": "Trident (Trishula)"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which mantra is most associated with Lord Shiva?",
+    "options": ["Om Namah Shivaya", "Om Namo Narayanaya", "Gayatri Mantra", "Hare Krishna"],
+    "answer": "Om Namah Shivaya"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which leaf is especially dear to Lord Shiva?",
+    "options": ["Bilva (Bael) leaf", "Tulsi leaf", "Neem leaf", "Mango leaf"],
+    "answer": "Bilva (Bael) leaf"
+  },
+  {
+    "puranaId": 10,
+    "question": "What does the Bilva leaf symbolize?",
+    "options": ["Purity and devotion", "Wealth", "Victory", "Power"],
+    "answer": "Purity and devotion"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which quality is most pleasing to Lord Shiva?",
+    "options": ["Sincere devotion", "Pride", "Greed", "Jealousy"],
+    "answer": "Sincere devotion"
+  },
+  {
+    "puranaId": 10,
+    "question": "Where does Lord Shiva traditionally reside?",
+    "options": ["Mount Kailash", "Mount Meru", "Vaikuntha", "Goloka"],
+    "answer": "Mount Kailash"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which quality destroys spiritual progress?",
+    "options": ["Ego", "Humility", "Compassion", "Truthfulness"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 10,
+    "question": "What is the reward of worshipping Shiva with devotion?",
+    "options": ["Peace and liberation", "Political power", "Material pride", "Military success"],
+    "answer": "Peace and liberation"
+  },
+  {
+    "puranaId": 10,
+    "question": "What is considered eternal according to the Linga Purana?",
+    "options": ["The Supreme Lord", "The physical body", "Wealth", "Kingdoms"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which path is emphasized in the Linga Purana?",
+    "options": ["Devotion to Shiva", "Hatred", "Greed", "Violence"],
+    "answer": "Devotion to Shiva"
+  },
+  {
+    "puranaId": 10,
+    "question": "What is the central teaching of the Linga Purana?",
+    "options": [
+      "Devotion to Lord Shiva and righteous living lead to liberation",
+      "Material wealth is life's greatest goal",
+      "Power is greater than devotion",
+      "Only rituals matter"
+    ],
+    "answer": "Devotion to Lord Shiva and righteous living lead to liberation"
+  },
+  {
+    "puranaId": 10,
+    "question": "Who is known as Nataraja, the Lord of Dance?",
+    "options": ["Shiva", "Vishnu", "Brahma", "Indra"],
+    "answer": "Shiva"
+  },
+  {
+    "puranaId": 10,
+    "question": "What does Shiva's cosmic dance symbolize?",
+    "options": ["Creation, preservation and destruction", "War", "Agriculture", "Kingship"],
+    "answer": "Creation, preservation and destruction"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which river flows from Lord Shiva's matted hair?",
+    "options": ["Ganga", "Yamuna", "Godavari", "Narmada"],
+    "answer": "Ganga"
+  },
+  {
+    "puranaId": 10,
+    "question": "What is the name of Shiva's bull?",
+    "options": ["Nandi", "Garuda", "Airavata", "Uchchaihshravas"],
+    "answer": "Nandi"
+  },
+  {
+    "puranaId": 10,
+    "question": "What does Nandi symbolize?",
+    "options": ["Devotion and righteousness", "Wealth", "Victory", "Knowledge"],
+    "answer": "Devotion and righteousness"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which poison did Shiva consume during the churning of the ocean?",
+    "options": ["Halahala", "Amrita", "Soma", "Kalakuta Nectar"],
+    "answer": "Halahala"
+  },
+  {
+    "puranaId": 10,
+    "question": "Why is Shiva called Neelakantha?",
+    "options": ["Because his throat became blue after drinking poison", "Because he wears blue clothes", "Because he lives in the sky", "Because of his blue eyes"],
+    "answer": "Because his throat became blue after drinking poison"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which crescent adorns Shiva's head?",
+    "options": ["Moon", "Sun", "Star", "Planet Venus"],
+    "answer": "Moon"
+  },
+  {
+    "puranaId": 10,
+    "question": "The crescent moon on Shiva's head symbolizes?",
+    "options": ["Control over time", "Victory in war", "Royal power", "Material wealth"],
+    "answer": "Control over time"
+  },
+  {
+    "puranaId": 10,
+    "question": "What is the sacred ash applied by Shiva called?",
+    "options": ["Vibhuti", "Kumkum", "Chandan", "Sindoor"],
+    "answer": "Vibhuti"
+  },
+  {
+    "puranaId": 10,
+    "question": "What does Vibhuti symbolize?",
+    "options": ["Impermanence of worldly life", "Wealth", "Success", "Luxury"],
+    "answer": "Impermanence of worldly life"
+  },
+  {
+    "puranaId": 10,
+    "question": "Who is the son of Shiva and Parvati with an elephant head?",
+    "options": ["Ganesha", "Kartikeya", "Hanuman", "Ayyappa"],
+    "answer": "Ganesha"
+  },
+  {
+    "puranaId": 10,
+    "question": "Who is the commander of the celestial army and son of Shiva?",
+    "options": ["Kartikeya", "Ganesha", "Indra", "Agni"],
+    "answer": "Kartikeya"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which mountain is the abode of Shiva?",
+    "options": ["Mount Kailash", "Mount Meru", "Vindhya", "Himalaya"],
+    "answer": "Mount Kailash"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which quality pleases Lord Shiva the most?",
+    "options": ["Humility", "Pride", "Greed", "Jealousy"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which offering is especially dear to Shiva?",
+    "options": ["Water and Bilva leaves", "Tulsi leaves", "Lotus flowers", "Butter"],
+    "answer": "Water and Bilva leaves"
+  },
+  {
+    "puranaId": 10,
+    "question": "Who is known as the Destroyer in the Trimurti?",
+    "options": ["Shiva", "Vishnu", "Brahma", "Surya"],
+    "answer": "Shiva"
+  },
+  {
+    "puranaId": 10,
+    "question": "What is Shiva's third eye associated with?",
+    "options": ["Divine wisdom", "Material wealth", "Kingship", "Music"],
+    "answer": "Divine wisdom"
+  },
+  {
+    "puranaId": 10,
+    "question": "What happened when Shiva opened his third eye?",
+    "options": ["It burned evil and ignorance", "It created rain", "It froze the earth", "It created gold"],
+    "answer": "It burned evil and ignorance"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which virtue leads to Shiva's blessings?",
+    "options": ["Truthfulness", "Dishonesty", "Cruelty", "Greed"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 10,
+    "question": "What is the result of sincere worship of Shiva?",
+    "options": ["Inner peace", "Pride", "Fear", "Confusion"],
+    "answer": "Inner peace"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which quality should devotees avoid?",
+    "options": ["Ego", "Compassion", "Humility", "Faith"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 10,
+    "question": "What does the Linga primarily represent?",
+    "options": ["The infinite nature of Shiva", "A mountain", "A kingdom", "A weapon"],
+    "answer": "The infinite nature of Shiva"
+  },
+  {
+    "puranaId": 10,
+    "question": "According to the Linga Purana, what leads to Moksha?",
+    "options": ["Devotion, righteousness and worship of Shiva", "Political power", "Material wealth", "Military strength"],
+    "answer": "Devotion, righteousness and worship of Shiva"
+  },
+  {
+    "puranaId": 10,
+    "question": "What is the main message of the Linga Purana?",
+    "options": [
+      "Shiva is the Supreme Reality and sincere devotion leads to liberation",
+      "Wealth is the greatest goal",
+      "Power is superior to Dharma",
+      "Only rituals matter"
+    ],
+    "answer": "Shiva is the Supreme Reality and sincere devotion leads to liberation"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which sacred city is especially associated with Lord Shiva?",
+    "options": ["Kashi (Varanasi)", "Mathura", "Ayodhya", "Dwarka"],
+    "answer": "Kashi (Varanasi)"
+  },
+  {
+    "puranaId": 10,
+    "question": "Who is believed to grant liberation in Kashi?",
+    "options": ["Lord Shiva", "Lord Vishnu", "Lord Brahma", "Lord Ganesha"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which sacred river flows through Kashi?",
+    "options": ["Ganga", "Yamuna", "Godavari", "Narmada"],
+    "answer": "Ganga"
+  },
+  {
+    "puranaId": 10,
+    "question": "What does the Trishula of Shiva symbolize?",
+    "options": [
+      "Creation, preservation and destruction",
+      "Wealth, fame and power",
+      "Earth, fire and water",
+      "Knowledge, wealth and victory"
+    ],
+    "answer": "Creation, preservation and destruction"
+  },
+  {
+    "puranaId": 10,
+    "question": "What is Shiva's small drum called?",
+    "options": ["Damaru", "Mridanga", "Veena", "Tabla"],
+    "answer": "Damaru"
+  },
+  {
+    "puranaId": 10,
+    "question": "The sound of the Damaru symbolizes?",
+    "options": [
+      "The origin of creation",
+      "The end of the universe",
+      "Royal victory",
+      "Material prosperity"
+    ],
+    "answer": "The origin of creation"
+  },
+  {
+    "puranaId": 10,
+    "question": "Who performed severe penance to marry Lord Shiva?",
+    "options": ["Parvati", "Lakshmi", "Saraswati", "Radha"],
+    "answer": "Parvati"
+  },
+  {
+    "puranaId": 10,
+    "question": "What quality of Parvati is especially praised?",
+    "options": ["Determination and devotion", "Pride", "Greed", "Anger"],
+    "answer": "Determination and devotion"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which demon received a boon from Shiva but later misused it?",
+    "options": ["Bhasmasura", "Ravana", "Mahishasura", "Kumbhakarna"],
+    "answer": "Bhasmasura"
+  },
+  {
+    "puranaId": 10,
+    "question": "Who defeated Bhasmasura using intelligence?",
+    "options": ["Vishnu as Mohini", "Brahma", "Indra", "Agni"],
+    "answer": "Vishnu as Mohini"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which quality is praised over physical strength?",
+    "options": ["Wisdom", "Anger", "Pride", "Violence"],
+    "answer": "Wisdom"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which virtue pleases Lord Shiva?",
+    "options": ["Compassion", "Cruelty", "Hatred", "Jealousy"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 10,
+    "question": "What should devotees offer with rituals?",
+    "options": ["Faith", "Ego", "Pride", "Greed"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 10,
+    "question": "What is considered temporary?",
+    "options": ["Material wealth", "The soul", "Truth", "Devotion"],
+    "answer": "Material wealth"
+  },
+  {
+    "puranaId": 10,
+    "question": "What is eternal?",
+    "options": ["The soul", "The body", "Gold", "Kingdoms"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which quality helps conquer the mind?",
+    "options": ["Self-control", "Anger", "Greed", "Hatred"],
+    "answer": "Self-control"
+  },
+  {
+    "puranaId": 10,
+    "question": "What is the fruit of meditation on Shiva?",
+    "options": ["Inner peace", "Fear", "Confusion", "Pride"],
+    "answer": "Inner peace"
+  },
+  {
+    "puranaId": 10,
+    "question": "Who protects sincere devotees?",
+    "options": ["Lord Shiva", "Kings", "Demons", "Warriors"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which sacred syllable is associated with Shiva?",
+    "options": ["Om", "Hreem", "Kreem", "Shreem"],
+    "answer": "Om"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which practice purifies the heart?",
+    "options": ["Chanting Shiva's name", "Seeking wealth", "Boasting", "Violence"],
+    "answer": "Chanting Shiva's name"
+  },
+  {
+    "puranaId": 10,
+    "question": "What should devotees abandon?",
+    "options": ["Ego", "Faith", "Truth", "Humility"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which quality leads to divine blessings?",
+    "options": ["Humility", "Arrogance", "Dishonesty", "Greed"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 10,
+    "question": "What is the highest form of worship?",
+    "options": [
+      "Sincere devotion",
+      "Expensive offerings",
+      "Political power",
+      "Royal ceremonies"
+    ],
+    "answer": "Sincere devotion"
+  },
+  {
+    "puranaId": 10,
+    "question": "According to the Linga Purana, who is beyond birth and death?",
+    "options": ["Lord Shiva", "Indra", "Brahma", "Kubera"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 10,
+    "question": "What is the central teaching of this section of the Linga Purana?",
+    "options": [
+      "Faith, humility and devotion to Shiva bring liberation",
+      "Wealth is life's greatest achievement",
+      "Power is superior to Dharma",
+      "Only knowledge leads to liberation"
+    ],
+    "answer": "Faith, humility and devotion to Shiva bring liberation"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which sacred festival is dedicated to the worship of Lord Shiva throughout the night?",
+    "options": ["Maha Shivaratri", "Janmashtami", "Rama Navami", "Ganesh Chaturthi"],
+    "answer": "Maha Shivaratri"
+  },
+  {
+    "puranaId": 10,
+    "question": "How many eyes does Lord Shiva possess?",
+    "options": ["Three", "Two", "Four", "Five"],
+    "answer": "Three"
+  },
+  {
+    "puranaId": 10,
+    "question": "Shiva's third eye represents?",
+    "options": ["Divine knowledge", "Material wealth", "Physical strength", "Royal authority"],
+    "answer": "Divine knowledge"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which direction is traditionally associated with Lord Shiva?",
+    "options": ["North", "East", "South", "West"],
+    "answer": "North"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which sacred mountain is Shiva's eternal abode?",
+    "options": ["Mount Kailash", "Mount Meru", "Vindhya", "Aravalli"],
+    "answer": "Mount Kailash"
+  },
+  {
+    "puranaId": 10,
+    "question": "Who is known as Ardhanarishvara?",
+    "options": [
+      "The combined form of Shiva and Parvati",
+      "Shiva and Vishnu",
+      "Brahma and Saraswati",
+      "Krishna and Radha"
+    ],
+    "answer": "The combined form of Shiva and Parvati"
+  },
+  {
+    "puranaId": 10,
+    "question": "Ardhanarishvara symbolizes?",
+    "options": [
+      "Unity of masculine and feminine energies",
+      "Victory in war",
+      "Material success",
+      "Royal authority"
+    ],
+    "answer": "Unity of masculine and feminine energies"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which quality is essential for spiritual progress?",
+    "options": ["Self-discipline", "Greed", "Pride", "Hatred"],
+    "answer": "Self-discipline"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which sacred object is worshipped in Shiva temples?",
+    "options": ["Shiva Linga", "Tulsi Plant", "Lotus", "Conch"],
+    "answer": "Shiva Linga"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which offering is commonly poured over the Shiva Linga?",
+    "options": ["Milk", "Oil", "Honey only", "Ghee only"],
+    "answer": "Milk"
+  },
+  {
+    "puranaId": 10,
+    "question": "What does Abhisheka symbolize?",
+    "options": [
+      "Purification and devotion",
+      "Material prosperity",
+      "Political victory",
+      "Military success"
+    ],
+    "answer": "Purification and devotion"
+  },
+  {
+    "puranaId": 10,
+    "question": "Who grants Moksha according to the Linga Purana?",
+    "options": ["Lord Shiva", "Indra", "Kubera", "Surya"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which virtue should always accompany worship?",
+    "options": ["Humility", "Arrogance", "Hatred", "Jealousy"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 10,
+    "question": "What destroys spiritual wisdom?",
+    "options": ["Ego", "Faith", "Compassion", "Truthfulness"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which quality helps control the senses?",
+    "options": ["Self-control", "Greed", "Anger", "Pride"],
+    "answer": "Self-control"
+  },
+  {
+    "puranaId": 10,
+    "question": "What is considered the greatest wealth?",
+    "options": ["Spiritual wisdom", "Gold", "Jewels", "Kingdoms"],
+    "answer": "Spiritual wisdom"
+  },
+  {
+    "puranaId": 10,
+    "question": "Who receives Shiva's grace?",
+    "options": [
+      "Sincere devotees",
+      "Only kings",
+      "Only sages",
+      "Only warriors"
+    ],
+    "answer": "Sincere devotees"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which practice removes sins according to the Purana?",
+    "options": [
+      "Devotion to Shiva",
+      "Accumulating wealth",
+      "Political success",
+      "Military victories"
+    ],
+    "answer": "Devotion to Shiva"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which quality is praised in every devotee?",
+    "options": ["Compassion", "Cruelty", "Hatred", "Dishonesty"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 10,
+    "question": "What should a devotee cultivate daily?",
+    "options": ["Faith", "Pride", "Anger", "Greed"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 10,
+    "question": "What ultimately leads to liberation?",
+    "options": [
+      "Pure devotion and righteous living",
+      "Material success",
+      "Political authority",
+      "Physical strength"
+    ],
+    "answer": "Pure devotion and righteous living"
+  },
+  {
+    "puranaId": 10,
+    "question": "What is the nature of Lord Shiva?",
+    "options": [
+      "Eternal and infinite",
+      "Temporary",
+      "Limited",
+      "Created by others"
+    ],
+    "answer": "Eternal and infinite"
+  },
+  {
+    "puranaId": 10,
+    "question": "What does the Shiva Linga ultimately represent?",
+    "options": [
+      "The infinite Supreme Reality",
+      "A physical object only",
+      "A royal symbol",
+      "A weapon"
+    ],
+    "answer": "The infinite Supreme Reality"
+  },
+  {
+    "puranaId": 10,
+    "question": "Which path is repeatedly emphasized in the Linga Purana?",
+    "options": [
+      "Bhakti (Devotion)",
+      "Greed",
+      "Violence",
+      "Material ambition"
+    ],
+    "answer": "Bhakti (Devotion)"
+  },
+  {
+    "puranaId": 10,
+    "question": "What is the ultimate message of the Linga Purana?",
+    "options": [
+      "Lord Shiva is the Supreme Reality, and sincere devotion, humility, and righteous living lead to liberation.",
+      "Material wealth is the highest goal.",
+      "Political power is eternal.",
+      "Only rituals can grant salvation."
+    ],
+    "answer": "Lord Shiva is the Supreme Reality, and sincere devotion, humility, and righteous living lead to liberation."
+  }
+]

@@ -1,0 +1,612 @@
+[
+  {
+    "puranaId": 6,
+    "question": "Who is the central sage after whom the Narada Purana is named?",
+    "options": ["Narada", "Valmiki", "Vasistha", "Agastya"],
+    "answer": "Narada"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who is Narada's father?",
+    "options": ["Brahma", "Vishnu", "Shiva", "Kashyapa"],
+    "answer": "Brahma"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which musical instrument is always carried by Sage Narada?",
+    "options": ["Veena", "Flute", "Mridangam", "Conch"],
+    "answer": "Veena"
+  },
+  {
+    "puranaId": 6,
+    "question": "What is the name of Narada's Veena?",
+    "options": ["Mahati", "Saraswati", "Ananda", "Sudarshana"],
+    "answer": "Mahati"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which deity is Narada known to constantly glorify?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Surya"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 6,
+    "question": "Narada is best known as a divine what?",
+    "options": ["Sage", "King", "Warrior", "Priest"],
+    "answer": "Sage"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which mantra is closely associated with Narada's devotion?",
+    "options": ["Om Namo Narayanaya", "Om Namah Shivaya", "Gayatri Mantra", "Om Gam Ganapataye Namah"],
+    "answer": "Om Namo Narayanaya"
+  },
+  {
+    "puranaId": 6,
+    "question": "Narada Purana mainly promotes which spiritual path?",
+    "options": ["Bhakti", "Violence", "Greed", "Materialism"],
+    "answer": "Bhakti"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who compiled the Narada Purana?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vasistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 6,
+    "question": "How many Mahapuranas are there?",
+    "options": ["18", "16", "12", "24"],
+    "answer": "18"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which deity is considered the preserver of the universe?",
+    "options": ["Vishnu", "Brahma", "Shiva", "Indra"],
+    "answer": "Vishnu"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who is the goddess of wealth?",
+    "options": ["Lakshmi", "Parvati", "Saraswati", "Durga"],
+    "answer": "Lakshmi"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who is the consort of Lord Vishnu?",
+    "options": ["Lakshmi", "Parvati", "Saraswati", "Radha"],
+    "answer": "Lakshmi"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which bird is the vehicle of Lord Vishnu?",
+    "options": ["Garuda", "Hamsa", "Peacock", "Parrot"],
+    "answer": "Garuda"
+  },
+  {
+    "puranaId": 6,
+    "question": "Where does Lord Vishnu reside?",
+    "options": ["Vaikuntha", "Kailasa", "Svarga", "Brahmaloka"],
+    "answer": "Vaikuntha"
+  },
+  {
+    "puranaId": 6,
+    "question": "What is the highest goal according to the Narada Purana?",
+    "options": ["Moksha", "Wealth", "Power", "Fame"],
+    "answer": "Moksha"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which quality is repeatedly praised?",
+    "options": ["Devotion", "Pride", "Greed", "Hatred"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who is known as the messenger of the gods?",
+    "options": ["Narada", "Indra", "Agni", "Kubera"],
+    "answer": "Narada"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which scripture emphasizes devotion through singing God's names?",
+    "options": ["Narada Purana", "Linga Purana", "Agni Purana", "Garuda Purana"],
+    "answer": "Narada Purana"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which practice is highly recommended by Sage Narada?",
+    "options": ["Chanting the Lord's names", "Accumulating wealth", "Conquering kingdoms", "Horse racing"],
+    "answer": "Chanting the Lord's names"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which virtue destroys ignorance?",
+    "options": ["Knowledge", "Greed", "Anger", "Hatred"],
+    "answer": "Knowledge"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who grants liberation according to the Narada Purana?",
+    "options": ["Lord Vishnu", "Indra", "Agni", "Brahma"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 6,
+    "question": "What should every devotee cultivate?",
+    "options": ["Humility", "Pride", "Jealousy", "Anger"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 6,
+    "question": "What is the fruit of sincere devotion?",
+    "options": ["Liberation", "Political power", "Material wealth", "Military victory"],
+    "answer": "Liberation"
+  },
+  {
+    "puranaId": 6,
+    "question": "What is the central teaching of the Narada Purana?",
+    "options": [
+      "Pure devotion to Lord Vishnu",
+      "Material wealth is supreme",
+      "Power is life's goal",
+      "Only rituals matter"
+    ],
+    "answer": "Pure devotion to Lord Vishnu"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who is known as the Devarshi (divine sage)?",
+    "options": ["Narada", "Vasistha", "Agastya", "Valmiki"],
+    "answer": "Narada"
+  },
+  {
+    "puranaId": 6,
+    "question": "Narada travels freely across how many worlds?",
+    "options": ["Three", "Two", "Seven", "Fourteen"],
+    "answer": "Three"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which quality does Narada encourage above all?",
+    "options": ["Devotion", "Wealth", "Power", "Fame"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who is considered the Supreme Lord in the Narada Purana?",
+    "options": ["Vishnu", "Shiva", "Brahma", "Surya"],
+    "answer": "Vishnu"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which goddess always accompanies Lord Vishnu?",
+    "options": ["Lakshmi", "Parvati", "Saraswati", "Durga"],
+    "answer": "Lakshmi"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which sacred month is praised for devotion to Vishnu?",
+    "options": ["Kartika", "Magha", "Ashadha", "Chaitra"],
+    "answer": "Kartika"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which observance is highly recommended?",
+    "options": ["Ekadashi fasting", "Night hunting", "Horse racing", "Trading"],
+    "answer": "Ekadashi fasting"
+  },
+  {
+    "puranaId": 6,
+    "question": "How often does Ekadashi occur?",
+    "options": ["Twice a lunar month", "Once a year", "Every week", "Every month"],
+    "answer": "Twice a lunar month"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which practice purifies the heart according to Narada?",
+    "options": ["Chanting God's names", "Collecting wealth", "Political debates", "Military training"],
+    "answer": "Chanting God's names"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who is the author of the Narada Bhakti Sutra?",
+    "options": ["Narada", "Vyasa", "Valmiki", "Shuka"],
+    "answer": "Narada"
+  },
+  {
+    "puranaId": 6,
+    "question": "What is Bhakti?",
+    "options": ["Loving devotion to God", "Physical strength", "Material success", "Political authority"],
+    "answer": "Loving devotion to God"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which avatar lifted Govardhana Hill?",
+    "options": ["Krishna", "Rama", "Vamana", "Varaha"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who defeated Kamsa?",
+    "options": ["Krishna", "Balarama", "Arjuna", "Bhima"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 6,
+    "question": "Where was Krishna born?",
+    "options": ["Mathura", "Dwarka", "Vrindavan", "Ayodhya"],
+    "answer": "Mathura"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who raised Krishna?",
+    "options": ["Yashoda", "Devaki", "Kunti", "Rohini"],
+    "answer": "Yashoda"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which scripture contains Krishna's teachings to Arjuna?",
+    "options": ["Bhagavad Gita", "Ramayana", "Yoga Sutras", "Rig Veda"],
+    "answer": "Bhagavad Gita"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who narrated the Bhagavad Gita?",
+    "options": ["Lord Krishna", "Narada", "Vyasa", "Brahma"],
+    "answer": "Lord Krishna"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who compiled the Bhagavad Gita?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vasistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which quality should every devotee possess?",
+    "options": ["Compassion", "Hatred", "Cruelty", "Greed"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which quality should be avoided?",
+    "options": ["Pride", "Humility", "Truthfulness", "Kindness"],
+    "answer": "Pride"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who is pleased by sincere devotion?",
+    "options": ["Lord Vishnu", "Kubera", "Agni", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which sacred bird carries Lord Vishnu?",
+    "options": ["Garuda", "Peacock", "Swan", "Parrot"],
+    "answer": "Garuda"
+  },
+  {
+    "puranaId": 6,
+    "question": "What is the highest wealth according to the Narada Purana?",
+    "options": ["Devotion", "Gold", "Land", "Jewels"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 6,
+    "question": "What is the reward of chanting God's names?",
+    "options": ["Spiritual purification", "Political power", "Military victory", "Riches"],
+    "answer": "Spiritual purification"
+  },
+  {
+    "puranaId": 6,
+    "question": "According to the Narada Purana, what leads directly to liberation?",
+    "options": ["Pure devotion", "Wealth", "Power", "Fame"],
+    "answer": "Pure devotion"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who taught Dhruva the mantra to worship Lord Vishnu?",
+    "options": ["Narada", "Brahma", "Shiva", "Indra"],
+    "answer": "Narada"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which prince became a great devotee after Narada's guidance?",
+    "options": ["Dhruva", "Prahlada", "Rama", "Arjuna"],
+    "answer": "Dhruva"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which devotee was protected by Narasimha?",
+    "options": ["Prahlada", "Dhruva", "Bali", "Arjuna"],
+    "answer": "Prahlada"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which avatar of Vishnu appeared as half-man and half-lion?",
+    "options": ["Narasimha", "Varaha", "Kurma", "Vamana"],
+    "answer": "Narasimha"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who was Prahlada's father?",
+    "options": ["Hiranyakashipu", "Hiranyaksha", "Bali", "Ravana"],
+    "answer": "Hiranyakashipu"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who rescued the Earth as a boar?",
+    "options": ["Varaha", "Kurma", "Matsya", "Vamana"],
+    "answer": "Varaha"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which demon was killed by Varaha?",
+    "options": ["Hiranyaksha", "Ravana", "Kamsa", "Madhu"],
+    "answer": "Hiranyaksha"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who measured the universe in three steps?",
+    "options": ["Vamana", "Krishna", "Rama", "Kurma"],
+    "answer": "Vamana"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who offered three steps of land to Vamana?",
+    "options": ["King Bali", "Dasharatha", "Janaka", "Kamsa"],
+    "answer": "King Bali"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which quality did King Bali demonstrate?",
+    "options": ["Generosity", "Cruelty", "Jealousy", "Greed"],
+    "answer": "Generosity"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which avatar built the bridge to Lanka?",
+    "options": ["Rama", "Krishna", "Vamana", "Parashurama"],
+    "answer": "Rama"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who was Rama's devoted servant?",
+    "options": ["Hanuman", "Sugriva", "Jambavan", "Angada"],
+    "answer": "Hanuman"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who defeated Ravana?",
+    "options": ["Rama", "Lakshmana", "Hanuman", "Vibhishana"],
+    "answer": "Rama"
+  },
+  {
+    "puranaId": 6,
+    "question": "Where was Lord Rama born?",
+    "options": ["Ayodhya", "Mathura", "Dwarka", "Mithila"],
+    "answer": "Ayodhya"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who was Rama's wife?",
+    "options": ["Sita", "Draupadi", "Radha", "Rukmini"],
+    "answer": "Sita"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which scripture narrates Lord Rama's life?",
+    "options": ["Ramayana", "Mahabharata", "Bhagavata Purana", "Agni Purana"],
+    "answer": "Ramayana"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who composed the Ramayana?",
+    "options": ["Valmiki", "Vedavyasa", "Narada", "Agastya"],
+    "answer": "Valmiki"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which virtue does Narada praise the most?",
+    "options": ["Bhakti", "Wealth", "Power", "Fame"],
+    "answer": "Bhakti"
+  },
+  {
+    "puranaId": 6,
+    "question": "What should a devotee constantly remember?",
+    "options": ["The name of God", "Money", "Power", "Victory"],
+    "answer": "The name of God"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which emotion should a devotee avoid?",
+    "options": ["Ego", "Compassion", "Humility", "Kindness"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who is the source of true happiness?",
+    "options": ["Lord Vishnu", "Kubera", "Indra", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 6,
+    "question": "What is greater than material wealth?",
+    "options": ["Devotion", "Gold", "Property", "Jewels"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 6,
+    "question": "What is the reward of serving saints?",
+    "options": ["Spiritual wisdom", "Political power", "Riches", "Victory"],
+    "answer": "Spiritual wisdom"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who is pleased by sincere chanting?",
+    "options": ["Lord Vishnu", "Indra", "Agni", "Yama"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 6,
+    "question": "According to the Narada Purana, what is the easiest path to Moksha?",
+    "options": ["Bhakti", "Wealth", "Power", "Fame"],
+    "answer": "Bhakti"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which Purana emphasizes devotion as the simplest path to liberation?",
+    "options": ["Narada Purana", "Agni Purana", "Linga Purana", "Brahmanda Purana"],
+    "answer": "Narada Purana"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who is considered the ideal devotee in the Narada Purana?",
+    "options": ["One who loves God selflessly", "A wealthy king", "A powerful warrior", "A famous scholar"],
+    "answer": "One who loves God selflessly"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which yuga is considered the easiest for attaining salvation through devotion?",
+    "options": ["Kali Yuga", "Satya Yuga", "Treta Yuga", "Dvapara Yuga"],
+    "answer": "Kali Yuga"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which practice is especially recommended during Kali Yuga?",
+    "options": ["Nama Sankirtana", "Animal sacrifice", "Severe penance", "Royal rituals"],
+    "answer": "Nama Sankirtana"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who receives the greatest blessings according to the Narada Purana?",
+    "options": ["True devotees", "Kings", "Merchants", "Warriors"],
+    "answer": "True devotees"
+  },
+  {
+    "puranaId": 6,
+    "question": "What is the purpose of human birth?",
+    "options": ["To realize God", "To gain wealth", "To conquer kingdoms", "To seek fame"],
+    "answer": "To realize God"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which virtue is essential for spiritual progress?",
+    "options": ["Humility", "Pride", "Greed", "Anger"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who should be respected according to the Narada Purana?",
+    "options": ["Saints and Gurus", "Only kings", "Only warriors", "Only scholars"],
+    "answer": "Saints and Gurus"
+  },
+  {
+    "puranaId": 6,
+    "question": "What destroys accumulated sins?",
+    "options": ["Devotion to Vishnu", "Wealth", "Political power", "Luxury"],
+    "answer": "Devotion to Vishnu"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who is the protector of devotees?",
+    "options": ["Lord Vishnu", "Indra", "Agni", "Kubera"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which quality is condemned throughout the Narada Purana?",
+    "options": ["Ego", "Compassion", "Truthfulness", "Charity"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 6,
+    "question": "What should accompany all religious practices?",
+    "options": ["Faith", "Arrogance", "Hatred", "Violence"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which sacred plant is especially dear to Lord Vishnu?",
+    "options": ["Tulsi", "Neem", "Peepal", "Banyan"],
+    "answer": "Tulsi"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which offering is especially pleasing to Lord Vishnu?",
+    "options": ["Tulsi leaves", "Bilva leaves", "Red flowers", "Bael fruit"],
+    "answer": "Tulsi leaves"
+  },
+  {
+    "puranaId": 6,
+    "question": "What should a devotee chant daily?",
+    "options": ["Names of the Lord", "Political slogans", "War songs", "Poetry only"],
+    "answer": "Names of the Lord"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which type of association is recommended?",
+    "options": ["Company of devotees", "Company of the wicked", "Gamblers", "Thieves"],
+    "answer": "Company of devotees"
+  },
+  {
+    "puranaId": 6,
+    "question": "What is considered the greatest charity?",
+    "options": ["Sharing spiritual knowledge", "Giving gold", "Giving land", "Giving clothes"],
+    "answer": "Sharing spiritual knowledge"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who composed the Mahabharata?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vasistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which scripture contains the Narada Purana?",
+    "options": ["Mahapurana collection", "Vedas", "Upanishads", "Dharmashastra"],
+    "answer": "Mahapurana collection"
+  },
+  {
+    "puranaId": 6,
+    "question": "How many Mahapuranas are traditionally recognized?",
+    "options": ["18", "12", "24", "16"],
+    "answer": "18"
+  },
+  {
+    "puranaId": 6,
+    "question": "Who ultimately grants liberation according to the Narada Purana?",
+    "options": ["Lord Vishnu", "Brahma", "Shiva", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 6,
+    "question": "What is the highest form of worship?",
+    "options": ["Pure devotion", "Costly rituals", "Animal sacrifice", "Political success"],
+    "answer": "Pure devotion"
+  },
+  {
+    "puranaId": 6,
+    "question": "According to Narada, what is the greatest treasure?",
+    "options": ["Love for God", "Gold", "Power", "Land"],
+    "answer": "Love for God"
+  },
+  {
+    "puranaId": 6,
+    "question": "Which path is open to everyone regardless of status?",
+    "options": ["Bhakti", "Royal power", "Military service", "Wealth accumulation"],
+    "answer": "Bhakti"
+  },
+  {
+    "puranaId": 6,
+    "question": "What is the central teaching of the Narada Purana?",
+    "options": [
+      "Pure devotion to Lord Vishnu is the easiest path to Moksha",
+      "Material wealth brings liberation",
+      "Power is the highest goal",
+      "Only rituals lead to salvation"
+    ],
+    "answer": "Pure devotion to Lord Vishnu is the easiest path to Moksha"
+  }
+]

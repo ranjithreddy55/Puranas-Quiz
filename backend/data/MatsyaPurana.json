@@ -1,0 +1,622 @@
+[
+  {
+    "puranaId": 15,
+    "question": "Who compiled the Matsya Purana?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vasistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which avatar of Lord Vishnu is the central focus of the Matsya Purana?",
+    "options": ["Matsya", "Kurma", "Varaha", "Vamana"],
+    "answer": "Matsya"
+  },
+  {
+    "puranaId": 15,
+    "question": "Matsya is the _____ avatar of Lord Vishnu.",
+    "options": ["First", "Second", "Third", "Fourth"],
+    "answer": "First"
+  },
+  {
+    "puranaId": 15,
+    "question": "In which form did Lord Vishnu appear as Matsya?",
+    "options": ["Fish", "Tortoise", "Boar", "Lion"],
+    "answer": "Fish"
+  },
+  {
+    "puranaId": 15,
+    "question": "Who was warned by Lord Matsya about the great flood?",
+    "options": ["King Satyavrata", "King Janaka", "King Harishchandra", "King Dasharatha"],
+    "answer": "King Satyavrata"
+  },
+  {
+    "puranaId": 15,
+    "question": "King Satyavrata later became whom?",
+    "options": ["Vaivasvata Manu", "Indra", "Prahlada", "Bali"],
+    "answer": "Vaivasvata Manu"
+  },
+  {
+    "puranaId": 15,
+    "question": "What did Lord Matsya ask Satyavrata to build?",
+    "options": ["A large boat", "A palace", "A temple", "A fort"],
+    "answer": "A large boat"
+  },
+  {
+    "puranaId": 15,
+    "question": "What was preserved during the great flood?",
+    "options": ["Seeds of all life and the sages", "Only gold", "Weapons", "Cities"],
+    "answer": "Seeds of all life and the sages"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which demon stole the Vedas?",
+    "options": ["Hayagriva", "Hiranyaksha", "Ravana", "Madhu"],
+    "answer": "Hayagriva"
+  },
+  {
+    "puranaId": 15,
+    "question": "Who recovered the Vedas from the demon?",
+    "options": ["Lord Matsya", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Matsya"
+  },
+  {
+    "puranaId": 15,
+    "question": "What did the horn of Matsya help pull?",
+    "options": ["The boat", "A mountain", "The ocean", "The palace"],
+    "answer": "The boat"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which serpent was used to tie the boat to Matsya's horn?",
+    "options": ["Vasuki", "Shesha", "Takshaka", "Kaliya"],
+    "answer": "Vasuki"
+  },
+  {
+    "puranaId": 15,
+    "question": "Who accompanied Manu in the boat?",
+    "options": ["Seven Sages (Saptarishis)", "Only Brahma", "Only Indra", "Only Narada"],
+    "answer": "Seven Sages (Saptarishis)"
+  },
+  {
+    "puranaId": 15,
+    "question": "What does the Matsya avatar symbolize?",
+    "options": ["Protection of life and knowledge", "Destruction only", "Material wealth", "Political power"],
+    "answer": "Protection of life and knowledge"
+  },
+  {
+    "puranaId": 15,
+    "question": "Who protects creation in every age?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which quality is emphasized in the story of Manu?",
+    "options": ["Faith", "Greed", "Hatred", "Pride"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 15,
+    "question": "What should devotees have in times of difficulty?",
+    "options": ["Trust in God", "Fear", "Hatred", "Greed"],
+    "answer": "Trust in God"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which path leads to divine protection?",
+    "options": ["Devotion", "Violence", "Greed", "Dishonesty"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which quality destroys spiritual growth?",
+    "options": ["Ego", "Humility", "Compassion", "Truthfulness"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is considered temporary?",
+    "options": ["Material possessions", "The soul", "Truth", "Dharma"],
+    "answer": "Material possessions"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is eternal?",
+    "options": ["The soul", "The body", "Money", "Kingdoms"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 15,
+    "question": "Who grants protection to sincere devotees?",
+    "options": ["Lord Vishnu", "Indra", "Kubera", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is the purpose of human life according to the Matsya Purana?",
+    "options": ["To realize God", "To gain wealth", "To conquer kingdoms", "To seek fame"],
+    "answer": "To realize God"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is the reward of following Dharma?",
+    "options": ["Peace and liberation", "Fear", "Confusion", "Sorrow"],
+    "answer": "Peace and liberation"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is the central teaching of the Matsya Purana?",
+    "options": [
+      "Faith, devotion, preservation of knowledge, and righteous living lead to divine grace.",
+      "Material wealth is life's greatest goal.",
+      "Political power is eternal.",
+      "Only rituals bring salvation."
+    ],
+    "answer": "Faith, devotion, preservation of knowledge, and righteous living lead to divine grace."
+  },
+  {
+    "puranaId": 15,
+    "question": "Who narrated the Matsya Purana to King Satyavrata?",
+    "options": ["Lord Matsya", "Narada", "Brahma", "Shiva"],
+    "answer": "Lord Matsya"
+  },
+  {
+    "puranaId": 15,
+    "question": "Why did Lord Vishnu take the Matsya avatar?",
+    "options": ["To save creation from the great flood", "To defeat Ravana", "To build heaven", "To create humans"],
+    "answer": "To save creation from the great flood"
+  },
+  {
+    "puranaId": 15,
+    "question": "What happened to the tiny fish kept by King Satyavrata?",
+    "options": ["It kept growing rapidly", "It disappeared", "It became a bird", "It turned into a tree"],
+    "answer": "It kept growing rapidly"
+  },
+  {
+    "puranaId": 15,
+    "question": "Where did Satyavrata first keep the small fish?",
+    "options": ["In a water pot", "In the ocean", "In a river", "In a lake"],
+    "answer": "In a water pot"
+  },
+  {
+    "puranaId": 15,
+    "question": "After outgrowing the pot, where was the fish placed?",
+    "options": ["A pond", "A palace", "A cave", "A temple"],
+    "answer": "A pond"
+  },
+  {
+    "puranaId": 15,
+    "question": "What finally convinced Satyavrata that the fish was divine?",
+    "options": ["It filled the ocean with its huge form", "It spoke only once", "It disappeared", "It produced gold"],
+    "answer": "It filled the ocean with its huge form"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which scripture was rescued by Lord Matsya?",
+    "options": ["The Vedas", "The Upanishads", "The Mahabharata", "The Ramayana"],
+    "answer": "The Vedas"
+  },
+  {
+    "puranaId": 15,
+    "question": "What does the great flood symbolize?",
+    "options": ["The cyclical dissolution of creation", "The end of Dharma", "Human victory", "Political change"],
+    "answer": "The cyclical dissolution of creation"
+  },
+  {
+    "puranaId": 15,
+    "question": "Who preserved the knowledge of creation after the flood?",
+    "options": ["Vaivasvata Manu", "Indra", "Kubera", "Yama"],
+    "answer": "Vaivasvata Manu"
+  },
+  {
+    "puranaId": 15,
+    "question": "What quality did King Satyavrata show throughout the story?",
+    "options": ["Obedience to God", "Pride", "Cruelty", "Greed"],
+    "answer": "Obedience to God"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which virtue helps preserve Dharma?",
+    "options": ["Truthfulness", "Hatred", "Violence", "Jealousy"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 15,
+    "question": "What should accompany knowledge?",
+    "options": ["Humility", "Arrogance", "Greed", "Anger"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which quality is praised as essential for spiritual growth?",
+    "options": ["Faith", "Pride", "Luxury", "Power"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 15,
+    "question": "Who is the protector of sacred knowledge?",
+    "options": ["Lord Vishnu", "Indra", "Agni", "Kubera"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 15,
+    "question": "What should devotees do during difficult times?",
+    "options": ["Remain devoted to God", "Abandon faith", "Seek revenge", "Lose hope"],
+    "answer": "Remain devoted to God"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which quality destroys inner peace?",
+    "options": ["Greed", "Contentment", "Compassion", "Truthfulness"],
+    "answer": "Greed"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is the greatest wealth?",
+    "options": ["Spiritual wisdom", "Gold", "Jewels", "Land"],
+    "answer": "Spiritual wisdom"
+  },
+  {
+    "puranaId": 15,
+    "question": "Who blesses sincere devotees with protection?",
+    "options": ["Lord Vishnu", "Brahma", "Indra", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which path leads to liberation?",
+    "options": ["Bhakti and Dharma", "Violence", "Greed", "Hatred"],
+    "answer": "Bhakti and Dharma"
+  },
+  {
+    "puranaId": 15,
+    "question": "What should accompany acts of charity?",
+    "options": ["Selflessness", "Pride", "Recognition", "Expectation"],
+    "answer": "Selflessness"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is temporary according to the Matsya Purana?",
+    "options": ["Material possessions", "The soul", "Truth", "Dharma"],
+    "answer": "Material possessions"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is eternal?",
+    "options": ["The soul", "The body", "Money", "Kingdoms"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 15,
+    "question": "Who grants Moksha to sincere devotees?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Indra", "Kubera"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is the reward of sincere devotion?",
+    "options": ["Divine grace", "Political power", "Material wealth", "Public fame"],
+    "answer": "Divine grace"
+  },
+  {
+    "puranaId": 15,
+    "question": "According to the Matsya Purana, true success comes from?",
+    "options": [
+      "Faith, devotion, preservation of knowledge, and righteous living",
+      "Military strength",
+      "Political authority",
+      "Material wealth"
+    ],
+    "answer": "Faith, devotion, preservation of knowledge, and righteous living"
+  },
+  {
+    "puranaId": 15,
+    "question": "Who instructed King Satyavrata before the great flood?",
+    "options": ["Lord Matsya", "Narada", "Brahma", "Indra"],
+    "answer": "Lord Matsya"
+  },
+  {
+    "puranaId": 15,
+    "question": "What did Lord Matsya ask Manu to preserve?",
+    "options": ["Seeds of all living beings", "Gold", "Weapons", "Palaces"],
+    "answer": "Seeds of all living beings"
+  },
+  {
+    "puranaId": 15,
+    "question": "What does the boat in the Matsya Purana symbolize?",
+    "options": ["Protection through Dharma", "Material wealth", "Political power", "Luxury"],
+    "answer": "Protection through Dharma"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which quality helped Manu survive the flood?",
+    "options": ["Faith", "Greed", "Hatred", "Pride"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 15,
+    "question": "Who preserves the universe during every cosmic cycle?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which virtue is praised throughout the Matsya Purana?",
+    "options": ["Truthfulness", "Cruelty", "Violence", "Dishonesty"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 15,
+    "question": "What should accompany spiritual knowledge?",
+    "options": ["Humility", "Pride", "Jealousy", "Anger"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which quality destroys devotion?",
+    "options": ["Ego", "Compassion", "Patience", "Kindness"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is the greatest wealth according to the Matsya Purana?",
+    "options": ["Spiritual wisdom", "Gold", "Land", "Jewels"],
+    "answer": "Spiritual wisdom"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which quality should every devotee practice?",
+    "options": ["Compassion", "Hatred", "Cruelty", "Greed"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 15,
+    "question": "Who protects those who follow Dharma?",
+    "options": ["Lord Vishnu", "Indra", "Kubera", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which path leads to inner peace?",
+    "options": ["Devotion", "Violence", "Greed", "Hatred"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 15,
+    "question": "What should accompany charity?",
+    "options": ["Selflessness", "Pride", "Expectation", "Recognition"],
+    "answer": "Selflessness"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which quality removes ignorance?",
+    "options": ["Knowledge", "Greed", "Hatred", "Violence"],
+    "answer": "Knowledge"
+  },
+  {
+    "puranaId": 15,
+    "question": "What should a devotee avoid?",
+    "options": ["Pride", "Faith", "Truthfulness", "Patience"],
+    "answer": "Pride"
+  },
+  {
+    "puranaId": 15,
+    "question": "Who is the eternal protector of creation?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Yama"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is considered temporary?",
+    "options": ["Material wealth", "The soul", "Truth", "Dharma"],
+    "answer": "Material wealth"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is eternal?",
+    "options": ["The soul", "The body", "Money", "Kingdoms"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which quality strengthens faith?",
+    "options": ["Prayer", "Greed", "Anger", "Hatred"],
+    "answer": "Prayer"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is the reward of righteous living?",
+    "options": ["Peace", "Fear", "Confusion", "Sorrow"],
+    "answer": "Peace"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which virtue is praised as the highest?",
+    "options": ["Devotion", "Power", "Luxury", "Wealth"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is the purpose of spiritual knowledge?",
+    "options": ["Liberation", "Political success", "Material wealth", "Worldly fame"],
+    "answer": "Liberation"
+  },
+  {
+    "puranaId": 15,
+    "question": "Who blesses sincere devotees with wisdom?",
+    "options": ["Lord Vishnu", "Indra", "Agni", "Kubera"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is the final goal of every devotee?",
+    "options": ["Moksha", "Riches", "Power", "Kingdom"],
+    "answer": "Moksha"
+  },
+  {
+    "puranaId": 15,
+    "question": "According to the Matsya Purana, what leads to God's grace?",
+    "options": [
+      "Faith, devotion, compassion, and righteous living",
+      "Political authority",
+      "Military victories",
+      "Material prosperity"
+    ],
+    "answer": "Faith, devotion, compassion, and righteous living"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which quality is considered the greatest strength during difficult times?",
+    "options": ["Faith", "Wealth", "Power", "Fame"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 15,
+    "question": "What should every devotee cultivate daily?",
+    "options": ["Devotion", "Pride", "Greed", "Hatred"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which virtue protects society?",
+    "options": ["Truthfulness", "Dishonesty", "Cruelty", "Violence"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 15,
+    "question": "Who is the eternal protector of the universe?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Lord Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 15,
+    "question": "What should accompany every act of worship?",
+    "options": ["Sincerity", "Pride", "Greed", "Fear"],
+    "answer": "Sincerity"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which quality leads to lasting happiness?",
+    "options": ["Contentment", "Luxury", "Greed", "Anger"],
+    "answer": "Contentment"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which quality should a devotee avoid?",
+    "options": ["Ego", "Humility", "Kindness", "Patience"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is the greatest treasure according to the Matsya Purana?",
+    "options": ["Spiritual wisdom", "Gold", "Jewels", "Land"],
+    "answer": "Spiritual wisdom"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which virtue strengthens relationships?",
+    "options": ["Compassion", "Hatred", "Jealousy", "Cruelty"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 15,
+    "question": "Who grants wisdom to sincere devotees?",
+    "options": ["Lord Vishnu", "Kubera", "Agni", "Yama"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which quality helps overcome anger?",
+    "options": ["Patience", "Violence", "Hatred", "Greed"],
+    "answer": "Patience"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is considered the greatest charity?",
+    "options": ["Helping others selflessly", "Giving for fame", "Giving for power", "Giving for reward"],
+    "answer": "Helping others selflessly"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which path is repeatedly praised in the Matsya Purana?",
+    "options": ["Bhakti (Devotion)", "Materialism", "Violence", "Greed"],
+    "answer": "Bhakti (Devotion)"
+  },
+  {
+    "puranaId": 15,
+    "question": "What should accompany knowledge?",
+    "options": ["Humility", "Arrogance", "Pride", "Jealousy"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which quality purifies the heart?",
+    "options": ["Selfless service", "Greed", "Hatred", "Dishonesty"],
+    "answer": "Selfless service"
+  },
+  {
+    "puranaId": 15,
+    "question": "Who removes the suffering of sincere devotees?",
+    "options": ["Lord Vishnu", "Indra", "Varuna", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is temporary in life?",
+    "options": ["Material possessions", "The soul", "Truth", "Dharma"],
+    "answer": "Material possessions"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is eternal?",
+    "options": ["The soul", "The body", "Money", "Kingdoms"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which quality is praised as the foundation of Dharma?",
+    "options": ["Truthfulness", "Greed", "Violence", "Cruelty"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is the reward of sincere devotion?",
+    "options": ["Divine grace", "Political power", "Material wealth", "Public fame"],
+    "answer": "Divine grace"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is the purpose of human birth?",
+    "options": ["To attain God", "To earn wealth", "To gain fame", "To conquer kingdoms"],
+    "answer": "To attain God"
+  },
+  {
+    "puranaId": 15,
+    "question": "Who protects those who follow Dharma?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is the highest reward of righteous living?",
+    "options": ["Moksha", "Political authority", "Material success", "Worldly fame"],
+    "answer": "Moksha"
+  },
+  {
+    "puranaId": 15,
+    "question": "Which virtue should guide every action?",
+    "options": ["Righteousness", "Greed", "Hatred", "Pride"],
+    "answer": "Righteousness"
+  },
+  {
+    "puranaId": 15,
+    "question": "What is the ultimate message of the Matsya Purana?",
+    "options": [
+      "Faith, truth, devotion, compassion, and righteous living preserve Dharma and lead to liberation.",
+      "Material wealth is the greatest goal.",
+      "Political power is supreme.",
+      "Only rituals guarantee salvation."
+    ],
+    "answer": "Faith, truth, devotion, compassion, and righteous living preserve Dharma and lead to liberation."
+  }
+]

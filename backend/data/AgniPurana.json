@@ -1,0 +1,623 @@
+[
+  {
+    "puranaId": 8,
+    "question": "Who is the primary speaker of the Agni Purana?",
+    "options": ["Agni", "Vishnu", "Shiva", "Brahma"],
+    "answer": "Agni"
+  },
+  {
+    "puranaId": 8,
+    "question": "To whom does Agni narrate the Agni Purana?",
+    "options": ["Sage Vasistha", "Narada", "Vyasa", "Markandeya"],
+    "answer": "Sage Vasistha"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who compiled the Agni Purana?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Parashara"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 8,
+    "question": "The Agni Purana is one of the _____ Mahapuranas.",
+    "options": ["18", "12", "24", "10"],
+    "answer": "18"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which deity is associated with fire?",
+    "options": ["Agni", "Varuna", "Vayu", "Indra"],
+    "answer": "Agni"
+  },
+  {
+    "puranaId": 8,
+    "question": "The Agni Purana contains teachings on?",
+    "options": ["Dharma, rituals, architecture, warfare, and philosophy", "Music only", "Medicine only", "Astronomy only"],
+    "answer": "Dharma, rituals, architecture, warfare, and philosophy"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which path is repeatedly praised in the Agni Purana?",
+    "options": ["Dharma", "Greed", "Violence", "Hatred"],
+    "answer": "Dharma"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is considered the highest goal of human life?",
+    "options": ["Moksha", "Political power", "Material wealth", "Fame"],
+    "answer": "Moksha"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality is praised as the foundation of Dharma?",
+    "options": ["Truthfulness", "Cruelty", "Greed", "Jealousy"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who preserves the universe?",
+    "options": ["Lord Vishnu", "Lord Brahma", "Lord Shiva", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who creates the universe?",
+    "options": ["Lord Brahma", "Lord Vishnu", "Lord Shiva", "Indra"],
+    "answer": "Lord Brahma"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who is associated with the dissolution of the universe?",
+    "options": ["Lord Shiva", "Lord Vishnu", "Lord Brahma", "Agni"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality should accompany knowledge?",
+    "options": ["Humility", "Pride", "Greed", "Anger"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is considered temporary?",
+    "options": ["The physical body", "The soul", "Truth", "Dharma"],
+    "answer": "The physical body"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is eternal?",
+    "options": ["The soul", "Money", "The body", "Kingdoms"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality destroys spiritual progress?",
+    "options": ["Ego", "Compassion", "Patience", "Faith"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should accompany every charitable act?",
+    "options": ["Selflessness", "Recognition", "Pride", "Expectation"],
+    "answer": "Selflessness"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is considered the greatest wealth?",
+    "options": ["Spiritual wisdom", "Gold", "Silver", "Land"],
+    "answer": "Spiritual wisdom"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality leads to inner peace?",
+    "options": ["Contentment", "Greed", "Hatred", "Anger"],
+    "answer": "Contentment"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which virtue strengthens society?",
+    "options": ["Justice", "Cruelty", "Dishonesty", "Violence"],
+    "answer": "Justice"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who grants liberation to sincere devotees?",
+    "options": ["The Supreme Lord", "Indra", "Agni", "Kubera"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the purpose of studying sacred scriptures?",
+    "options": ["To understand Dharma and attain wisdom", "To become wealthy", "To gain fame", "To defeat enemies"],
+    "answer": "To understand Dharma and attain wisdom"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which path leads to liberation?",
+    "options": ["Devotion and righteous living", "Violence", "Greed", "Hatred"],
+    "answer": "Devotion and righteous living"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the reward of righteous actions?",
+    "options": ["Peace and spiritual progress", "Fear", "Confusion", "Sorrow"],
+    "answer": "Peace and spiritual progress"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the central teaching of the Agni Purana?",
+    "options": [
+      "Follow Dharma, gain knowledge, practice devotion, and attain liberation.",
+      "Material wealth is the highest goal.",
+      "Political power is supreme.",
+      "Only rituals guarantee salvation."
+    ],
+    "answer": "Follow Dharma, gain knowledge, practice devotion, and attain liberation."
+  },
+  {
+    "puranaId": 8,
+    "question": "Which Veda is closely associated with Agni?",
+    "options": ["Rig Veda", "Sama Veda", "Yajur Veda", "Atharva Veda"],
+    "answer": "Rig Veda"
+  },
+  {
+    "puranaId": 8,
+    "question": "Agni is primarily the deity of?",
+    "options": ["Fire", "Water", "Wind", "Earth"],
+    "answer": "Fire"
+  },
+  {
+    "puranaId": 8,
+    "question": "What role does Agni play in Vedic sacrifices?",
+    "options": ["Messenger between humans and gods", "King of Heaven", "Lord of Death", "Creator of the Universe"],
+    "answer": "Messenger between humans and gods"
+  },
+  {
+    "puranaId": 8,
+    "question": "The Agni Purana gives detailed information about?",
+    "options": ["Temple architecture", "Space travel", "Modern science", "Banking"],
+    "answer": "Temple architecture"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which art is described in the Agni Purana?",
+    "options": ["Iconography", "Photography", "Cinema", "Printing"],
+    "answer": "Iconography"
+  },
+  {
+    "puranaId": 8,
+    "question": "The Agni Purana contains descriptions of?",
+    "options": ["Sacred rituals", "Computer programming", "Industrial machines", "Airplanes"],
+    "answer": "Sacred rituals"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which epic is summarized in the Agni Purana?",
+    "options": ["Ramayana", "Only Greek epics", "Iliad", "Odyssey"],
+    "answer": "Ramayana"
+  },
+  {
+    "puranaId": 8,
+    "question": "The Agni Purana also contains a summary of?",
+    "options": ["Mahabharata", "Bible", "Quran", "Tripitaka"],
+    "answer": "Mahabharata"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which science is discussed in the Agni Purana?",
+    "options": ["Ayurveda", "Rocket science", "Genetics", "Meteorology only"],
+    "answer": "Ayurveda"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality is essential for a student?",
+    "options": ["Discipline", "Laziness", "Pride", "Greed"],
+    "answer": "Discipline"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should accompany learning?",
+    "options": ["Humility", "Arrogance", "Anger", "Jealousy"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which virtue leads to success in life?",
+    "options": ["Honesty", "Dishonesty", "Hatred", "Violence"],
+    "answer": "Honesty"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should accompany acts of charity?",
+    "options": ["Compassion", "Pride", "Recognition", "Expectation"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality should rulers possess?",
+    "options": ["Justice", "Cruelty", "Greed", "Partiality"],
+    "answer": "Justice"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is considered a king's primary duty?",
+    "options": ["Protecting Dharma", "Collecting wealth", "Seeking luxury", "Conquering all kingdoms"],
+    "answer": "Protecting Dharma"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality destroys wisdom?",
+    "options": ["Ego", "Patience", "Faith", "Truthfulness"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is considered the greatest wealth?",
+    "options": ["Knowledge", "Gold", "Silver", "Land"],
+    "answer": "Knowledge"
+  },
+  {
+    "puranaId": 8,
+    "question": "What leads to inner peace?",
+    "options": ["Contentment", "Greed", "Anger", "Hatred"],
+    "answer": "Contentment"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who grants Moksha to sincere devotees?",
+    "options": ["The Supreme Lord", "Indra", "Agni", "Kubera"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the purpose of performing Yajnas?",
+    "options": ["Spiritual purification", "Political success", "Material luxury", "Entertainment"],
+    "answer": "Spiritual purification"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which path is praised throughout the Agni Purana?",
+    "options": ["Bhakti and Dharma", "Violence", "Greed", "Hatred"],
+    "answer": "Bhakti and Dharma"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the reward of righteous living?",
+    "options": ["Peace and spiritual progress", "Fear", "Confusion", "Sorrow"],
+    "answer": "Peace and spiritual progress"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should every devotee seek?",
+    "options": ["God's grace", "Political power", "Luxury", "Material wealth"],
+    "answer": "God's grace"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the highest goal of human life?",
+    "options": ["Liberation (Moksha)", "Political authority", "Wealth", "Popularity"],
+    "answer": "Liberation (Moksha)"
+  },
+  {
+    "puranaId": 8,
+    "question": "According to the Agni Purana, what leads to liberation?",
+    "options": [
+      "Knowledge, devotion, righteous conduct, and truth",
+      "Political power",
+      "Material wealth",
+      "Military victories"
+    ],
+    "answer": "Knowledge, devotion, righteous conduct, and truth"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which virtue is considered the foundation of Dharma?",
+    "options": ["Truthfulness", "Greed", "Cruelty", "Hatred"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 8,
+    "question": "What does the Agni Purana teach about education?",
+    "options": ["Knowledge should be used for righteous living", "Knowledge is only for wealth", "Education is unnecessary", "Knowledge is only for rulers"],
+    "answer": "Knowledge should be used for righteous living"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality strengthens devotion?",
+    "options": ["Faith", "Pride", "Anger", "Greed"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who should perform duties according to Dharma?",
+    "options": ["Everyone", "Only kings", "Only priests", "Only warriors"],
+    "answer": "Everyone"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should accompany every ritual?",
+    "options": ["Sincerity", "Pride", "Fear", "Recognition"],
+    "answer": "Sincerity"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality leads to a peaceful society?",
+    "options": ["Justice", "Violence", "Greed", "Hatred"],
+    "answer": "Justice"
+  },
+  {
+    "puranaId": 8,
+    "question": "The Agni Purana gives guidance on which subject besides religion?",
+    "options": ["Statecraft", "Computer science", "Photography", "Aviation"],
+    "answer": "Statecraft"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which medical system is described in the Agni Purana?",
+    "options": ["Ayurveda", "Homeopathy", "Unani", "Acupuncture"],
+    "answer": "Ayurveda"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should a ruler always protect?",
+    "options": ["Dharma", "Luxury", "Personal wealth", "Fame"],
+    "answer": "Dharma"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality destroys spiritual knowledge?",
+    "options": ["Ego", "Humility", "Patience", "Faith"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is considered temporary?",
+    "options": ["Material possessions", "The soul", "Truth", "Dharma"],
+    "answer": "Material possessions"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is eternal?",
+    "options": ["The soul", "The body", "Money", "Power"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality purifies the heart?",
+    "options": ["Compassion", "Hatred", "Cruelty", "Jealousy"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the greatest form of charity?",
+    "options": ["Helping others selflessly", "Giving for fame", "Giving with pride", "Giving for reward"],
+    "answer": "Helping others selflessly"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who grants liberation to sincere devotees?",
+    "options": ["The Supreme Lord", "Agni", "Indra", "Kubera"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which path is praised throughout the Agni Purana?",
+    "options": ["Bhakti", "Violence", "Greed", "Hatred"],
+    "answer": "Bhakti"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should accompany knowledge?",
+    "options": ["Humility", "Arrogance", "Pride", "Jealousy"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality helps overcome anger?",
+    "options": ["Patience", "Violence", "Hatred", "Greed"],
+    "answer": "Patience"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the reward of righteous actions?",
+    "options": ["Peace", "Fear", "Confusion", "Sorrow"],
+    "answer": "Peace"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the highest wealth according to the Agni Purana?",
+    "options": ["Spiritual wisdom", "Gold", "Land", "Jewels"],
+    "answer": "Spiritual wisdom"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should every devotee seek?",
+    "options": ["God's grace", "Political power", "Luxury", "Worldly fame"],
+    "answer": "God's grace"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the highest goal of spiritual practice?",
+    "options": ["Moksha", "Material success", "Political authority", "Public recognition"],
+    "answer": "Moksha"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should guide every decision?",
+    "options": ["Dharma", "Greed", "Hatred", "Pride"],
+    "answer": "Dharma"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who protects those who follow Dharma?",
+    "options": ["The Supreme Lord", "Indra", "Agni", "Yama"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 8,
+    "question": "According to the Agni Purana, what leads to liberation?",
+    "options": [
+      "Knowledge, devotion, truthfulness, compassion, and righteous conduct",
+      "Political power",
+      "Material wealth",
+      "Military strength"
+    ],
+    "answer": "Knowledge, devotion, truthfulness, compassion, and righteous conduct"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which deity represents the sacred fire in Vedic rituals?",
+    "options": ["Agni", "Varuna", "Vayu", "Indra"],
+    "answer": "Agni"
+  },
+  {
+    "puranaId": 8,
+    "question": "The Agni Purana teaches that Dharma should guide?",
+    "options": ["Every aspect of life", "Only religious rituals", "Only kings", "Only priests"],
+    "answer": "Every aspect of life"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality is essential for attaining spiritual wisdom?",
+    "options": ["Humility", "Arrogance", "Greed", "Jealousy"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is considered the greatest enemy of spiritual progress?",
+    "options": ["Ego", "Compassion", "Truthfulness", "Patience"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which virtue is praised as the root of righteous living?",
+    "options": ["Truthfulness", "Violence", "Hatred", "Dishonesty"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should accompany every act of worship?",
+    "options": ["Sincerity", "Pride", "Recognition", "Fear"],
+    "answer": "Sincerity"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality brings harmony to society?",
+    "options": ["Justice", "Cruelty", "Greed", "Violence"],
+    "answer": "Justice"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should a ruler protect above all else?",
+    "options": ["Dharma", "Wealth", "Luxury", "Fame"],
+    "answer": "Dharma"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which path leads to lasting happiness?",
+    "options": ["Righteous living", "Materialism", "Greed", "Hatred"],
+    "answer": "Righteous living"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is considered temporary?",
+    "options": ["Material wealth", "The soul", "Truth", "Dharma"],
+    "answer": "Material wealth"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is eternal?",
+    "options": ["The soul", "The body", "Gold", "Power"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality strengthens devotion?",
+    "options": ["Faith", "Pride", "Anger", "Greed"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the highest form of charity?",
+    "options": ["Helping others selflessly", "Giving for fame", "Giving with pride", "Giving for reward"],
+    "answer": "Helping others selflessly"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which science is explained in the Agni Purana?",
+    "options": ["Ayurveda", "Quantum Physics", "Computer Science", "Economics"],
+    "answer": "Ayurveda"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which subject is discussed along with religion in the Agni Purana?",
+    "options": ["Architecture", "Photography", "Aviation", "Robotics"],
+    "answer": "Architecture"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should every devotee seek?",
+    "options": ["God's grace", "Political power", "Luxury", "Worldly fame"],
+    "answer": "God's grace"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality removes ignorance?",
+    "options": ["Knowledge", "Hatred", "Violence", "Jealousy"],
+    "answer": "Knowledge"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality helps overcome anger?",
+    "options": ["Patience", "Violence", "Greed", "Hatred"],
+    "answer": "Patience"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the greatest wealth?",
+    "options": ["Spiritual wisdom", "Gold", "Silver", "Land"],
+    "answer": "Spiritual wisdom"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who grants liberation to sincere devotees?",
+    "options": ["The Supreme Lord", "Agni", "Indra", "Kubera"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality purifies the heart?",
+    "options": ["Compassion", "Hatred", "Cruelty", "Greed"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the reward of following Dharma?",
+    "options": ["Peace and spiritual progress", "Fear", "Confusion", "Sorrow"],
+    "answer": "Peace and spiritual progress"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the highest goal of human life?",
+    "options": ["Moksha", "Material wealth", "Political power", "Public fame"],
+    "answer": "Moksha"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which path is repeatedly praised in the Agni Purana?",
+    "options": ["Bhakti and Dharma", "Violence", "Materialism", "Greed"],
+    "answer": "Bhakti and Dharma"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the ultimate message of the Agni Purana?",
+    "options": [
+      "Live according to Dharma, acquire true knowledge, worship sincerely, and attain liberation.",
+      "Material wealth is the highest achievement.",
+      "Political power is eternal.",
+      "Only rituals guarantee salvation."
+    ],
+    "answer": "Live according to Dharma, acquire true knowledge, worship sincerely, and attain liberation."
+  }
+]
+

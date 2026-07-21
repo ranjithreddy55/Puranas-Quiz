@@ -1,0 +1,622 @@
+[
+  {
+    "puranaId": 13,
+    "question": "Who compiled the Vamana Purana?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vasistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which avatar of Lord Vishnu is the central focus of the Vamana Purana?",
+    "options": ["Vamana", "Varaha", "Narasimha", "Kurma"],
+    "answer": "Vamana"
+  },
+  {
+    "puranaId": 13,
+    "question": "Vamana is the _____ avatar of Lord Vishnu.",
+    "options": ["Fifth", "Third", "Sixth", "Tenth"],
+    "answer": "Fifth"
+  },
+  {
+    "puranaId": 13,
+    "question": "Who was the father of Lord Vamana?",
+    "options": ["Kashyapa", "Atri", "Bhrigu", "Vasistha"],
+    "answer": "Kashyapa"
+  },
+  {
+    "puranaId": 13,
+    "question": "Who was the mother of Lord Vamana?",
+    "options": ["Aditi", "Diti", "Anasuya", "Arundhati"],
+    "answer": "Aditi"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which king was visited by Lord Vamana?",
+    "options": ["Mahabali", "Harishchandra", "Dasharatha", "Janaka"],
+    "answer": "Mahabali"
+  },
+  {
+    "puranaId": 13,
+    "question": "King Mahabali belonged to which race?",
+    "options": ["Asura", "Deva", "Yaksha", "Gandharva"],
+    "answer": "Asura"
+  },
+  {
+    "puranaId": 13,
+    "question": "How many steps of land did Vamana ask from Mahabali?",
+    "options": ["Three", "Two", "Five", "Seven"],
+    "answer": "Three"
+  },
+  {
+    "puranaId": 13,
+    "question": "What form did Vamana assume after receiving the promise?",
+    "options": ["Trivikrama", "Narasimha", "Kurma", "Matsya"],
+    "answer": "Trivikrama"
+  },
+  {
+    "puranaId": 13,
+    "question": "What did Vamana cover with His first step?",
+    "options": ["Earth", "Heaven", "Ocean", "Mountains"],
+    "answer": "Earth"
+  },
+  {
+    "puranaId": 13,
+    "question": "What did Vamana cover with His second step?",
+    "options": ["Heaven", "Earth", "Netherworld", "Ocean"],
+    "answer": "Heaven"
+  },
+  {
+    "puranaId": 13,
+    "question": "Where did Mahabali offer the third step?",
+    "options": ["On his head", "On his throne", "On the ground", "On a mountain"],
+    "answer": "On his head"
+  },
+  {
+    "puranaId": 13,
+    "question": "What quality of Mahabali is greatly admired?",
+    "options": ["Truthfulness", "Cruelty", "Greed", "Jealousy"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 13,
+    "question": "Who was the guru of Mahabali?",
+    "options": ["Shukracharya", "Brihaspati", "Narada", "Vasistha"],
+    "answer": "Shukracharya"
+  },
+  {
+    "puranaId": 13,
+    "question": "Who is the guru of the Devas?",
+    "options": ["Brihaspati", "Shukracharya", "Narada", "Agastya"],
+    "answer": "Brihaspati"
+  },
+  {
+    "puranaId": 13,
+    "question": "What virtue is emphasized through Mahabali's story?",
+    "options": ["Humility", "Pride", "Greed", "Violence"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 13,
+    "question": "What does the Vamana avatar symbolize?",
+    "options": ["Victory of Dharma", "Material wealth", "Political power", "Luxury"],
+    "answer": "Victory of Dharma"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which quality destroys spiritual growth?",
+    "options": ["Ego", "Faith", "Compassion", "Patience"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 13,
+    "question": "Who restored the kingdom of the Devas?",
+    "options": ["Lord Vamana", "Lord Shiva", "Indra", "Brahma"],
+    "answer": "Lord Vamana"
+  },
+  {
+    "puranaId": 13,
+    "question": "What should accompany charity?",
+    "options": ["Humility", "Pride", "Greed", "Anger"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which path leads to divine grace?",
+    "options": ["Devotion", "Violence", "Greed", "Hatred"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 13,
+    "question": "Who protects those who follow Dharma?",
+    "options": ["Lord Vishnu", "Kubera", "Agni", "Varuna"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is considered temporary?",
+    "options": ["Material possessions", "The soul", "Truth", "Devotion"],
+    "answer": "Material possessions"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is eternal?",
+    "options": ["The soul", "The body", "Kingdoms", "Money"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is the central teaching of the Vamana Purana?",
+    "options": [
+      "Humility, devotion, truthfulness, and Dharma lead to liberation.",
+      "Material wealth is life's greatest achievement.",
+      "Political power is eternal.",
+      "Only rituals bring salvation."
+    ],
+    "answer": "Humility, devotion, truthfulness, and Dharma lead to liberation."
+  },
+  {
+    "puranaId": 13,
+    "question": "What does the name 'Trivikrama' mean?",
+    "options": ["One who measured the three worlds", "Lord of Mountains", "Protector of Oceans", "King of Heaven"],
+    "answer": "One who measured the three worlds"
+  },
+  {
+    "puranaId": 13,
+    "question": "Who was the grandfather of King Mahabali?",
+    "options": ["Prahlada", "Hiranyaksha", "Virochana", "Kashyapa"],
+    "answer": "Prahlada"
+  },
+  {
+    "puranaId": 13,
+    "question": "Who was Mahabali's father?",
+    "options": ["Virochana", "Prahlada", "Hiranyakashipu", "Indra"],
+    "answer": "Virochana"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which king is remembered for keeping his promise even after losing everything?",
+    "options": ["Mahabali", "Harishchandra", "Dasharatha", "Janaka"],
+    "answer": "Mahabali"
+  },
+  {
+    "puranaId": 13,
+    "question": "What did Vamana carry as a young Brahmachari?",
+    "options": ["Umbrella and water pot", "Bow and arrows", "Sword", "Trident"],
+    "answer": "Umbrella and water pot"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which quality did Mahabali never abandon?",
+    "options": ["Generosity", "Cruelty", "Greed", "Dishonesty"],
+    "answer": "Generosity"
+  },
+  {
+    "puranaId": 13,
+    "question": "Who warned Mahabali not to grant Vamana's request?",
+    "options": ["Shukracharya", "Indra", "Narada", "Agni"],
+    "answer": "Shukracharya"
+  },
+  {
+    "puranaId": 13,
+    "question": "Why did Mahabali still fulfill his promise?",
+    "options": ["He valued truth above everything", "He was afraid", "He wanted wealth", "He sought power"],
+    "answer": "He valued truth above everything"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which virtue is most admired in Mahabali?",
+    "options": ["Keeping one's word", "Pride", "Luxury", "Ambition"],
+    "answer": "Keeping one's word"
+  },
+  {
+    "puranaId": 13,
+    "question": "Lord Vamana is an incarnation of whom?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Lord Brahma", "Lord Ganesha"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 13,
+    "question": "What lesson does Vamana teach about power?",
+    "options": ["Power should be guided by Dharma", "Power is everything", "Power comes from wealth", "Power is permanent"],
+    "answer": "Power should be guided by Dharma"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is the greatest ornament of a devotee?",
+    "options": ["Humility", "Gold", "Jewels", "Royal clothes"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which quality should be avoided?",
+    "options": ["Pride", "Compassion", "Truthfulness", "Patience"],
+    "answer": "Pride"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is the reward of following Dharma?",
+    "options": ["Peace", "Fear", "Confusion", "Sorrow"],
+    "answer": "Peace"
+  },
+  {
+    "puranaId": 13,
+    "question": "Who blesses sincere devotees?",
+    "options": ["Lord Vishnu", "Indra", "Kubera", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which path is praised throughout the Vamana Purana?",
+    "options": ["Bhakti", "Violence", "Greed", "Hatred"],
+    "answer": "Bhakti"
+  },
+  {
+    "puranaId": 13,
+    "question": "What should every act of charity include?",
+    "options": ["Selflessness", "Pride", "Expectation", "Fame"],
+    "answer": "Selflessness"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which quality strengthens devotion?",
+    "options": ["Faith", "Jealousy", "Greed", "Hatred"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is the greatest wealth?",
+    "options": ["Devotion", "Gold", "Land", "Jewels"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 13,
+    "question": "What should devotees remember daily?",
+    "options": ["Lord Vishnu", "Material wealth", "Political power", "Luxury"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which quality removes ignorance?",
+    "options": ["Knowledge", "Greed", "Hatred", "Violence"],
+    "answer": "Knowledge"
+  },
+  {
+    "puranaId": 13,
+    "question": "Who protects those who surrender completely?",
+    "options": ["Lord Vishnu", "Brahma", "Indra", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 13,
+    "question": "What leads to liberation?",
+    "options": ["Devotion and righteous living", "Political influence", "Wealth", "Luxury"],
+    "answer": "Devotion and righteous living"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is the reward of sincere devotion?",
+    "options": ["Divine grace", "Political authority", "Material riches", "Worldly fame"],
+    "answer": "Divine grace"
+  },
+  {
+    "puranaId": 13,
+    "question": "According to the Vamana Purana, what brings true greatness?",
+    "options": [
+      "Humility, truthfulness, generosity, and devotion",
+      "Political power",
+      "Military victories",
+      "Material wealth"
+    ],
+    "answer": "Humility, truthfulness, generosity, and devotion"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which virtue made Mahabali famous throughout the three worlds?",
+    "options": ["Generosity", "Cruelty", "Pride", "Greed"],
+    "answer": "Generosity"
+  },
+  {
+    "puranaId": 13,
+    "question": "What did Lord Vamana request from King Mahabali?",
+    "options": ["Three paces of land", "A kingdom", "Gold", "A palace"],
+    "answer": "Three paces of land"
+  },
+  {
+    "puranaId": 13,
+    "question": "Who recognized Vamana as Lord Vishnu?",
+    "options": ["Shukracharya", "Indra", "Agni", "Narada"],
+    "answer": "Shukracharya"
+  },
+  {
+    "puranaId": 13,
+    "question": "What did Mahabali place before Lord Vamana for the third step?",
+    "options": ["His head", "His throne", "His crown", "His palace"],
+    "answer": "His head"
+  },
+  {
+    "puranaId": 13,
+    "question": "What quality did Mahabali demonstrate by honoring his promise?",
+    "options": ["Integrity", "Fear", "Pride", "Selfishness"],
+    "answer": "Integrity"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which festival celebrates the return of King Mahabali?",
+    "options": ["Onam", "Diwali", "Holi", "Navaratri"],
+    "answer": "Onam"
+  },
+  {
+    "puranaId": 13,
+    "question": "In which Indian state is Onam mainly celebrated?",
+    "options": ["Kerala", "Tamil Nadu", "Karnataka", "Odisha"],
+    "answer": "Kerala"
+  },
+  {
+    "puranaId": 13,
+    "question": "What did Lord Vishnu grant Mahabali after testing him?",
+    "options": ["A place in Sutala", "Heaven", "Earth", "Mount Kailash"],
+    "answer": "A place in Sutala"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which virtue is superior to material wealth?",
+    "options": ["Righteousness", "Luxury", "Power", "Fame"],
+    "answer": "Righteousness"
+  },
+  {
+    "puranaId": 13,
+    "question": "Who is considered the protector of Dharma?",
+    "options": ["Lord Vishnu", "Lord Brahma", "Indra", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 13,
+    "question": "What does Vamana's small form symbolize?",
+    "options": ["Humility", "Weakness", "Fear", "Luxury"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 13,
+    "question": "What does Trivikrama's cosmic form symbolize?",
+    "options": ["God's infinite power", "Human strength", "Political rule", "Material success"],
+    "answer": "God's infinite power"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which quality pleases Lord Vishnu the most?",
+    "options": ["Devotion", "Pride", "Greed", "Violence"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 13,
+    "question": "What should always guide charity?",
+    "options": ["Compassion", "Ego", "Pride", "Recognition"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which quality destroys inner peace?",
+    "options": ["Greed", "Patience", "Truthfulness", "Faith"],
+    "answer": "Greed"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is considered the greatest gift to God?",
+    "options": ["A sincere heart", "Gold", "Jewels", "Land"],
+    "answer": "A sincere heart"
+  },
+  {
+    "puranaId": 13,
+    "question": "Who rewards sincere devotion?",
+    "options": ["Lord Vishnu", "Kubera", "Indra", "Yama"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 13,
+    "question": "What should be conquered before conquering others?",
+    "options": ["One's ego", "Enemies", "Kingdoms", "Nature"],
+    "answer": "One's ego"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which path leads to inner peace?",
+    "options": ["Righteous living", "Greed", "Violence", "Hatred"],
+    "answer": "Righteous living"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is the highest wealth according to the Vamana Purana?",
+    "options": ["Spiritual wisdom", "Gold", "Jewels", "Land"],
+    "answer": "Spiritual wisdom"
+  },
+  {
+    "puranaId": 13,
+    "question": "What should every devotee cultivate?",
+    "options": ["Humility", "Arrogance", "Jealousy", "Dishonesty"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which virtue leads to God's blessings?",
+    "options": ["Truthfulness", "Greed", "Hatred", "Cruelty"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is the result of following Dharma?",
+    "options": ["Peace and prosperity", "Fear", "Confusion", "Sorrow"],
+    "answer": "Peace and prosperity"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is the final goal of a devotee?",
+    "options": ["Moksha", "Wealth", "Power", "Fame"],
+    "answer": "Moksha"
+  },
+  {
+    "puranaId": 13,
+    "question": "According to the Vamana Purana, true greatness comes from?",
+    "options": [
+      "Humility, devotion, and righteousness",
+      "Military victories",
+      "Political authority",
+      "Material wealth"
+    ],
+    "answer": "Humility, devotion, and righteousness"
+  },
+  {
+    "puranaId": 13,
+    "question": "Who is known as the protector of the universe in the Vamana Purana?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Lord Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which virtue is considered the foundation of Dharma?",
+    "options": ["Truthfulness", "Greed", "Pride", "Violence"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which quality should every ruler possess?",
+    "options": ["Justice", "Cruelty", "Selfishness", "Jealousy"],
+    "answer": "Justice"
+  },
+  {
+    "puranaId": 13,
+    "question": "What should accompany leadership?",
+    "options": ["Humility", "Arrogance", "Greed", "Luxury"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 13,
+    "question": "Who protects those who surrender with complete faith?",
+    "options": ["Lord Vishnu", "Kubera", "Agni", "Yama"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is considered temporary in life?",
+    "options": ["Material wealth", "The soul", "Truth", "Devotion"],
+    "answer": "Material wealth"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is eternal according to the Purana?",
+    "options": ["The soul", "The body", "Kingdoms", "Gold"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which quality removes ignorance?",
+    "options": ["Spiritual knowledge", "Greed", "Hatred", "Violence"],
+    "answer": "Spiritual knowledge"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which path is praised throughout the Vamana Purana?",
+    "options": ["Bhakti Yoga", "Materialism", "Violence", "Greed"],
+    "answer": "Bhakti Yoga"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is the greatest offering to Lord Vishnu?",
+    "options": ["Pure devotion", "Gold", "Jewels", "Palaces"],
+    "answer": "Pure devotion"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which virtue strengthens society?",
+    "options": ["Compassion", "Hatred", "Dishonesty", "Cruelty"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 13,
+    "question": "What should every devotee avoid?",
+    "options": ["Ego", "Faith", "Truthfulness", "Kindness"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 13,
+    "question": "Who grants liberation to sincere devotees?",
+    "options": ["Lord Vishnu", "Indra", "Brahma", "Varuna"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is considered the greatest pilgrimage?",
+    "options": ["A heart filled with devotion", "Owning temples", "Traveling abroad", "Performing sacrifices only"],
+    "answer": "A heart filled with devotion"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which quality brings inner peace?",
+    "options": ["Contentment", "Greed", "Anger", "Jealousy"],
+    "answer": "Contentment"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which virtue helps conquer anger?",
+    "options": ["Patience", "Violence", "Hatred", "Pride"],
+    "answer": "Patience"
+  },
+  {
+    "puranaId": 13,
+    "question": "Who is the ultimate refuge of all beings?",
+    "options": ["Lord Vishnu", "Indra", "Kubera", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is the purpose of human life according to the Vamana Purana?",
+    "options": ["To realize God", "To gain wealth", "To conquer kingdoms", "To achieve fame"],
+    "answer": "To realize God"
+  },
+  {
+    "puranaId": 13,
+    "question": "What should accompany every act of worship?",
+    "options": ["Faith", "Pride", "Greed", "Fear"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which quality is praised as the greatest ornament of a devotee?",
+    "options": ["Humility", "Luxury", "Power", "Status"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is the fruit of sincere devotion?",
+    "options": ["Divine grace", "Political success", "Material wealth", "Royal authority"],
+    "answer": "Divine grace"
+  },
+  {
+    "puranaId": 13,
+    "question": "Which quality destroys righteousness?",
+    "options": ["Greed", "Truth", "Charity", "Patience"],
+    "answer": "Greed"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is the highest wealth according to the Vamana Purana?",
+    "options": ["Devotion to God", "Gold", "Jewels", "Land"],
+    "answer": "Devotion to God"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is the ultimate reward of following Dharma?",
+    "options": ["Moksha (Liberation)", "Political power", "Material success", "Worldly fame"],
+    "answer": "Moksha (Liberation)"
+  },
+  {
+    "puranaId": 13,
+    "question": "What is the ultimate message of the Vamana Purana?",
+    "options": [
+      "Humility, truthfulness, devotion, and righteousness lead to God's grace and liberation.",
+      "Material wealth is life's greatest achievement.",
+      "Political power is supreme.",
+      "Only rituals bring salvation."
+    ],
+    "answer": "Humility, truthfulness, devotion, and righteousness lead to God's grace and liberation."
+  }
+]

@@ -1,0 +1,611 @@
+[
+  {
+    "puranaId": 1,
+    "question": "Who narrated the Bhagavata Purana to King Parikshit?",
+    "options": ["Shukadeva", "Vyasa", "Narada", "Suta"],
+    "answer": "Shukadeva"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who compiled the Bhagavata Purana?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vashistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which deity is the primary focus of the Bhagavata Purana?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 1,
+    "question": "To whom was the Bhagavata Purana narrated?",
+    "options": ["King Parikshit", "King Janaka", "King Dasharatha", "King Bharata"],
+    "answer": "King Parikshit"
+  },
+  {
+    "puranaId": 1,
+    "question": "For how many days did Shukadeva narrate the Bhagavata Purana?",
+    "options": ["7", "5", "10", "12"],
+    "answer": "7"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who cursed King Parikshit?",
+    "options": ["Shringi", "Durvasa", "Narada", "Vishwamitra"],
+    "answer": "Shringi"
+  },
+  {
+    "puranaId": 1,
+    "question": "What was the name of King Parikshit's father?",
+    "options": ["Abhimanyu", "Arjuna", "Yudhishthira", "Bhima"],
+    "answer": "Abhimanyu"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who protected Parikshit in his mother's womb?",
+    "options": ["Lord Krishna", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Krishna"
+  },
+  {
+    "puranaId": 1,
+    "question": "How many cantos (Skandhas) are there in the Bhagavata Purana?",
+    "options": ["12", "18", "10", "24"],
+    "answer": "12"
+  },
+  {
+    "puranaId": 1,
+    "question": "Approximately how many verses are in the Bhagavata Purana?",
+    "options": ["18000", "12000", "24000", "10000"],
+    "answer": "18000"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which avatar of Vishnu is described in great detail?",
+    "options": ["Krishna", "Rama", "Vamana", "Narasimha"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was Krishna's foster father?",
+    "options": ["Nanda", "Vasudeva", "Akrura", "Ugrasena"],
+    "answer": "Nanda"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was Krishna's foster mother?",
+    "options": ["Yashoda", "Devaki", "Rohini", "Kunti"],
+    "answer": "Yashoda"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who were Krishna's biological parents?",
+    "options": ["Vasudeva and Devaki", "Nanda and Yashoda", "Dasharatha and Kaushalya", "Pandu and Kunti"],
+    "answer": "Vasudeva and Devaki"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was Krishna's elder brother?",
+    "options": ["Balarama", "Arjuna", "Bhima", "Nakula"],
+    "answer": "Balarama"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which demon was killed by Krishna as an infant?",
+    "options": ["Putana", "Kansa", "Bakasura", "Aghasura"],
+    "answer": "Putana"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which mountain did Krishna lift?",
+    "options": ["Govardhana", "Kailasa", "Meru", "Vindhya"],
+    "answer": "Govardhana"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was the king of Mathura?",
+    "options": ["Kansa", "Jarasandha", "Shishupala", "Ugrasena"],
+    "answer": "Kansa"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who killed Kansa?",
+    "options": ["Krishna", "Balarama", "Arjuna", "Bhima"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was Prahlada's father?",
+    "options": ["Hiranyakashipu", "Hiranyaksha", "Bali", "Virochana"],
+    "answer": "Hiranyakashipu"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which avatar saved Prahlada?",
+    "options": ["Narasimha", "Varaha", "Vamana", "Kurma"],
+    "answer": "Narasimha"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was Dhruva's mother?",
+    "options": ["Suniti", "Suruchi", "Devaki", "Yashoda"],
+    "answer": "Suniti"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who guided Dhruva in his penance?",
+    "options": ["Narada", "Vyasa", "Shukadeva", "Vashistha"],
+    "answer": "Narada"
+  },
+  {
+    "puranaId": 1,
+    "question": "What did Dhruva become after receiving Vishnu's blessing?",
+    "options": ["Pole Star", "Sun", "Moon", "King of Heaven"],
+    "answer": "Pole Star"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which king performed 100 Ashwamedha sacrifices according to the Bhagavata Purana?",
+    "options": ["Prithu", "Harishchandra", "Dasharatha", "Janaka"],
+    "answer": "Prithu"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who is the son of King Uttanapada mentioned in the Bhagavata Purana?",
+    "options": ["Dhruva", "Prahlada", "Parikshit", "Bharata"],
+    "answer": "Dhruva"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who advised Dhruva to worship Lord Vishnu?",
+    "options": ["Narada", "Vyasa", "Shiva", "Brahma"],
+    "answer": "Narada"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was the mother of Lord Krishna?",
+    "options": ["Devaki", "Yashoda", "Rohini", "Kunti"],
+    "answer": "Devaki"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was Krishna's father?",
+    "options": ["Vasudeva", "Nanda", "Akrura", "Ugrasena"],
+    "answer": "Vasudeva"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which demon assumed the form of a cart to attack Krishna?",
+    "options": ["Shakatasura", "Putana", "Aghasura", "Bakasura"],
+    "answer": "Shakatasura"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which demon came as a whirlwind to carry Krishna away?",
+    "options": ["Trinavarta", "Putana", "Keshi", "Dhenukasura"],
+    "answer": "Trinavarta"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which serpent was subdued by Krishna in the Yamuna River?",
+    "options": ["Kaliya", "Takshaka", "Vasuki", "Shesha"],
+    "answer": "Kaliya"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was Krishna's devoted childhood friend?",
+    "options": ["Sudama", "Arjuna", "Uddhava", "Balarama"],
+    "answer": "Sudama"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which festival commemorates Krishna lifting Govardhana Hill?",
+    "options": ["Govardhan Puja", "Janmashtami", "Holi", "Diwali"],
+    "answer": "Govardhan Puja"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was the guru of Krishna and Balarama?",
+    "options": ["Sage Sandipani", "Vashistha", "Narada", "Vyasa"],
+    "answer": "Sage Sandipani"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which city became Krishna's kingdom after leaving Mathura?",
+    "options": ["Dwarka", "Ayodhya", "Indraprastha", "Kashi"],
+    "answer": "Dwarka"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was Krishna's principal queen?",
+    "options": ["Rukmini", "Satyabhama", "Radha", "Draupadi"],
+    "answer": "Rukmini"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who abducted Rukmini before her marriage?",
+    "options": ["Krishna", "Arjuna", "Balarama", "Pradyumna"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was the father of Prahlada?",
+    "options": ["Hiranyakashipu", "Bali", "Hiranyaksha", "Virochana"],
+    "answer": "Hiranyakashipu"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was the guru of Prahlada while in the demon school?",
+    "options": ["Shanda and Amarka", "Narada", "Shukra", "Brihaspati"],
+    "answer": "Shanda and Amarka"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who appeared from a pillar to protect Prahlada?",
+    "options": ["Narasimha", "Varaha", "Kurma", "Vamana"],
+    "answer": "Narasimha"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who killed the demon Bakasura?",
+    "options": ["Krishna", "Balarama", "Bhima", "Arjuna"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which demon took the form of a horse?",
+    "options": ["Keshi", "Bakasura", "Aghasura", "Putana"],
+    "answer": "Keshi"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who sent Akrura to bring Krishna to Mathura?",
+    "options": ["Kansa", "Ugrasena", "Jarasandha", "Balarama"],
+    "answer": "Kansa"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who killed the elephant Kuvalayapida?",
+    "options": ["Krishna", "Balarama", "Bhima", "Arjuna"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was restored to the throne after Kansa's death?",
+    "options": ["Ugrasena", "Vasudeva", "Akrura", "Balarama"],
+    "answer": "Ugrasena"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who is considered the supreme devotee in the Bhagavata Purana?",
+    "options": ["Prahlada", "Indra", "Ravana", "Duryodhana"],
+    "answer": "Prahlada"
+  },
+  {
+    "puranaId": 1,
+    "question": "What is the central teaching of the Bhagavata Purana?",
+    "options": [
+      "Devotion (Bhakti) to Lord Vishnu",
+      "Only rituals",
+      "Material wealth",
+      "Political power"
+    ],
+    "answer": "Devotion (Bhakti) to Lord Vishnu"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which sage narrated the Bhagavata Purana to the sages at Naimisharanya?",
+    "options": ["Suta", "Vyasa", "Narada", "Parashara"],
+    "answer": "Suta"
+  },
+  {
+    "puranaId": 1,
+    "question": "Where did the sages assemble to hear the Bhagavata Purana?",
+    "options": ["Naimisharanya", "Kurukshetra", "Prayagraj", "Ayodhya"],
+    "answer": "Naimisharanya"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was the father of Prahlada?",
+    "options": ["Hiranyakashipu", "Hiranyaksha", "Bali", "Virochana"],
+    "answer": "Hiranyakashipu"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who killed Hiranyakashipu?",
+    "options": ["Narasimha", "Varaha", "Vamana", "Krishna"],
+    "answer": "Narasimha"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was Prahlada's teacher?",
+    "options": ["Shanda and Amarka", "Narada", "Vyasa", "Brihaspati"],
+    "answer": "Shanda and Amarka"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which demon assumed the form of a giant crane?",
+    "options": ["Bakasura", "Keshi", "Putana", "Aghasura"],
+    "answer": "Bakasura"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which demon appeared as a huge serpent?",
+    "options": ["Aghasura", "Kaliya", "Takshaka", "Dhenuka"],
+    "answer": "Aghasura"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which demon came in the form of a donkey?",
+    "options": ["Dhenukasura", "Keshi", "Bakasura", "Trinavarta"],
+    "answer": "Dhenukasura"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who defeated Dhenukasura?",
+    "options": ["Balarama", "Krishna", "Arjuna", "Bhima"],
+    "answer": "Balarama"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was Krishna's sister?",
+    "options": ["Subhadra", "Draupadi", "Rukmini", "Satyabhama"],
+    "answer": "Subhadra"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who married Subhadra?",
+    "options": ["Arjuna", "Bhima", "Yudhishthira", "Nakula"],
+    "answer": "Arjuna"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was the son of Arjuna and Subhadra?",
+    "options": ["Abhimanyu", "Parikshit", "Janamejaya", "Pradyumna"],
+    "answer": "Abhimanyu"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was the son of Abhimanyu?",
+    "options": ["Parikshit", "Janamejaya", "Dhruva", "Prithu"],
+    "answer": "Parikshit"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which king listened to the Bhagavata Purana before his death?",
+    "options": ["Parikshit", "Janaka", "Harishchandra", "Prithu"],
+    "answer": "Parikshit"
+  },
+  {
+    "puranaId": 1,
+    "question": "How was King Parikshit destined to die?",
+    "options": ["Snake bite", "Battle", "Old age", "Fire"],
+    "answer": "Snake bite"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which serpent bit King Parikshit?",
+    "options": ["Takshaka", "Kaliya", "Vasuki", "Ananta"],
+    "answer": "Takshaka"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who performed the Snake Sacrifice after Parikshit's death?",
+    "options": ["Janamejaya", "Yudhishthira", "Arjuna", "Bhima"],
+    "answer": "Janamejaya"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who stopped the Snake Sacrifice?",
+    "options": ["Astika", "Narada", "Vyasa", "Shuka"],
+    "answer": "Astika"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which avatar rescued the Earth from the demon Hiranyaksha?",
+    "options": ["Varaha", "Narasimha", "Kurma", "Matsya"],
+    "answer": "Varaha"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was the mother of Dhruva?",
+    "options": ["Suniti", "Suruchi", "Devaki", "Yashoda"],
+    "answer": "Suniti"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was Dhruva's stepmother?",
+    "options": ["Suruchi", "Suniti", "Devaki", "Rohini"],
+    "answer": "Suruchi"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which sage blessed Dhruva?",
+    "options": ["Narada", "Vyasa", "Vashistha", "Atri"],
+    "answer": "Narada"
+  },
+  {
+    "puranaId": 1,
+    "question": "What did Dhruva attain after his penance?",
+    "options": ["Dhruva Star", "Indra's throne", "Kingship", "Heaven"],
+    "answer": "Dhruva Star"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who is regarded as the author of the Bhagavata Purana?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vashistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 1,
+    "question": "What is the primary path taught in the Bhagavata Purana?",
+    "options": ["Bhakti Yoga", "Karma Yoga", "Raja Yoga", "Hatha Yoga"],
+    "answer": "Bhakti Yoga"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which divine sage frequently appears throughout the Bhagavata Purana?",
+    "options": ["Narada", "Agastya", "Atri", "Markandeya"],
+    "answer": "Narada"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which Purana is especially devoted to Lord Krishna's life and teachings?",
+    "options": ["Bhagavata Purana", "Agni Purana", "Garuda Purana", "Linga Purana"],
+    "answer": "Bhagavata Purana"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who is the father of Sage Shukadeva?",
+    "options": ["Vedavyasa", "Narada", "Parashara", "Vashistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who narrated the Bhagavata Purana to the sages of Naimisharanya?",
+    "options": ["Suta Goswami", "Shukadeva", "Narada", "Parashara"],
+    "answer": "Suta Goswami"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which sage asked Suta to narrate the Bhagavata Purana?",
+    "options": ["Shaunaka", "Atri", "Vashistha", "Agastya"],
+    "answer": "Shaunaka"
+  },
+  {
+    "puranaId": 1,
+    "question": "How many Mahapuranas are traditionally recognized?",
+    "options": ["18", "12", "24", "16"],
+    "answer": "18"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which Purana is considered the essence of devotion to Lord Krishna?",
+    "options": ["Bhagavata Purana", "Skanda Purana", "Agni Purana", "Brahma Purana"],
+    "answer": "Bhagavata Purana"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who composed the Mahabharata and the Bhagavata Purana?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vashistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which king was cursed to die within seven days?",
+    "options": ["Parikshit", "Janamejaya", "Prithu", "Bharata"],
+    "answer": "Parikshit"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who gave the curse to King Parikshit?",
+    "options": ["Shringi", "Durvasa", "Narada", "Agastya"],
+    "answer": "Shringi"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was the son of Prahlada?",
+    "options": ["Virochana", "Bali", "Hiranyaksha", "Indra"],
+    "answer": "Virochana"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was the grandson of Prahlada?",
+    "options": ["Mahabali", "Takshaka", "Parikshit", "Prithu"],
+    "answer": "Mahabali"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which avatar appeared before King Bali?",
+    "options": ["Vamana", "Rama", "Krishna", "Kurma"],
+    "answer": "Vamana"
+  },
+  {
+    "puranaId": 1,
+    "question": "How many steps of land did Vamana request from King Bali?",
+    "options": ["Three", "Five", "Seven", "One"],
+    "answer": "Three"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who was Bali's guru?",
+    "options": ["Shukracharya", "Brihaspati", "Narada", "Vyasa"],
+    "answer": "Shukracharya"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who churned the Ocean of Milk along with the devas?",
+    "options": ["Asuras", "Yakshas", "Gandharvas", "Nagas"],
+    "answer": "Asuras"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which mountain was used as the churning rod?",
+    "options": ["Mandara", "Meru", "Govardhana", "Kailasa"],
+    "answer": "Mandara"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who supported Mount Mandara during the churning?",
+    "options": ["Kurma Avatar", "Varaha Avatar", "Garuda", "Shesha"],
+    "answer": "Kurma Avatar"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which serpent was used as the churning rope?",
+    "options": ["Vasuki", "Takshaka", "Ananta", "Kaliya"],
+    "answer": "Vasuki"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who drank the deadly poison Halahala?",
+    "options": ["Lord Shiva", "Lord Vishnu", "Brahma", "Indra"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who emerged from the Ocean of Milk carrying the nectar?",
+    "options": ["Dhanvantari", "Lakshmi", "Indra", "Garuda"],
+    "answer": "Dhanvantari"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who distributed the nectar among the gods?",
+    "options": ["Mohini", "Lakshmi", "Saraswati", "Parvati"],
+    "answer": "Mohini"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which demon disguised himself to drink the nectar?",
+    "options": ["Rahu", "Ketu", "Bali", "Shambara"],
+    "answer": "Rahu"
+  },
+  {
+    "puranaId": 1,
+    "question": "Who identified Rahu among the gods?",
+    "options": ["Surya and Chandra", "Indra", "Narada", "Garuda"],
+    "answer": "Surya and Chandra"
+  },
+  {
+    "puranaId": 1,
+    "question": "Which celestial bird serves as Lord Vishnu's vehicle?",
+    "options": ["Garuda", "Hamsa", "Peacock", "Swan"],
+    "answer": "Garuda"
+  },
+  {
+    "puranaId": 1,
+    "question": "What is the supreme teaching of the Bhagavata Purana?",
+    "options": [
+      "Pure devotion to Lord Vishnu",
+      "Perform sacrifices only",
+      "Material success",
+      "Conquering kingdoms"
+    ],
+    "answer": "Pure devotion to Lord Vishnu"
+  },
+  {
+    "puranaId": 1,
+    "question": "How many Skandhas (Books) are there in the Bhagavata Purana?",
+    "options": ["12", "18", "10","24"]
+  }
+]

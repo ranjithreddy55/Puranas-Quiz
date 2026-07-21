@@ -1,0 +1,622 @@
+[
+  {
+    "puranaId": 8,
+    "question": "Which sage is the primary narrator of the Bhavishya Purana?",
+    "options": ["Suta", "Narada", "Valmiki", "Markandeya"],
+    "answer": "Suta"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who compiled the Bhavishya Purana?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vasistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 8,
+    "question": "The Bhavishya Purana is one of how many Mahapuranas?",
+    "options": ["18", "12", "16", "24"],
+    "answer": "18"
+  },
+  {
+    "puranaId": 8,
+    "question": "What does the word 'Bhavishya' mean?",
+    "options": ["Future", "Past", "Present", "Knowledge"],
+    "answer": "Future"
+  },
+  {
+    "puranaId": 8,
+    "question": "The Bhavishya Purana is famous for describing what?",
+    "options": ["Future events", "Astronomy only", "Medicine only", "Music only"],
+    "answer": "Future events"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which deity is greatly glorified in the Bhavishya Purana?",
+    "options": ["Surya", "Indra", "Kubera", "Agni"],
+    "answer": "Surya"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who is the Sun God?",
+    "options": ["Surya", "Chandra", "Agni", "Varuna"],
+    "answer": "Surya"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which festival is dedicated to Surya?",
+    "options": ["Ratha Saptami", "Holi", "Janmashtami", "Navaratri"],
+    "answer": "Ratha Saptami"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which daily practice is recommended for Surya worship?",
+    "options": ["Offering water to the Sun", "Night fasting", "Animal sacrifice", "Horse racing"],
+    "answer": "Offering water to the Sun"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which mantra is commonly chanted for Surya?",
+    "options": ["Aditya Hridayam", "Mahamrityunjaya", "Gayatri of Shiva", "Hanuman Chalisa"],
+    "answer": "Aditya Hridayam"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who received the Aditya Hridayam before fighting Ravana?",
+    "options": ["Rama", "Krishna", "Arjuna", "Bhima"],
+    "answer": "Rama"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which sage taught the Aditya Hridayam to Rama?",
+    "options": ["Agastya", "Narada", "Vasistha", "Markandeya"],
+    "answer": "Agastya"
+  },
+  {
+    "puranaId": 8,
+    "question": "Surya is regarded as the source of what?",
+    "options": ["Light and energy", "Darkness", "Storms", "Snow"],
+    "answer": "Light and energy"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which planet is associated with Sunday?",
+    "options": ["Sun", "Moon", "Mars", "Jupiter"],
+    "answer": "Sun"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which day of the week is dedicated to Surya?",
+    "options": ["Sunday", "Monday", "Tuesday", "Thursday"],
+    "answer": "Sunday"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which virtue is emphasized in the Bhavishya Purana?",
+    "options": ["Truthfulness", "Greed", "Hatred", "Violence"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should always accompany religious practices?",
+    "options": ["Faith", "Pride", "Jealousy", "Cruelty"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 8,
+    "question": "What destroys sin according to the Purana?",
+    "options": ["Sincere devotion", "Wealth", "Political power", "Luxury"],
+    "answer": "Sincere devotion"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who blesses devotees with health?",
+    "options": ["Surya", "Kubera", "Indra", "Agni"],
+    "answer": "Surya"
+  },
+  {
+    "puranaId": 8,
+    "question": "What does Surya symbolize?",
+    "options": ["Knowledge and vitality", "Fear", "Darkness", "Ignorance"],
+    "answer": "Knowledge and vitality"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality should a devotee avoid?",
+    "options": ["Ego", "Humility", "Compassion", "Truthfulness"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the reward of worshipping Surya?",
+    "options": ["Health and prosperity", "Fear", "Sorrow", "Confusion"],
+    "answer": "Health and prosperity"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is considered greater than material wealth?",
+    "options": ["Righteousness", "Gold", "Property", "Jewels"],
+    "answer": "Righteousness"
+  },
+  {
+    "puranaId": 8,
+    "question": "How should devotees worship God?",
+    "options": ["With sincerity and devotion", "With pride", "With anger", "With hatred"],
+    "answer": "With sincerity and devotion"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the central teaching of the Bhavishya Purana?",
+    "options": [
+      "Righteous living and devotion lead to happiness and liberation",
+      "Wealth is the highest goal",
+      "Power is supreme",
+      "Only rituals matter"
+    ],
+    "answer": "Righteous living and devotion lead to happiness and liberation"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which Veda is closely associated with the Gayatri Mantra?",
+    "options": ["Rig Veda", "Yajur Veda", "Sama Veda", "Atharva Veda"],
+    "answer": "Rig Veda"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who is regarded as the visible form of God in the sky?",
+    "options": ["Surya", "Chandra", "Agni", "Indra"],
+    "answer": "Surya"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the vehicle of Surya?",
+    "options": ["A chariot with seven horses", "Lion", "Garuda", "Bull"],
+    "answer": "A chariot with seven horses"
+  },
+  {
+    "puranaId": 8,
+    "question": "What do Surya's seven horses symbolize?",
+    "options": ["Seven colors of light", "Seven oceans", "Seven mountains", "Seven kings"],
+    "answer": "Seven colors of light"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who serves as Surya's charioteer?",
+    "options": ["Aruna", "Garuda", "Matali", "Nandi"],
+    "answer": "Aruna"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality is strengthened through Surya worship?",
+    "options": ["Discipline", "Laziness", "Greed", "Hatred"],
+    "answer": "Discipline"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should be offered to Surya every morning?",
+    "options": ["Water", "Milk", "Rice", "Honey"],
+    "answer": "Water"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which direction should one face while offering water to Surya?",
+    "options": ["East", "West", "North", "South"],
+    "answer": "East"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which festival celebrates the Sun's northward journey?",
+    "options": ["Makar Sankranti", "Diwali", "Navaratri", "Holi"],
+    "answer": "Makar Sankranti"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which virtue is praised throughout the Bhavishya Purana?",
+    "options": ["Charity", "Cruelty", "Pride", "Anger"],
+    "answer": "Charity"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who should always be respected according to the Purana?",
+    "options": ["Parents and teachers", "Only kings", "Only warriors", "Only merchants"],
+    "answer": "Parents and teachers"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which practice purifies the mind?",
+    "options": ["Prayer", "Greed", "Violence", "Dishonesty"],
+    "answer": "Prayer"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is considered the greatest wealth?",
+    "options": ["Good character", "Gold", "Jewels", "Land"],
+    "answer": "Good character"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality brings lasting happiness?",
+    "options": ["Contentment", "Greed", "Jealousy", "Hatred"],
+    "answer": "Contentment"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who blesses devotees with wisdom?",
+    "options": ["God", "Kings", "Merchants", "Warriors"],
+    "answer": "God"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should accompany every good deed?",
+    "options": ["Humility", "Pride", "Arrogance", "Hatred"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality destroys friendship?",
+    "options": ["Jealousy", "Kindness", "Truthfulness", "Compassion"],
+    "answer": "Jealousy"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality strengthens society?",
+    "options": ["Honesty", "Dishonesty", "Greed", "Violence"],
+    "answer": "Honesty"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which path leads to inner peace?",
+    "options": ["Righteousness", "Hatred", "Anger", "Selfishness"],
+    "answer": "Righteousness"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is considered the root of suffering?",
+    "options": ["Desire", "Compassion", "Faith", "Knowledge"],
+    "answer": "Desire"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the reward of selfless service?",
+    "options": ["Divine blessings", "Poverty", "Fear", "Failure"],
+    "answer": "Divine blessings"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality is necessary for spiritual progress?",
+    "options": ["Patience", "Pride", "Violence", "Greed"],
+    "answer": "Patience"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who protects those who follow Dharma?",
+    "options": ["God", "Kings", "Warriors", "Merchants"],
+    "answer": "God"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should a devotee remember every day?",
+    "options": ["God", "Money", "Power", "Fame"],
+    "answer": "God"
+  },
+  {
+    "puranaId": 8,
+    "question": "According to the Bhavishya Purana, what leads to liberation?",
+    "options": [
+      "Devotion, righteousness, and good conduct",
+      "Material wealth",
+      "Political power",
+      "Military strength"
+    ],
+    "answer": "Devotion, righteousness, and good conduct"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality is regarded as the foundation of Dharma?",
+    "options": ["Truth", "Greed", "Hatred", "Anger"],
+    "answer": "Truth"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who is the source of all life according to Surya worship?",
+    "options": ["Surya", "Indra", "Varuna", "Kubera"],
+    "answer": "Surya"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should a devotee practice daily?",
+    "options": ["Prayer and meditation", "Violence", "Dishonesty", "Pride"],
+    "answer": "Prayer and meditation"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality removes ignorance?",
+    "options": ["Knowledge", "Hatred", "Greed", "Fear"],
+    "answer": "Knowledge"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who receives the blessings of Surya?",
+    "options": ["Sincere devotees", "Only kings", "Only warriors", "Only priests"],
+    "answer": "Sincere devotees"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is considered the highest form of wealth?",
+    "options": ["Wisdom", "Gold", "Silver", "Land"],
+    "answer": "Wisdom"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality should be avoided?",
+    "options": ["Arrogance", "Humility", "Compassion", "Patience"],
+    "answer": "Arrogance"
+  },
+  {
+    "puranaId": 8,
+    "question": "What strengthens family relationships?",
+    "options": ["Respect", "Jealousy", "Anger", "Greed"],
+    "answer": "Respect"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which virtue brings divine grace?",
+    "options": ["Compassion", "Cruelty", "Violence", "Hatred"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should every devotee cultivate?",
+    "options": ["Self-control", "Pride", "Anger", "Laziness"],
+    "answer": "Self-control"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which practice helps purify the heart?",
+    "options": ["Charity", "Dishonesty", "Violence", "Hatred"],
+    "answer": "Charity"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who is praised as the witness of all actions?",
+    "options": ["Surya", "Agni", "Indra", "Vayu"],
+    "answer": "Surya"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which festival is associated with worship of the Sun in Bihar and Nepal?",
+    "options": ["Chhath Puja", "Diwali", "Navaratri", "Holi"],
+    "answer": "Chhath Puja"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the main purpose of fasting?",
+    "options": ["Spiritual discipline", "Showing wealth", "Entertainment", "Competition"],
+    "answer": "Spiritual discipline"
+  },
+  {
+    "puranaId": 8,
+    "question": "What does regular worship develop?",
+    "options": ["Inner peace", "Fear", "Hatred", "Jealousy"],
+    "answer": "Inner peace"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality is praised in leaders?",
+    "options": ["Justice", "Cruelty", "Dishonesty", "Greed"],
+    "answer": "Justice"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who should always be protected?",
+    "options": ["The weak and innocent", "Only the wealthy", "Only rulers", "Only soldiers"],
+    "answer": "The weak and innocent"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is considered the greatest enemy of spiritual life?",
+    "options": ["Ego", "Faith", "Humility", "Knowledge"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 8,
+    "question": "What brings harmony to society?",
+    "options": ["Righteous conduct", "Violence", "Greed", "Hatred"],
+    "answer": "Righteous conduct"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality helps overcome difficulties?",
+    "options": ["Perseverance", "Fear", "Laziness", "Anger"],
+    "answer": "Perseverance"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who rewards good deeds?",
+    "options": ["God", "Kings", "Merchants", "Warriors"],
+    "answer": "God"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the result of living according to Dharma?",
+    "options": ["Happiness", "Fear", "Confusion", "Failure"],
+    "answer": "Happiness"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the best use of knowledge?",
+    "options": ["Helping others", "Boasting", "Earning fame", "Winning arguments"],
+    "answer": "Helping others"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the highest duty of every person?",
+    "options": ["Following Dharma", "Accumulating wealth", "Seeking power", "Winning battles"],
+    "answer": "Following Dharma"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the main teaching of the Bhavishya Purana?",
+    "options": [
+      "A righteous life guided by devotion leads to peace and liberation",
+      "Wealth is life's greatest achievement",
+      "Power is superior to Dharma",
+      "Only rituals matter"
+    ],
+    "answer": "A righteous life guided by devotion leads to peace and liberation"
+  },
+  {
+    "puranaId": 8,
+    "question": "What does Surya represent in Hindu philosophy?",
+    "options": ["Divine light", "Darkness", "Ignorance", "Fear"],
+    "answer": "Divine light"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality helps a devotee attain God's grace?",
+    "options": ["Humility", "Pride", "Greed", "Anger"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who benefits from performing righteous actions?",
+    "options": ["Everyone", "Only kings", "Only priests", "Only warriors"],
+    "answer": "Everyone"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality destroys inner peace?",
+    "options": ["Anger", "Compassion", "Patience", "Forgiveness"],
+    "answer": "Anger"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is considered a sacred duty?",
+    "options": ["Helping others", "Cheating", "Violence", "Hatred"],
+    "answer": "Helping others"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which path is praised in the Bhavishya Purana?",
+    "options": ["Devotion and Dharma", "Violence", "Greed", "Pride"],
+    "answer": "Devotion and Dharma"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should always be spoken?",
+    "options": ["Truth", "Lies", "Harsh words", "Rumors"],
+    "answer": "Truth"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who is pleased by sincere worship?",
+    "options": ["God", "Demons", "Enemies", "Only kings"],
+    "answer": "God"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which virtue helps maintain friendships?",
+    "options": ["Kindness", "Jealousy", "Hatred", "Greed"],
+    "answer": "Kindness"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the result of charity performed without selfishness?",
+    "options": ["Spiritual merit", "Loss of wisdom", "Fear", "Confusion"],
+    "answer": "Spiritual merit"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality is essential for a good ruler?",
+    "options": ["Justice", "Cruelty", "Greed", "Dishonesty"],
+    "answer": "Justice"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the greatest enemy of wisdom?",
+    "options": ["Ignorance", "Knowledge", "Faith", "Humility"],
+    "answer": "Ignorance"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should every devotee practice regularly?",
+    "options": ["Self-discipline", "Laziness", "Hatred", "Violence"],
+    "answer": "Self-discipline"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which festival is especially associated with worship of Surya in South India?",
+    "options": ["Ratha Saptami", "Ganesh Chaturthi", "Ugadi", "Onam"],
+    "answer": "Ratha Saptami"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the reward of respecting one's parents?",
+    "options": ["Divine blessings", "Misfortune", "Fear", "Failure"],
+    "answer": "Divine blessings"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality makes a person truly wealthy?",
+    "options": ["Virtue", "Gold", "Jewels", "Power"],
+    "answer": "Virtue"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who should receive charity first?",
+    "options": ["The needy", "The wealthy", "The powerful", "Enemies"],
+    "answer": "The needy"
+  },
+  {
+    "puranaId": 8,
+    "question": "Which quality leads to long-lasting happiness?",
+    "options": ["Contentment", "Greed", "Envy", "Pride"],
+    "answer": "Contentment"
+  },
+  {
+    "puranaId": 8,
+    "question": "What should be avoided for spiritual growth?",
+    "options": ["Ego", "Faith", "Compassion", "Charity"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 8,
+    "question": "Who ultimately protects the righteous?",
+    "options": ["God", "Kings", "Armies", "Friends"],
+    "answer": "God"
+  },
+  {
+    "puranaId": 8,
+    "question": "What does Surya symbolize spiritually?",
+    "options": ["Knowledge", "Ignorance", "Fear", "Darkness"],
+    "answer": "Knowledge"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the fruit of daily prayer?",
+    "options": ["Peace of mind", "Confusion", "Pride", "Hatred"],
+    "answer": "Peace of mind"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the highest offering to God?",
+    "options": ["Pure devotion", "Gold", "Jewels", "Food alone"],
+    "answer": "Pure devotion"
+  },
+  {
+    "puranaId": 8,
+    "question": "According to the Bhavishya Purana, what is the purpose of human life?",
+    "options": ["To follow Dharma and attain liberation", "To collect wealth", "To gain power", "To defeat others"],
+    "answer": "To follow Dharma and attain liberation"
+  },
+  {
+    "puranaId": 8,
+    "question": "What is the ultimate message of the Bhavishya Purana?",
+    "options": [
+      "Truth, devotion, charity, and righteous living lead to peace and Moksha",
+      "Power is the greatest achievement",
+      "Only rituals bring liberation",
+      "Material wealth is life's highest goal"
+    ],
+    "answer": "Truth, devotion, charity, and righteous living lead to peace and Moksha"
+  }
+]

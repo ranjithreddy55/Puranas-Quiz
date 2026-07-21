@@ -1,0 +1,613 @@
+[
+  {
+    "puranaId": 5,
+    "question": "Which deity is primarily glorified in the Padma Purana?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 5,
+    "question": "How many major sections (Khandas) does the Padma Purana traditionally contain?",
+    "options": ["Six", "Four", "Five", "Seven"],
+    "answer": "Six"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which flower gives the Padma Purana its name?",
+    "options": ["Lotus", "Rose", "Lily", "Jasmine"],
+    "answer": "Lotus"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who is the consort of Lord Vishnu?",
+    "options": ["Lakshmi", "Parvati", "Saraswati", "Ganga"],
+    "answer": "Lakshmi"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which sacred plant is especially dear to Lord Vishnu?",
+    "options": ["Tulsi", "Bilva", "Neem", "Peepal"],
+    "answer": "Tulsi"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which month is considered especially sacred for worship in the Padma Purana?",
+    "options": ["Kartika", "Chaitra", "Ashadha", "Bhadrapada"],
+    "answer": "Kartika"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which practice is highly praised during Kartika?",
+    "options": ["Lighting lamps", "Horse racing", "Hunting", "Trading"],
+    "answer": "Lighting lamps"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which river is frequently praised in the Padma Purana?",
+    "options": ["Ganga", "Amazon", "Nile", "Danube"],
+    "answer": "Ganga"
+  },
+  {
+    "puranaId": 5,
+    "question": "What is considered the highest form of worship?",
+    "options": ["Devotion to Vishnu", "Accumulating wealth", "Military power", "Political influence"],
+    "answer": "Devotion to Vishnu"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who compiled the Padma Purana?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Agastya"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who narrates the Puranas to the sages?",
+    "options": ["Suta", "Valmiki", "Parashara", "Markandeya"],
+    "answer": "Suta"
+  },
+  {
+    "puranaId": 5,
+    "question": "What is the ultimate goal of life according to the Padma Purana?",
+    "options": ["Moksha", "Wealth", "Power", "Pleasure"],
+    "answer": "Moksha"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which virtue is repeatedly emphasized?",
+    "options": ["Truthfulness", "Greed", "Anger", "Envy"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who is known as the preserver of the universe?",
+    "options": ["Vishnu", "Brahma", "Shiva", "Indra"],
+    "answer": "Vishnu"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which bird serves as Lord Vishnu's vehicle?",
+    "options": ["Garuda", "Swan", "Peacock", "Parrot"],
+    "answer": "Garuda"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which weapon does Lord Vishnu carry?",
+    "options": ["Sudarshana Chakra", "Trishula", "Vajra", "Bow Pinaka"],
+    "answer": "Sudarshana Chakra"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which conch belongs to Lord Vishnu?",
+    "options": ["Panchajanya", "Devadatta", "Anantavijaya", "Sughosha"],
+    "answer": "Panchajanya"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which jewel adorns Lord Vishnu?",
+    "options": ["Kaustubha", "Syamantaka", "Chintamani", "Nagamani"],
+    "answer": "Kaustubha"
+  },
+  {
+    "puranaId": 5,
+    "question": "Where does Lord Vishnu reside?",
+    "options": ["Vaikuntha", "Kailasa", "Svarga", "Brahmaloka"],
+    "answer": "Vaikuntha"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which mantra is especially associated with Vishnu?",
+    "options": ["Om Namo Narayanaya", "Om Namah Shivaya", "Gayatri Mantra", "Om Gan Ganapataye Namah"],
+    "answer": "Om Namo Narayanaya"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which quality pleases Lord Vishnu the most?",
+    "options": ["Devotion", "Pride", "Greed", "Anger"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which festival celebrates the return of Lord Rama?",
+    "options": ["Diwali", "Holi", "Navaratri", "Janmashtami"],
+    "answer": "Diwali"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which incarnation of Vishnu lifted Govardhana Hill?",
+    "options": ["Krishna", "Rama", "Vamana", "Narasimha"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which incarnation of Vishnu defeated Ravana?",
+    "options": ["Rama", "Krishna", "Parashurama", "Varaha"],
+    "answer": "Rama"
+  },
+  {
+    "puranaId": 5,
+    "question": "What is the main teaching of the Padma Purana?",
+    "options": [
+      "Live with devotion, truth, and righteousness",
+      "Seek wealth above everything",
+      "Power is the highest goal",
+      "Only rituals matter"
+    ],
+    "answer": "Live with devotion, truth, and righteousness"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who is the goddess of prosperity?",
+    "options": ["Lakshmi", "Parvati", "Saraswati", "Ganga"],
+    "answer": "Lakshmi"
+  },
+  {
+    "puranaId": 5,
+    "question": "On which day is Tulsi Vivah generally celebrated?",
+    "options": ["Kartika Shukla Ekadashi", "Mahashivaratri", "Janmashtami", "Rama Navami"],
+    "answer": "Kartika Shukla Ekadashi"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which Ekadashi is especially praised in the Padma Purana?",
+    "options": ["Devutthana Ekadashi", "Nirjala Ekadashi", "Mohini Ekadashi", "Papankusha Ekadashi"],
+    "answer": "Devutthana Ekadashi"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which virtue removes sins according to the Padma Purana?",
+    "options": ["Devotion", "Pride", "Anger", "Greed"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who is called Narayana?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Surya"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which avatar rescued Gajendra?",
+    "options": ["Vishnu", "Krishna", "Rama", "Varaha"],
+    "answer": "Vishnu"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which sacred leaf is offered to Vishnu?",
+    "options": ["Tulsi", "Bilva", "Neem", "Mango"],
+    "answer": "Tulsi"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who is Vishnu's celestial mount?",
+    "options": ["Garuda", "Nandi", "Airavata", "Hamsa"],
+    "answer": "Garuda"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which demon was defeated by Narasimha?",
+    "options": ["Hiranyakashipu", "Ravana", "Kamsa", "Madhu"],
+    "answer": "Hiranyakashipu"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who was saved by Narasimha?",
+    "options": ["Prahlada", "Dhruva", "Arjuna", "Bali"],
+    "answer": "Prahlada"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which avatar measured the universe in three steps?",
+    "options": ["Vamana", "Rama", "Krishna", "Kurma"],
+    "answer": "Vamana"
+  },
+  {
+    "puranaId": 5,
+    "question": "Whom did Vamana approach for three steps of land?",
+    "options": ["King Bali", "Dasharatha", "Janaka", "Kamsa"],
+    "answer": "King Bali"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who carried Govardhana Hill?",
+    "options": ["Krishna", "Balarama", "Rama", "Hanuman"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which demon was killed by Krishna in Mathura?",
+    "options": ["Kamsa", "Ravana", "Duryodhana", "Bakasura"],
+    "answer": "Kamsa"
+  },
+  {
+    "puranaId": 5,
+    "question": "Where was Lord Krishna born?",
+    "options": ["Mathura", "Vrindavan", "Dwarka", "Ayodhya"],
+    "answer": "Mathura"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who raised Krishna in Gokula?",
+    "options": ["Yashoda", "Devaki", "Kunti", "Satyabhama"],
+    "answer": "Yashoda"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who is Krishna's elder brother?",
+    "options": ["Balarama", "Arjuna", "Bhima", "Nakula"],
+    "answer": "Balarama"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which city became Krishna's capital?",
+    "options": ["Dwarka", "Mathura", "Ayodhya", "Indraprastha"],
+    "answer": "Dwarka"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which scripture contains Krishna's teachings to Arjuna?",
+    "options": ["Bhagavad Gita", "Ramayana", "Yoga Sutras", "Rig Veda"],
+    "answer": "Bhagavad Gita"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who is the author of the Bhagavad Gita?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vashistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which quality is most loved by Lord Vishnu?",
+    "options": ["Humility", "Arrogance", "Greed", "Hatred"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 5,
+    "question": "What is the reward of sincere devotion?",
+    "options": ["Liberation", "Wealth", "Political power", "Long life"],
+    "answer": "Liberation"
+  },
+  {
+    "puranaId": 5,
+    "question": "What does the Padma Purana encourage?",
+    "options": ["Pilgrimage", "Violence", "Greed", "Ego"],
+    "answer": "Pilgrimage"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who ultimately protects devotees?",
+    "options": ["Lord Vishnu", "Indra", "Agni", "Kubera"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 5,
+    "question": "According to the Padma Purana, what leads to eternal happiness?",
+    "options": ["Faith and devotion", "Material wealth", "Political success", "Physical strength"],
+    "answer": "Faith and devotion"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which deity is worshipped with Tulsi leaves?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Lord Ganesha", "Surya"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which month is considered especially dear to Lord Vishnu?",
+    "options": ["Kartika", "Vaishakha", "Ashadha", "Magha"],
+    "answer": "Kartika"
+  },
+  {
+    "puranaId": 5,
+    "question": "What should be lit during the month of Kartika?",
+    "options": ["Oil lamps", "Bonfires", "Candles only", "Torches"],
+    "answer": "Oil lamps"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who grants liberation according to the Padma Purana?",
+    "options": ["Lord Vishnu", "Lord Brahma", "Lord Shiva", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which flower is commonly offered to Lord Vishnu?",
+    "options": ["Lotus", "Rose", "Sunflower", "Jasmine"],
+    "answer": "Lotus"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which goddess emerged during the churning of the ocean?",
+    "options": ["Lakshmi", "Parvati", "Saraswati", "Ganga"],
+    "answer": "Lakshmi"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which mountain was used for the Samudra Manthana?",
+    "options": ["Mandara", "Meru", "Kailasa", "Vindhya"],
+    "answer": "Mandara"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which serpent served as the churning rope?",
+    "options": ["Vasuki", "Shesha", "Takshaka", "Kaliya"],
+    "answer": "Vasuki"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who supported Mount Mandara during the churning?",
+    "options": ["Kurma", "Varaha", "Matsya", "Narasimha"],
+    "answer": "Kurma"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which avatar of Vishnu appeared as a tortoise?",
+    "options": ["Kurma", "Matsya", "Varaha", "Vamana"],
+    "answer": "Kurma"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which nectar emerged from the ocean?",
+    "options": ["Amrita", "Soma", "Madhu", "Ghee"],
+    "answer": "Amrita"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who distributed Amrita among the Devas?",
+    "options": ["Mohini", "Lakshmi", "Durga", "Saraswati"],
+    "answer": "Mohini"
+  },
+  {
+    "puranaId": 5,
+    "question": "Mohini is an avatar of whom?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which demon disguised himself to drink Amrita?",
+    "options": ["Rahu", "Kamsa", "Ravana", "Hiranyaksha"],
+    "answer": "Rahu"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who exposed Rahu before he could drink Amrita completely?",
+    "options": ["Surya and Chandra", "Indra", "Agni", "Narada"],
+    "answer": "Surya and Chandra"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which avatar rescued the Earth from the ocean?",
+    "options": ["Varaha", "Kurma", "Matsya", "Rama"],
+    "answer": "Varaha"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which demon was slain by Varaha?",
+    "options": ["Hiranyaksha", "Hiranyakashipu", "Ravana", "Madhu"],
+    "answer": "Hiranyaksha"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who is known as the goddess of fortune?",
+    "options": ["Lakshmi", "Parvati", "Saraswati", "Durga"],
+    "answer": "Lakshmi"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which quality is condemned in the Padma Purana?",
+    "options": ["Greed", "Compassion", "Truthfulness", "Devotion"],
+    "answer": "Greed"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which virtue should every devotee practice?",
+    "options": ["Compassion", "Hatred", "Violence", "Envy"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 5,
+    "question": "What should accompany devotion?",
+    "options": ["Good conduct", "Arrogance", "Greed", "Anger"],
+    "answer": "Good conduct"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who is the protector of all devotees?",
+    "options": ["Lord Vishnu", "Indra", "Agni", "Kubera"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 5,
+    "question": "What is the fruit of observing Ekadashi?",
+    "options": ["Spiritual purification", "Political power", "Military victory", "Material luxury"],
+    "answer": "Spiritual purification"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which path is considered superior in the Padma Purana?",
+    "options": ["Bhakti", "Greed", "Violence", "Pride"],
+    "answer": "Bhakti"
+  },
+  {
+    "puranaId": 5,
+    "question": "According to the Padma Purana, what leads to eternal peace?",
+    "options": ["Devotion to Lord Vishnu", "Wealth", "Political success", "Worldly pleasures"],
+    "answer": "Devotion to Lord Vishnu"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which deity is known as Hari?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who is the eternal consort of Lord Vishnu?",
+    "options": ["Lakshmi", "Parvati", "Saraswati", "Radha"],
+    "answer": "Lakshmi"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which bird serves as Vishnu's divine vehicle?",
+    "options": ["Garuda", "Hamsa", "Peacock", "Eagle"],
+    "answer": "Garuda"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which weapon symbolizes Vishnu's power?",
+    "options": ["Sudarshana Chakra", "Trishula", "Vajra", "Pinaka"],
+    "answer": "Sudarshana Chakra"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which conch does Lord Vishnu hold?",
+    "options": ["Panchajanya", "Devadatta", "Sughosha", "Anantavijaya"],
+    "answer": "Panchajanya"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which sacred jewel adorns Lord Vishnu?",
+    "options": ["Kaustubha", "Syamantaka", "Chintamani", "Nagamani"],
+    "answer": "Kaustubha"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which scripture especially praises devotion to Lord Vishnu?",
+    "options": ["Padma Purana", "Agni Purana", "Linga Purana", "Garuda Purana"],
+    "answer": "Padma Purana"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which month is ideal for observing devotional vows?",
+    "options": ["Kartika", "Jyeshtha", "Ashadha", "Phalguna"],
+    "answer": "Kartika"
+  },
+  {
+    "puranaId": 5,
+    "question": "What is the spiritual benefit of observing Kartika?",
+    "options": ["Removal of sins", "Material wealth", "Political success", "Military strength"],
+    "answer": "Removal of sins"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which festival marks the awakening of Lord Vishnu?",
+    "options": ["Devutthana Ekadashi", "Mahashivaratri", "Holi", "Navaratri"],
+    "answer": "Devutthana Ekadashi"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who composed the Mahapuranas?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Agastya"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who narrated the Puranas to the sages at Naimisharanya?",
+    "options": ["Suta", "Parashara", "Vashistha", "Valmiki"],
+    "answer": "Suta"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which quality is most pleasing to Lord Vishnu?",
+    "options": ["Pure devotion", "Pride", "Greed", "Anger"],
+    "answer": "Pure devotion"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which virtue should accompany devotion?",
+    "options": ["Humility", "Arrogance", "Hatred", "Violence"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which sacred river is frequently glorified?",
+    "options": ["Ganga", "Amazon", "Nile", "Yangtze"],
+    "answer": "Ganga"
+  },
+  {
+    "puranaId": 5,
+    "question": "What is considered greater than material wealth?",
+    "options": ["Devotion", "Gold", "Kingdom", "Victory"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 5,
+    "question": "What is the result of chanting the names of Vishnu?",
+    "options": ["Spiritual upliftment", "Political authority", "Physical strength", "Worldly fame"],
+    "answer": "Spiritual upliftment"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which path is emphasized throughout the Padma Purana?",
+    "options": ["Bhakti Yoga", "Hatred", "Violence", "Materialism"],
+    "answer": "Bhakti Yoga"
+  },
+  {
+    "puranaId": 5,
+    "question": "Who ultimately grants Moksha?",
+    "options": ["Lord Vishnu", "Indra", "Kubera", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 5,
+    "question": "What should devotees avoid?",
+    "options": ["Pride", "Compassion", "Charity", "Truthfulness"],
+    "answer": "Pride"
+  },
+  {
+    "puranaId": 5,
+    "question": "Which virtue is praised along with truth?",
+    "options": ["Compassion", "Jealousy", "Cruelty", "Greed"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 5,
+    "question": "What is the fruit of serving saints?",
+    "options": ["Spiritual wisdom", "Political influence", "Riches", "Fame"],
+    "answer": "Spiritual wisdom"
+  },
+  {
+    "puranaId": 5,
+    "question": "According to the Padma Purana, what should be remembered at all times?",
+    "options": ["The name of Lord Vishnu", "Worldly success", "Gold", "Power"],
+    "answer": "The name of Lord Vishnu"
+  },
+  {
+    "puranaId": 5,
+    "question": "What is the highest wealth according to the Padma Purana?",
+    "options": ["Devotion", "Money", "Land", "Jewels"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 5,
+    "question": "What is the central message of the Padma Purana?",
+    "options": [
+      "Devotion to Lord Vishnu leads to liberation",
+      "Material success is life's goal",
+      "Only rituals are important",
+      "Power is the highest achievement"
+    ],
+    "answer": "Devotion to Lord Vishnu leads to liberation"
+  }
+]
+

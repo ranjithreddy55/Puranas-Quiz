@@ -1,0 +1,652 @@
+[
+  {
+    "puranaId": 2,
+    "question": "Who is the principal deity of the Shiva Purana?",
+    "options": ["Lord Shiva", "Lord Vishnu", "Brahma", "Ganesha"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who is the consort of Lord Shiva?",
+    "options": ["Parvati", "Lakshmi", "Saraswati", "Sita"],
+    "answer": "Parvati"
+  },
+  {
+    "puranaId": 2,
+    "question": "What is Lord Shiva's abode?",
+    "options": ["Mount Kailash", "Vaikuntha", "Satyaloka", "Amaravati"],
+    "answer": "Mount Kailash"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which river flows from Lord Shiva's matted hair?",
+    "options": ["Ganga", "Yamuna", "Godavari", "Narmada"],
+    "answer": "Ganga"
+  },
+  {
+    "puranaId": 2,
+    "question": "What is the name of Lord Shiva's bull?",
+    "options": ["Nandi", "Garuda", "Airavata", "Ucchaihshravas"],
+    "answer": "Nandi"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which weapon is carried by Lord Shiva?",
+    "options": ["Trishula", "Sudarshana Chakra", "Bow", "Mace"],
+    "answer": "Trishula"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which serpent adorns Lord Shiva's neck?",
+    "options": ["Vasuki", "Takshaka", "Kaliya", "Ananta"],
+    "answer": "Vasuki"
+  },
+  {
+    "puranaId": 2,
+    "question": "What is another famous name of Lord Shiva?",
+    "options": ["Mahadeva", "Madhava", "Govinda", "Janardana"],
+    "answer": "Mahadeva"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who are the sons of Lord Shiva and Parvati?",
+    "options": ["Ganesha and Kartikeya", "Rama and Lakshmana", "Krishna and Balarama", "Lava and Kusha"],
+    "answer": "Ganesha and Kartikeya"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who created Lord Ganesha?",
+    "options": ["Parvati", "Shiva", "Brahma", "Vishnu"],
+    "answer": "Parvati"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who replaced Ganesha's head with an elephant's head?",
+    "options": ["Lord Shiva", "Lord Vishnu", "Brahma", "Narada"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which son of Shiva became the commander of the celestial army?",
+    "options": ["Kartikeya", "Ganesha", "Hanuman", "Ayyappa"],
+    "answer": "Kartikeya"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who is known as the destroyer in the Trimurti?",
+    "options": ["Lord Shiva", "Lord Vishnu", "Brahma", "Indra"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which demon received a boon from Lord Shiva and became arrogant?",
+    "options": ["Bhasmasura", "Ravana", "Mahishasura", "Hiranyakashipu"],
+    "answer": "Bhasmasura"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who defeated Bhasmasura?",
+    "options": ["Mohini", "Parvati", "Shiva", "Ganesha"],
+    "answer": "Mohini"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who swallowed the Halahala poison during the Samudra Manthan?",
+    "options": ["Lord Shiva", "Lord Vishnu", "Brahma", "Indra"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 2,
+    "question": "What title did Shiva receive after drinking the poison?",
+    "options": ["Neelakantha", "Mahadeva", "Pashupati", "Shambhu"],
+    "answer": "Neelakantha"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which festival is mainly dedicated to Lord Shiva?",
+    "options": ["Maha Shivaratri", "Janmashtami", "Rama Navami", "Holi"],
+    "answer": "Maha Shivaratri"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which sacred symbol represents Lord Shiva?",
+    "options": ["Shiva Linga", "Lotus", "Conch", "Chakra"],
+    "answer": "Shiva Linga"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which sage narrated the Shiva Purana?",
+    "options": ["Romaharshana", "Valmiki", "Narada", "Agastya"],
+    "answer": "Romaharshana"
+  },
+  {
+    "puranaId": 2,
+    "question": "How many eyes does Lord Shiva have?",
+    "options": ["Three", "Two", "Four", "Five"],
+    "answer": "Three"
+  },
+  {
+    "puranaId": 2,
+    "question": "What emerges when Shiva opens his third eye?",
+    "options": ["Fire", "Water", "Wind", "Light"],
+    "answer": "Fire"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which flower is especially dear to Lord Shiva?",
+    "options": ["Datura", "Lotus", "Rose", "Jasmine"],
+    "answer": "Datura"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which leaves are commonly offered to Lord Shiva?",
+    "options": ["Bilva Leaves", "Tulsi Leaves", "Neem Leaves", "Banana Leaves"],
+    "answer": "Bilva Leaves"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which mantra is most associated with Lord Shiva?",
+    "options": ["Om Namah Shivaya", "Om Namo Narayanaya", "Gayatri Mantra", "Hare Krishna"],
+    "answer": "Om Namah Shivaya"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who was the father of Goddess Parvati?",
+    "options": ["Himalaya", "Daksha", "Janaka", "Kashyapa"],
+    "answer": "Himalaya"
+  },
+  {
+    "puranaId": 2,
+    "question": "What was the name of Parvati's mother?",
+    "options": ["Mena", "Aditi", "Diti", "Anasuya"],
+    "answer": "Mena"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who was Parvati in her previous birth?",
+    "options": ["Sati", "Lakshmi", "Saraswati", "Ganga"],
+    "answer": "Sati"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who insulted Lord Shiva during a great sacrifice?",
+    "options": ["Daksha", "Indra", "Brahma", "Ravana"],
+    "answer": "Daksha"
+  },
+  {
+    "puranaId": 2,
+    "question": "Why did Sati sacrifice herself?",
+    "options": [
+      "Unable to bear Daksha's insult to Shiva",
+      "To defeat a demon",
+      "To attain heaven",
+      "To become immortal"
+    ],
+    "answer": "Unable to bear Daksha's insult to Shiva"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who destroyed Daksha's sacrifice?",
+    "options": ["Veerabhadra", "Nandi", "Kartikeya", "Ganesha"],
+    "answer": "Veerabhadra"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who created Veerabhadra?",
+    "options": ["Lord Shiva", "Brahma", "Vishnu", "Parvati"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 2,
+    "question": "What happened to Daksha after the sacrifice?",
+    "options": [
+      "He was given a goat's head",
+      "He became king",
+      "He disappeared forever",
+      "He became a sage"
+    ],
+    "answer": "He was given a goat's head"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which mountain is considered Shiva's divine residence?",
+    "options": ["Mount Kailash", "Meru", "Vindhya", "Mandara"],
+    "answer": "Mount Kailash"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which dance is performed by Lord Shiva?",
+    "options": ["Tandava", "Lasya", "Kathak", "Bharatanatyam"],
+    "answer": "Tandava"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who is known as Nataraja?",
+    "options": ["Lord Shiva", "Lord Vishnu", "Indra", "Brahma"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which drum does Shiva hold?",
+    "options": ["Damaru", "Mridanga", "Tabla", "Veena"],
+    "answer": "Damaru"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which sacred ash is applied by Shiva?",
+    "options": ["Vibhuti", "Kumkum", "Sandal Paste", "Turmeric"],
+    "answer": "Vibhuti"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which animal skin is Shiva often shown wearing?",
+    "options": ["Tiger Skin", "Lion Skin", "Deer Skin", "Elephant Skin"],
+    "answer": "Tiger Skin"
+  },
+  {
+    "puranaId": 2,
+    "question": "What is Shiva's trident called?",
+    "options": ["Trishula", "Vajra", "Pinaka", "Chakra"],
+    "answer": "Trishula"
+  },
+  {
+    "puranaId": 2,
+    "question": "What is the name of Shiva's divine bow?",
+    "options": ["Pinaka", "Kodanda", "Gandiva", "Sharanga"],
+    "answer": "Pinaka"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who broke Shiva's bow in the Ramayana?",
+    "options": ["Lord Rama", "Lakshmana", "Parashurama", "Bharata"],
+    "answer": "Lord Rama"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who is called Ardhanarishvara?",
+    "options": [
+      "The combined form of Shiva and Parvati",
+      "Shiva alone",
+      "Parvati alone",
+      "Vishnu and Lakshmi"
+    ],
+    "answer": "The combined form of Shiva and Parvati"
+  },
+  {
+    "puranaId": 2,
+    "question": "What does Ardhanarishvara symbolize?",
+    "options": [
+      "Unity of masculine and feminine energies",
+      "Victory in war",
+      "Creation of the universe",
+      "Meditation"
+    ],
+    "answer": "Unity of masculine and feminine energies"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who is known as Pashupati?",
+    "options": ["Lord Shiva", "Lord Vishnu", "Brahma", "Agni"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which sacred city is closely associated with Lord Shiva?",
+    "options": ["Varanasi", "Ayodhya", "Mathura", "Dwarka"],
+    "answer": "Varanasi"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which Jyotirlinga is located in Gujarat?",
+    "options": ["Somnath", "Kedarnath", "Mahakaleshwar", "Kashi Vishwanath"],
+    "answer": "Somnath"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which Jyotirlinga is located in Uttarakhand?",
+    "options": ["Kedarnath", "Somnath", "Rameshwaram", "Trimbakeshwar"],
+    "answer": "Kedarnath"
+  },
+  {
+    "puranaId": 2,
+    "question": "How many Jyotirlingas are traditionally worshipped?",
+    "options": ["12", "18", "16", "8"],
+    "answer": "12"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which month is especially sacred for the worship of Lord Shiva?",
+    "options": ["Shravana", "Chaitra", "Magha", "Kartika"],
+    "answer": "Shravana"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who performed intense penance to marry Lord Shiva?",
+    "options": ["Parvati", "Lakshmi", "Saraswati", "Sati"],
+    "answer": "Parvati"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which god tested Parvati's devotion before her marriage to Shiva?",
+    "options": ["Lord Shiva", "Brahma", "Vishnu", "Indra"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who officiated the marriage of Shiva and Parvati?",
+    "options": ["Brahma", "Vishnu", "Narada", "Indra"],
+    "answer": "Brahma"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which sage frequently praises Lord Shiva in the Shiva Purana?",
+    "options": ["Narada", "Valmiki", "Agastya", "Vashistha"],
+    "answer": "Narada"
+  },
+  {
+    "puranaId": 2,
+    "question": "What is another name of Goddess Parvati?",
+    "options": ["Uma", "Lakshmi", "Radha", "Sita"],
+    "answer": "Uma"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which demon was destroyed by Kartikeya?",
+    "options": ["Tarakasura", "Bhasmasura", "Mahishasura", "Andhaka"],
+    "answer": "Tarakasura"
+  },
+  {
+    "puranaId": 2,
+    "question": "Why was Kartikeya born?",
+    "options": [
+      "To kill Tarakasura",
+      "To rule Kailash",
+      "To teach the Vedas",
+      "To protect Indra"
+    ],
+    "answer": "To kill Tarakasura"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which bird is associated with Kartikeya?",
+    "options": ["Peacock", "Eagle", "Swan", "Parrot"],
+    "answer": "Peacock"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which mouse serves as the vehicle of Ganesha?",
+    "options": ["Mushika", "Nandi", "Garuda", "Lion"],
+    "answer": "Mushika"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who circled his parents to win the divine fruit?",
+    "options": ["Ganesha", "Kartikeya", "Narada", "Nandi"],
+    "answer": "Ganesha"
+  },
+  {
+    "puranaId": 2,
+    "question": "What did Ganesha's act of circling his parents symbolize?",
+    "options": [
+      "Parents are equal to the whole universe",
+      "Victory in battle",
+      "Knowledge of astronomy",
+      "Speed"
+    ],
+    "answer": "Parents are equal to the whole universe"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who wrote the Mahabharata as dictated by Vedavyasa?",
+    "options": ["Ganesha", "Shiva", "Narada", "Brahma"],
+    "answer": "Ganesha"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which ornament is always seen on Shiva's forehead?",
+    "options": ["Crescent Moon", "Crown", "Lotus", "Garland"],
+    "answer": "Crescent Moon"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which river goddess resides in Shiva's hair?",
+    "options": ["Ganga", "Yamuna", "Godavari", "Saraswati"],
+    "answer": "Ganga"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which sacred syllable is associated with Shiva?",
+    "options": ["Om", "Ram", "Shreem", "Hreem"],
+    "answer": "Om"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which celestial being is Shiva's devoted attendant?",
+    "options": ["Nandi", "Garuda", "Hanuman", "Airavata"],
+    "answer": "Nandi"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which form of Shiva is worshipped as the Lord of Dance?",
+    "options": ["Nataraja", "Rudra", "Shambhu", "Mahakala"],
+    "answer": "Nataraja"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which quality best describes Lord Shiva?",
+    "options": [
+      "Compassion toward devotees",
+      "Pride",
+      "Greed",
+      "Jealousy"
+    ],
+    "answer": "Compassion toward devotees"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which sacred city is called Shiva's eternal city?",
+    "options": ["Kashi", "Mathura", "Ayodhya", "Dwarka"],
+    "answer": "Kashi"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which flower is generally not offered to Lord Shiva?",
+    "options": ["Ketaki", "Datura", "Akanda", "Bilva"],
+    "answer": "Ketaki"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which Rudra form is associated with fierce destruction?",
+    "options": ["Bhairava", "Someshwara", "Shambhu", "Sadashiva"],
+    "answer": "Bhairava"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who granted Ravana immense boons after his penance?",
+    "options": ["Lord Shiva", "Brahma", "Vishnu", "Agni"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which demon tried to lift Mount Kailash?",
+    "options": ["Ravana", "Bhasmasura", "Tarakasura", "Andhaka"],
+    "answer": "Ravana"
+  },
+  {
+    "puranaId": 2,
+    "question": "How did Shiva stop Ravana from lifting Kailash?",
+    "options": [
+      "Pressed it with his toe",
+      "Used the Trishula",
+      "Sent Nandi",
+      "Opened his third eye"
+    ],
+    "answer": "Pressed it with his toe"
+  },
+  {
+    "puranaId": 2,
+    "question": "What title did Ravana receive after praising Shiva?",
+    "options": ["Ravana became a great devotee of Shiva", "Neelakantha", "Mahayogi", "Rajarshi"],
+    "answer": "Ravana became a great devotee of Shiva"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who is known as the Lord of Yogis?",
+    "options": ["Lord Shiva", "Lord Vishnu", "Brahma", "Indra"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which sacred ash is applied on Shiva devotees?",
+    "options": ["Vibhuti", "Sindoor", "Turmeric", "Kumkum"],
+    "answer": "Vibhuti"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which tree's leaves are especially offered to Lord Shiva?",
+    "options": ["Bilva", "Peepal", "Neem", "Mango"],
+    "answer": "Bilva"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which demon was blessed by Shiva but later defeated by Vishnu as Mohini?",
+    "options": ["Bhasmasura", "Ravana", "Andhaka", "Tarakasura"],
+    "answer": "Bhasmasura"
+  },
+  {
+    "puranaId": 2,
+    "question": "What is Shiva's favorite mantra?",
+    "options": ["Om Namah Shivaya", "Om Namo Narayanaya", "Gayatri Mantra", "Hare Krishna"],
+    "answer": "Om Namah Shivaya"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which scripture mainly glorifies Lord Shiva?",
+    "options": ["Shiva Purana", "Ramayana", "Mahabharata", "Bhagavad Gita"],
+    "answer": "Shiva Purana"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who is Shiva's gatekeeper and chief devotee?",
+    "options": ["Nandi", "Garuda", "Hanuman", "Bhringi"],
+    "answer": "Nandi"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which sage composed many hymns praising Shiva?",
+    "options": ["Vyasa", "Valmiki", "Narada", "Agastya"],
+    "answer": "Vyasa"
+  },
+  {
+    "puranaId": 2,
+    "question": "What is another name for Lord Shiva?",
+    "options": ["Shankara", "Govinda", "Madhava", "Janardana"],
+    "answer": "Shankara"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which ornament is worn around Shiva's neck?",
+    "options": ["Snake", "Gold Necklace", "Pearls", "Flowers"],
+    "answer": "Snake"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which eye of Shiva represents divine wisdom?",
+    "options": ["Third Eye", "Left Eye", "Right Eye", "Inner Eye"],
+    "answer": "Third Eye"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which god is considered both creator and destroyer in different forms?",
+    "options": ["Lord Shiva", "Brahma", "Vishnu", "Indra"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who taught yoga to the sages according to Shiva Purana?",
+    "options": ["Lord Shiva", "Patanjali", "Vyasa", "Narada"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 2,
+    "question": "What does Shiva symbolize?",
+    "options": ["Transformation", "Greed", "Luxury", "Power alone"],
+    "answer": "Transformation"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which festival celebrates Shiva's marriage to Parvati?",
+    "options": ["Maha Shivaratri", "Diwali", "Navaratri", "Janmashtami"],
+    "answer": "Maha Shivaratri"
+  },
+  {
+    "puranaId": 2,
+    "question": "What is Shiva's cosmic dance called?",
+    "options": ["Ananda Tandava", "Rasa Lila", "Lasya", "Nritya"],
+    "answer": "Ananda Tandava"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who is called the destroyer of evil?",
+    "options": ["Lord Shiva", "Indra", "Surya", "Agni"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which element is most associated with Shiva's ascetic life?",
+    "options": ["Meditation", "Luxury", "Wealth", "War"],
+    "answer": "Meditation"
+  },
+  {
+    "puranaId": 2,
+    "question": "What is the meaning of 'Mahadeva'?",
+    "options": ["Great God", "Great King", "Great Sage", "Great Warrior"],
+    "answer": "Great God"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who is worshipped together with Shiva in many temples?",
+    "options": ["Parvati", "Radha", "Sita", "Rukmini"],
+    "answer": "Parvati"
+  },
+  {
+    "puranaId": 2,
+    "question": "What is the primary teaching of the Shiva Purana?",
+    "options": [
+      "Devotion to Lord Shiva leads to liberation",
+      "Wealth is supreme",
+      "Power is everything",
+      "Only rituals matter"
+    ],
+    "answer": "Devotion to Lord Shiva leads to liberation"
+  },
+  {
+    "puranaId": 2,
+    "question": "Which quality pleases Lord Shiva the most?",
+    "options": ["Sincere devotion", "Pride", "Anger", "Greed"],
+    "answer": "Sincere devotion"
+  },
+  {
+    "puranaId": 2,
+    "question": "What is the ultimate goal described in the Shiva Purana?",
+    "options": ["Moksha", "Fame", "Kingdom", "Wealth"],
+    "answer": "Moksha"
+  },
+  {
+    "puranaId": 2,
+    "question": "Who grants liberation according to the Shiva Purana?",
+    "options": ["Lord Shiva", "Indra", "Kubera", "Agni"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 2,
+    "question": "What is the overall message of the Shiva Purana?",
+    "options": [
+      "Faith, devotion and righteousness lead to liberation",
+      "Only knowledge matters",
+      "Only rituals matter",
+      "Power is the highest goal"
+    ],
+    "answer": "Faith, devotion and righteousness lead to liberation"
+  }
+]

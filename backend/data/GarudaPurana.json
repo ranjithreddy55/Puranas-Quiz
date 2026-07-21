@@ -1,0 +1,611 @@
+[
+  {
+    "puranaId": 16,
+    "question": "Who compiled the Garuda Purana?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vasistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 16,
+    "question": "Who narrates the Garuda Purana to Garuda?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 16,
+    "question": "Who is Garuda?",
+    "options": ["The divine eagle and vehicle of Lord Vishnu", "A sage", "A king", "A demon"],
+    "answer": "The divine eagle and vehicle of Lord Vishnu"
+  },
+  {
+    "puranaId": 16,
+    "question": "The Garuda Purana mainly discusses which subjects?",
+    "options": ["Life, death, karma, and liberation", "Astronomy only", "Politics", "Music"],
+    "answer": "Life, death, karma, and liberation"
+  },
+  {
+    "puranaId": 16,
+    "question": "According to the Garuda Purana, what determines a person's destiny after death?",
+    "options": ["Karma", "Wealth", "Family status", "Physical strength"],
+    "answer": "Karma"
+  },
+  {
+    "puranaId": 16,
+    "question": "Who is the god of death?",
+    "options": ["Yama", "Kubera", "Agni", "Varuna"],
+    "answer": "Yama"
+  },
+  {
+    "puranaId": 16,
+    "question": "Who records the deeds of every individual?",
+    "options": ["Chitragupta", "Narada", "Brahma", "Garuda"],
+    "answer": "Chitragupta"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the ultimate goal of human life?",
+    "options": ["Moksha", "Wealth", "Power", "Fame"],
+    "answer": "Moksha"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which path leads to liberation?",
+    "options": ["Devotion and righteous living", "Greed", "Violence", "Hatred"],
+    "answer": "Devotion and righteous living"
+  },
+  {
+    "puranaId": 16,
+    "question": "Who grants liberation to sincere devotees?",
+    "options": ["Lord Vishnu", "Yama", "Indra", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is considered temporary?",
+    "options": ["The physical body", "The soul", "Truth", "Dharma"],
+    "answer": "The physical body"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is eternal?",
+    "options": ["The soul", "The body", "Money", "Kingdoms"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which virtue is praised as the foundation of Dharma?",
+    "options": ["Truthfulness", "Greed", "Cruelty", "Jealousy"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 16,
+    "question": "What should every person remember about life?",
+    "options": ["Life is temporary", "Wealth is permanent", "Power lasts forever", "The body is eternal"],
+    "answer": "Life is temporary"
+  },
+  {
+    "puranaId": 16,
+    "question": "Who accompanies the soul after death according to the Garuda Purana?",
+    "options": ["Its karma", "Its wealth", "Its relatives", "Its possessions"],
+    "answer": "Its karma"
+  },
+  {
+    "puranaId": 16,
+    "question": "What should accompany every act of charity?",
+    "options": ["Selflessness", "Pride", "Recognition", "Expectation"],
+    "answer": "Selflessness"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which quality destroys spiritual progress?",
+    "options": ["Ego", "Humility", "Faith", "Compassion"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 16,
+    "question": "Who judges the deeds of departed souls?",
+    "options": ["Yama", "Indra", "Agni", "Kubera"],
+    "answer": "Yama"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the purpose of performing righteous deeds?",
+    "options": ["To attain spiritual progress", "To gain political power", "To become wealthy", "To gain fame"],
+    "answer": "To attain spiritual progress"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which path is repeatedly praised in the Garuda Purana?",
+    "options": ["Bhakti (Devotion)", "Materialism", "Violence", "Greed"],
+    "answer": "Bhakti (Devotion)"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is considered the greatest wealth?",
+    "options": ["Spiritual wisdom", "Gold", "Jewels", "Land"],
+    "answer": "Spiritual wisdom"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the highest goal of human existence?",
+    "options": ["Liberation (Moksha)", "Political authority", "Material success", "Worldly fame"],
+    "answer": "Liberation (Moksha)"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the central teaching of the Garuda Purana?",
+    "options": [
+      "Karma, devotion, righteous living, and spiritual knowledge lead to liberation.",
+      "Material wealth is life's greatest goal.",
+      "Political power is supreme.",
+      "Only rituals guarantee salvation."
+    ],
+    "answer": "Karma, devotion, righteous living, and spiritual knowledge lead to liberation."
+  },
+  {
+    "puranaId": 16,
+    "question": "Who serves as the divine vehicle (Vahana) of Lord Vishnu?",
+    "options": ["Garuda", "Nandi", "Airavata", "Mouse"],
+    "answer": "Garuda"
+  },
+  {
+    "puranaId": 16,
+    "question": "The Garuda Purana belongs to which tradition?",
+    "options": ["Vaishnavism", "Shaivism", "Shaktism", "Jainism"],
+    "answer": "Vaishnavism"
+  },
+  {
+    "puranaId": 16,
+    "question": "According to the Garuda Purana, what accompanies the soul after death?",
+    "options": ["Its karma", "Its wealth", "Its friends", "Its kingdom"],
+    "answer": "Its karma"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which quality helps a person earn good karma?",
+    "options": ["Compassion", "Cruelty", "Greed", "Pride"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 16,
+    "question": "Who rewards or punishes souls according to their deeds?",
+    "options": ["Yama", "Indra", "Varuna", "Agni"],
+    "answer": "Yama"
+  },
+  {
+    "puranaId": 16,
+    "question": "Who maintains the record of human actions?",
+    "options": ["Chitragupta", "Narada", "Garuda", "Brahma"],
+    "answer": "Chitragupta"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the result of good karma?",
+    "options": ["Happiness and spiritual progress", "Suffering", "Ignorance", "Fear"],
+    "answer": "Happiness and spiritual progress"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the result of sinful actions?",
+    "options": ["Suffering", "Liberation", "Divine bliss", "Wisdom"],
+    "answer": "Suffering"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which virtue is essential for a peaceful life?",
+    "options": ["Honesty", "Dishonesty", "Hatred", "Jealousy"],
+    "answer": "Honesty"
+  },
+  {
+    "puranaId": 16,
+    "question": "What should every devotee practice daily?",
+    "options": ["Prayer", "Violence", "Greed", "Pride"],
+    "answer": "Prayer"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which quality is the greatest obstacle to liberation?",
+    "options": ["Ego", "Faith", "Humility", "Compassion"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 16,
+    "question": "What should accompany knowledge?",
+    "options": ["Humility", "Arrogance", "Greed", "Anger"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is considered the greatest charity?",
+    "options": ["Helping the needy selflessly", "Giving for fame", "Giving for power", "Giving with pride"],
+    "answer": "Helping the needy selflessly"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which quality purifies the heart?",
+    "options": ["Forgiveness", "Hatred", "Cruelty", "Greed"],
+    "answer": "Forgiveness"
+  },
+  {
+    "puranaId": 16,
+    "question": "Who grants liberation to sincere devotees?",
+    "options": ["Lord Vishnu", "Yama", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the highest form of worship?",
+    "options": ["Pure devotion", "Expensive rituals", "Material offerings", "Fame"],
+    "answer": "Pure devotion"
+  },
+  {
+    "puranaId": 16,
+    "question": "What should a person avoid to progress spiritually?",
+    "options": ["Greed", "Truthfulness", "Kindness", "Patience"],
+    "answer": "Greed"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which quality leads to inner peace?",
+    "options": ["Contentment", "Jealousy", "Hatred", "Anger"],
+    "answer": "Contentment"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the purpose of human birth?",
+    "options": ["To attain Moksha", "To gain wealth", "To conquer kingdoms", "To become famous"],
+    "answer": "To attain Moksha"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is temporary according to the Garuda Purana?",
+    "options": ["The physical body", "The soul", "Truth", "Dharma"],
+    "answer": "The physical body"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is eternal?",
+    "options": ["The soul", "Money", "The body", "Power"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which virtue is praised as the root of Dharma?",
+    "options": ["Truthfulness", "Greed", "Violence", "Cruelty"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 16,
+    "question": "Who protects devotees who surrender completely?",
+    "options": ["Lord Vishnu", "Indra", "Agni", "Kubera"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the reward of living a righteous life?",
+    "options": ["Peace and liberation", "Fear", "Confusion", "Sorrow"],
+    "answer": "Peace and liberation"
+  },
+  {
+    "puranaId": 16,
+    "question": "According to the Garuda Purana, what leads to liberation?",
+    "options": [
+      "Good karma, devotion, truthfulness, and righteous living",
+      "Political power",
+      "Material wealth",
+      "Military strength"
+    ],
+    "answer": "Good karma, devotion, truthfulness, and righteous living"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which deity is regarded as the Supreme Protector in the Garuda Purana?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the primary cause of rebirth?",
+    "options": ["Karma", "Wealth", "Knowledge", "Birthplace"],
+    "answer": "Karma"
+  },
+  {
+    "puranaId": 16,
+    "question": "What helps a soul attain liberation?",
+    "options": ["Devotion to God", "Accumulating wealth", "Political power", "Physical strength"],
+    "answer": "Devotion to God"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which quality should a devotee practice every day?",
+    "options": ["Compassion", "Hatred", "Cruelty", "Greed"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 16,
+    "question": "Who is the witness to every action performed by humans?",
+    "options": ["The Supreme Lord", "Only Yama", "Only Chitragupta", "The king"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which quality is the greatest enemy of spiritual progress?",
+    "options": ["Ego", "Humility", "Kindness", "Patience"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 16,
+    "question": "What should accompany every charitable act?",
+    "options": ["Humility", "Recognition", "Pride", "Expectation"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which virtue brings peace to the mind?",
+    "options": ["Contentment", "Greed", "Jealousy", "Anger"],
+    "answer": "Contentment"
+  },
+  {
+    "puranaId": 16,
+    "question": "According to the Garuda Purana, what follows a person after death?",
+    "options": ["Their deeds", "Their family", "Their wealth", "Their house"],
+    "answer": "Their deeds"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which path is praised as the safest path to liberation?",
+    "options": ["Bhakti", "Violence", "Materialism", "Greed"],
+    "answer": "Bhakti"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the greatest form of wealth?",
+    "options": ["Spiritual knowledge", "Gold", "Silver", "Land"],
+    "answer": "Spiritual knowledge"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which quality destroys peace of mind?",
+    "options": ["Greed", "Forgiveness", "Truthfulness", "Faith"],
+    "answer": "Greed"
+  },
+  {
+    "puranaId": 16,
+    "question": "Who protects those who surrender completely?",
+    "options": ["Lord Vishnu", "Indra", "Yama", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 16,
+    "question": "What should every devotee remember throughout life?",
+    "options": ["The name of God", "Worldly success", "Political influence", "Luxury"],
+    "answer": "The name of God"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which quality removes ignorance?",
+    "options": ["Wisdom", "Hatred", "Violence", "Jealousy"],
+    "answer": "Wisdom"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is considered temporary?",
+    "options": ["Worldly possessions", "The soul", "Truth", "Dharma"],
+    "answer": "Worldly possessions"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which quality strengthens devotion?",
+    "options": ["Faith", "Pride", "Cruelty", "Greed"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 16,
+    "question": "What should a devotee control first?",
+    "options": ["The mind", "Other people", "Nature", "Wealth"],
+    "answer": "The mind"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the reward of sincere prayer?",
+    "options": ["Divine grace", "Political success", "Material wealth", "Public fame"],
+    "answer": "Divine grace"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which virtue should guide every decision?",
+    "options": ["Dharma", "Greed", "Hatred", "Pride"],
+    "answer": "Dharma"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the purpose of human birth according to the Garuda Purana?",
+    "options": ["Self-realization", "Political leadership", "Business success", "Material comfort"],
+    "answer": "Self-realization"
+  },
+  {
+    "puranaId": 16,
+    "question": "Who grants Moksha to sincere devotees?",
+    "options": ["Lord Vishnu", "Yama", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which virtue is praised as the foundation of all good deeds?",
+    "options": ["Truthfulness", "Anger", "Greed", "Pride"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the reward of following Dharma?",
+    "options": ["Peace and spiritual progress", "Fear", "Confusion", "Sorrow"],
+    "answer": "Peace and spiritual progress"
+  },
+  {
+    "puranaId": 16,
+    "question": "According to the Garuda Purana, what leads to eternal happiness?",
+    "options": [
+      "Devotion, righteous actions, truthfulness, and good karma",
+      "Political power",
+      "Material wealth",
+      "Military victories"
+    ],
+    "answer": "Devotion, righteous actions, truthfulness, and good karma"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the greatest refuge for a devotee according to the Garuda Purana?",
+    "options": ["Lord Vishnu", "Material wealth", "Political power", "Family status"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which virtue is praised as the basis of righteous living?",
+    "options": ["Honesty", "Greed", "Cruelty", "Hatred"],
+    "answer": "Honesty"
+  },
+  {
+    "puranaId": 16,
+    "question": "What should accompany every prayer?",
+    "options": ["Faith", "Pride", "Fear", "Jealousy"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 16,
+    "question": "Who is the Lord of Vaikuntha?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 16,
+    "question": "What quality helps a person forgive others?",
+    "options": ["Compassion", "Anger", "Hatred", "Greed"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which quality should a devotee abandon?",
+    "options": ["Pride", "Humility", "Kindness", "Truthfulness"],
+    "answer": "Pride"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is considered the greatest enemy of the soul?",
+    "options": ["Ignorance", "Knowledge", "Devotion", "Compassion"],
+    "answer": "Ignorance"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which quality leads to contentment?",
+    "options": ["Simplicity", "Greed", "Luxury", "Jealousy"],
+    "answer": "Simplicity"
+  },
+  {
+    "puranaId": 16,
+    "question": "What should be the goal of every action?",
+    "options": ["Following Dharma", "Gaining fame", "Accumulating wealth", "Seeking power"],
+    "answer": "Following Dharma"
+  },
+  {
+    "puranaId": 16,
+    "question": "Who protects devotees from fear?",
+    "options": ["Lord Vishnu", "Yama", "Agni", "Kubera"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the greatest form of worship?",
+    "options": ["Selfless devotion", "Costly rituals", "Grand temples", "Expensive offerings"],
+    "answer": "Selfless devotion"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which quality purifies the mind?",
+    "options": ["Meditation", "Hatred", "Violence", "Greed"],
+    "answer": "Meditation"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the root cause of suffering?",
+    "options": ["Attachment", "Compassion", "Faith", "Charity"],
+    "answer": "Attachment"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which virtue strengthens society?",
+    "options": ["Justice", "Cruelty", "Dishonesty", "Hatred"],
+    "answer": "Justice"
+  },
+  {
+    "puranaId": 16,
+    "question": "Who grants divine grace to sincere devotees?",
+    "options": ["Lord Vishnu", "Brahma", "Indra", "Varuna"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 16,
+    "question": "What should accompany spiritual knowledge?",
+    "options": ["Humility", "Arrogance", "Pride", "Greed"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is considered the highest wealth?",
+    "options": ["Devotion", "Gold", "Land", "Jewels"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which quality leads to liberation?",
+    "options": ["Detachment", "Attachment", "Greed", "Hatred"],
+    "answer": "Detachment"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the purpose of studying sacred scriptures?",
+    "options": ["To gain wisdom and follow Dharma", "To gain fame", "To become wealthy", "To defeat enemies"],
+    "answer": "To gain wisdom and follow Dharma"
+  },
+  {
+    "puranaId": 16,
+    "question": "Who is the ultimate judge of all actions?",
+    "options": ["The Supreme Lord", "The King", "The Family", "Society"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the greatest reward of righteous living?",
+    "options": ["Inner peace", "Political authority", "Material success", "Popularity"],
+    "answer": "Inner peace"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the final destination of a liberated soul?",
+    "options": ["Vaikuntha", "Earth", "Hell", "The Moon"],
+    "answer": "Vaikuntha"
+  },
+  {
+    "puranaId": 16,
+    "question": "Which path is repeatedly praised in the Garuda Purana?",
+    "options": ["Bhakti and Dharma", "Materialism", "Violence", "Selfishness"],
+    "answer": "Bhakti and Dharma"
+  },
+  {
+    "puranaId": 16,
+    "question": "What should a devotee seek above all else?",
+    "options": ["God's grace", "Worldly fame", "Political power", "Material wealth"],
+    "answer": "God's grace"
+  },
+  {
+    "puranaId": 16,
+    "question": "What is the ultimate message of the Garuda Purana?",
+    "options": [
+      "Live righteously, perform good karma, remain devoted to God, and attain liberation.",
+      "Material wealth is the highest achievement.",
+      "Political power is eternal.",
+      "Only rituals ensure salvation."
+    ],
+    "answer": "Live righteously, perform good karma, remain devoted to God, and attain liberation."
+  }
+]
+

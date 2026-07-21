@@ -1,0 +1,622 @@
+[
+  {
+    "puranaId": 17,
+    "question": "Who compiled the Brahmanda Purana?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vasistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 17,
+    "question": "The Brahmanda Purana is one of the _____ Mahapuranas.",
+    "options": ["18", "12", "10", "24"],
+    "answer": "18"
+  },
+  {
+    "puranaId": 17,
+    "question": "What does the word 'Brahmanda' mean?",
+    "options": ["Cosmic Egg (Universe)", "Mountain", "Ocean", "Temple"],
+    "answer": "Cosmic Egg (Universe)"
+  },
+  {
+    "puranaId": 17,
+    "question": "The Brahmanda Purana mainly describes which subject?",
+    "options": ["Creation and structure of the universe", "Medicine only", "Politics", "Agriculture"],
+    "answer": "Creation and structure of the universe"
+  },
+  {
+    "puranaId": 17,
+    "question": "Who is traditionally regarded as the creator of the universe?",
+    "options": ["Lord Brahma", "Lord Vishnu", "Lord Shiva", "Indra"],
+    "answer": "Lord Brahma"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which goddess is glorified through the Lalita Sahasranama found in the Brahmanda Purana?",
+    "options": ["Goddess Lalita Tripura Sundari", "Lakshmi", "Saraswati", "Parvati"],
+    "answer": "Goddess Lalita Tripura Sundari"
+  },
+  {
+    "puranaId": 17,
+    "question": "How many names are contained in the Lalita Sahasranama?",
+    "options": ["1000", "108", "100", "1008"],
+    "answer": "1000"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which yuga are we currently believed to be in according to Hindu tradition?",
+    "options": ["Kali Yuga", "Satya Yuga", "Treta Yuga", "Dvapara Yuga"],
+    "answer": "Kali Yuga"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is the ultimate goal of human life according to the Brahmanda Purana?",
+    "options": ["Moksha", "Political power", "Material wealth", "Fame"],
+    "answer": "Moksha"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which path leads to liberation?",
+    "options": ["Devotion and righteous living", "Violence", "Greed", "Hatred"],
+    "answer": "Devotion and righteous living"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is considered eternal?",
+    "options": ["The soul", "The body", "Money", "Kingdoms"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is considered temporary?",
+    "options": ["The physical body", "The soul", "Truth", "Dharma"],
+    "answer": "The physical body"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which virtue is praised as the foundation of Dharma?",
+    "options": ["Truthfulness", "Greed", "Cruelty", "Jealousy"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which quality should accompany knowledge?",
+    "options": ["Humility", "Pride", "Arrogance", "Greed"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 17,
+    "question": "Who preserves the universe according to Hindu belief?",
+    "options": ["Lord Vishnu", "Lord Brahma", "Lord Shiva", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 17,
+    "question": "Who is associated with the dissolution of the universe?",
+    "options": ["Lord Shiva", "Lord Brahma", "Lord Vishnu", "Indra"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which quality destroys spiritual progress?",
+    "options": ["Ego", "Faith", "Compassion", "Patience"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 17,
+    "question": "What should accompany every act of charity?",
+    "options": ["Selflessness", "Recognition", "Pride", "Expectation"],
+    "answer": "Selflessness"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is considered the highest wealth?",
+    "options": ["Spiritual wisdom", "Gold", "Land", "Jewels"],
+    "answer": "Spiritual wisdom"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which quality leads to inner peace?",
+    "options": ["Contentment", "Greed", "Hatred", "Anger"],
+    "answer": "Contentment"
+  },
+  {
+    "puranaId": 17,
+    "question": "Who grants liberation to sincere devotees?",
+    "options": ["The Supreme Lord", "Indra", "Agni", "Kubera"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is the purpose of studying sacred scriptures?",
+    "options": ["To gain wisdom and follow Dharma", "To gain fame", "To become wealthy", "To defeat others"],
+    "answer": "To gain wisdom and follow Dharma"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which path is repeatedly praised in the Brahmanda Purana?",
+    "options": ["Bhakti and Dharma", "Materialism", "Violence", "Greed"],
+    "answer": "Bhakti and Dharma"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is the reward of righteous living?",
+    "options": ["Peace and spiritual progress", "Fear", "Confusion", "Sorrow"],
+    "answer": "Peace and spiritual progress"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is the central teaching of the Brahmanda Purana?",
+    "options": [
+      "Understand the universe, follow Dharma, cultivate devotion, and attain liberation.",
+      "Material wealth is life's highest goal.",
+      "Political power is supreme.",
+      "Only rituals guarantee salvation."
+    ],
+    "answer": "Understand the universe, follow Dharma, cultivate devotion, and attain liberation."
+  },
+  {
+    "puranaId": 17,
+    "question": "What does the Brahmanda Purana explain in detail?",
+    "options": ["The creation of the universe", "Only warfare", "Agriculture", "Music"],
+    "answer": "The creation of the universe"
+  },
+  {
+    "puranaId": 17,
+    "question": "Who is traditionally born from the lotus emerging from Lord Vishnu?",
+    "options": ["Lord Brahma", "Lord Shiva", "Indra", "Agni"],
+    "answer": "Lord Brahma"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which goddess is worshipped as the Divine Mother in the Lalita tradition?",
+    "options": ["Lalita Tripura Sundari", "Lakshmi", "Saraswati", "Ganga"],
+    "answer": "Lalita Tripura Sundari"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is the first stage of the cosmic cycle?",
+    "options": ["Creation", "Preservation", "Dissolution", "Rebirth"],
+    "answer": "Creation"
+  },
+  {
+    "puranaId": 17,
+    "question": "Who preserves the universe after its creation?",
+    "options": ["Lord Vishnu", "Lord Brahma", "Lord Shiva", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 17,
+    "question": "Who brings about cosmic dissolution?",
+    "options": ["Lord Shiva", "Lord Vishnu", "Lord Brahma", "Surya"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which quality is praised as essential for spiritual growth?",
+    "options": ["Faith", "Greed", "Hatred", "Pride"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 17,
+    "question": "What should accompany every prayer?",
+    "options": ["Sincerity", "Pride", "Fear", "Jealousy"],
+    "answer": "Sincerity"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which quality destroys inner peace?",
+    "options": ["Greed", "Contentment", "Compassion", "Truthfulness"],
+    "answer": "Greed"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is considered the greatest wealth?",
+    "options": ["Spiritual wisdom", "Gold", "Silver", "Land"],
+    "answer": "Spiritual wisdom"
+  },
+  {
+    "puranaId": 17,
+    "question": "Who grants wisdom to sincere devotees?",
+    "options": ["The Supreme Lord", "Indra", "Kubera", "Varuna"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which quality strengthens devotion?",
+    "options": ["Humility", "Arrogance", "Cruelty", "Hatred"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is the reward of selfless service?",
+    "options": ["Purification of the heart", "Political success", "Material wealth", "Public fame"],
+    "answer": "Purification of the heart"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which virtue is praised as the root of Dharma?",
+    "options": ["Truthfulness", "Violence", "Jealousy", "Greed"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 17,
+    "question": "What should every devotee seek above worldly success?",
+    "options": ["God's grace", "Political power", "Luxury", "Riches"],
+    "answer": "God's grace"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which quality should be abandoned to attain liberation?",
+    "options": ["Ego", "Compassion", "Patience", "Kindness"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is eternal according to the Brahmanda Purana?",
+    "options": ["The soul", "The body", "Money", "Kingdoms"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is temporary?",
+    "options": ["Material possessions", "Truth", "The soul", "Dharma"],
+    "answer": "Material possessions"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which quality helps overcome anger?",
+    "options": ["Patience", "Hatred", "Violence", "Greed"],
+    "answer": "Patience"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is the purpose of human life?",
+    "options": ["To attain Moksha", "To gain wealth", "To become famous", "To conquer kingdoms"],
+    "answer": "To attain Moksha"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which path is repeatedly praised?",
+    "options": ["Bhakti and Dharma", "Materialism", "Violence", "Selfishness"],
+    "answer": "Bhakti and Dharma"
+  },
+  {
+    "puranaId": 17,
+    "question": "Who protects sincere devotees?",
+    "options": ["The Supreme Lord", "Indra", "Agni", "Yama"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is the reward of righteous actions?",
+    "options": ["Peace and spiritual progress", "Fear", "Confusion", "Sorrow"],
+    "answer": "Peace and spiritual progress"
+  },
+  {
+    "puranaId": 17,
+    "question": "What should accompany knowledge?",
+    "options": ["Humility", "Pride", "Greed", "Anger"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 17,
+    "question": "According to the Brahmanda Purana, what leads to liberation?",
+    "options": [
+      "Devotion, wisdom, truthfulness, and righteous living",
+      "Political power",
+      "Material wealth",
+      "Military victories"
+    ],
+    "answer": "Devotion, wisdom, truthfulness, and righteous living"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which Purana contains the famous Lalita Sahasranama?",
+    "options": ["Brahmanda Purana", "Vishnu Purana", "Shiva Purana", "Agni Purana"],
+    "answer": "Brahmanda Purana"
+  },
+  {
+    "puranaId": 17,
+    "question": "How many names are recited in the Lalita Sahasranama?",
+    "options": ["1000", "108", "100", "1008"],
+    "answer": "1000"
+  },
+  {
+    "puranaId": 17,
+    "question": "What does the cosmic egg (Brahmanda) represent?",
+    "options": ["The Universe", "The Earth", "A Mountain", "The Ocean"],
+    "answer": "The Universe"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which deity is associated with creation?",
+    "options": ["Brahma", "Vishnu", "Shiva", "Agni"],
+    "answer": "Brahma"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which deity preserves the universe?",
+    "options": ["Vishnu", "Brahma", "Shiva", "Surya"],
+    "answer": "Vishnu"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which deity is responsible for dissolution?",
+    "options": ["Shiva", "Brahma", "Vishnu", "Indra"],
+    "answer": "Shiva"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which quality is the foundation of spiritual life?",
+    "options": ["Faith", "Greed", "Hatred", "Jealousy"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 17,
+    "question": "What should accompany devotion?",
+    "options": ["Humility", "Pride", "Arrogance", "Anger"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 17,
+    "question": "What destroys spiritual wisdom?",
+    "options": ["Ego", "Patience", "Compassion", "Truthfulness"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which virtue helps build a righteous society?",
+    "options": ["Truthfulness", "Dishonesty", "Violence", "Cruelty"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is considered the greatest wealth?",
+    "options": ["Wisdom", "Gold", "Jewels", "Property"],
+    "answer": "Wisdom"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which quality should be practiced in every action?",
+    "options": ["Compassion", "Hatred", "Greed", "Pride"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is the reward of sincere devotion?",
+    "options": ["Divine grace", "Political power", "Material wealth", "Public fame"],
+    "answer": "Divine grace"
+  },
+  {
+    "puranaId": 17,
+    "question": "What should every devotee remember?",
+    "options": ["God is the ultimate refuge", "Money is permanent", "Power is eternal", "Fame never fades"],
+    "answer": "God is the ultimate refuge"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which quality removes ignorance?",
+    "options": ["Knowledge", "Greed", "Violence", "Hatred"],
+    "answer": "Knowledge"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is temporary?",
+    "options": ["The physical body", "The soul", "Truth", "Dharma"],
+    "answer": "The physical body"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is eternal?",
+    "options": ["The soul", "The body", "Money", "Kingdoms"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which path leads to liberation?",
+    "options": ["Bhakti (Devotion)", "Violence", "Greed", "Hatred"],
+    "answer": "Bhakti (Devotion)"
+  },
+  {
+    "puranaId": 17,
+    "question": "What should accompany charity?",
+    "options": ["Selflessness", "Recognition", "Pride", "Expectation"],
+    "answer": "Selflessness"
+  },
+  {
+    "puranaId": 17,
+    "question": "Who grants Moksha to sincere devotees?",
+    "options": ["The Supreme Lord", "Indra", "Agni", "Kubera"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is the purpose of studying sacred scriptures?",
+    "options": ["To understand Dharma", "To become wealthy", "To gain fame", "To defeat others"],
+    "answer": "To understand Dharma"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which quality brings inner peace?",
+    "options": ["Contentment", "Greed", "Hatred", "Jealousy"],
+    "answer": "Contentment"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is the highest goal of human life?",
+    "options": ["Moksha", "Political power", "Wealth", "Popularity"],
+    "answer": "Moksha"
+  },
+  {
+    "puranaId": 17,
+    "question": "Who protects those who sincerely follow Dharma?",
+    "options": ["The Supreme Lord", "Indra", "Agni", "Yama"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 17,
+    "question": "According to the Brahmanda Purana, what leads to liberation?",
+    "options": [
+      "Devotion, wisdom, truthfulness, humility, and righteous living",
+      "Material wealth",
+      "Political authority",
+      "Military strength"
+    ],
+    "answer": "Devotion, wisdom, truthfulness, humility, and righteous living"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which scripture emphasizes the cyclical nature of creation, preservation, and dissolution?",
+    "options": ["Brahmanda Purana", "Ramayana", "Mahabharata", "Bhagavad Gita"],
+    "answer": "Brahmanda Purana"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which quality is considered essential for attaining divine grace?",
+    "options": ["Faith", "Pride", "Greed", "Hatred"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 17,
+    "question": "Who is worshipped as the Divine Mother in the Lalita Sahasranama?",
+    "options": ["Lalita Tripura Sundari", "Lakshmi", "Parvati", "Saraswati"],
+    "answer": "Lalita Tripura Sundari"
+  },
+  {
+    "puranaId": 17,
+    "question": "What should accompany spiritual knowledge?",
+    "options": ["Humility", "Arrogance", "Pride", "Jealousy"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which virtue is praised as the basis of righteous conduct?",
+    "options": ["Truthfulness", "Cruelty", "Greed", "Violence"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 17,
+    "question": "Who grants liberation to sincere devotees?",
+    "options": ["The Supreme Lord", "Indra", "Agni", "Kubera"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is considered temporary?",
+    "options": ["Material wealth", "The soul", "Truth", "Dharma"],
+    "answer": "Material wealth"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is eternal?",
+    "options": ["The soul", "The body", "Money", "Kingdoms"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which quality should a devotee avoid?",
+    "options": ["Ego", "Compassion", "Patience", "Kindness"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is the greatest form of wealth?",
+    "options": ["Spiritual wisdom", "Gold", "Silver", "Land"],
+    "answer": "Spiritual wisdom"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which path is repeatedly praised throughout the Brahmanda Purana?",
+    "options": ["Bhakti (Devotion)", "Violence", "Materialism", "Greed"],
+    "answer": "Bhakti (Devotion)"
+  },
+  {
+    "puranaId": 17,
+    "question": "What should accompany every charitable act?",
+    "options": ["Selflessness", "Recognition", "Pride", "Expectation"],
+    "answer": "Selflessness"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which quality strengthens devotion?",
+    "options": ["Prayer", "Anger", "Hatred", "Greed"],
+    "answer": "Prayer"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is the reward of following Dharma?",
+    "options": ["Peace and spiritual progress", "Fear", "Confusion", "Sorrow"],
+    "answer": "Peace and spiritual progress"
+  },
+  {
+    "puranaId": 17,
+    "question": "Who protects sincere devotees?",
+    "options": ["The Supreme Lord", "Indra", "Yama", "Varuna"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which quality purifies the heart?",
+    "options": ["Compassion", "Cruelty", "Hatred", "Jealousy"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 17,
+    "question": "What should every devotee seek above worldly success?",
+    "options": ["God's grace", "Political power", "Luxury", "Riches"],
+    "answer": "God's grace"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which quality helps overcome anger?",
+    "options": ["Patience", "Violence", "Hatred", "Greed"],
+    "answer": "Patience"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is the purpose of human birth?",
+    "options": ["To attain Moksha", "To gain wealth", "To become famous", "To rule others"],
+    "answer": "To attain Moksha"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which virtue is praised as the root of Dharma?",
+    "options": ["Truthfulness", "Dishonesty", "Greed", "Cruelty"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 17,
+    "question": "What should every person remember about the universe?",
+    "options": ["It follows a divine cosmic cycle", "It never changes", "It belongs to humans", "It exists without God"],
+    "answer": "It follows a divine cosmic cycle"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is the highest goal of spiritual practice?",
+    "options": ["Liberation (Moksha)", "Material wealth", "Political power", "Public fame"],
+    "answer": "Liberation (Moksha)"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is the purpose of studying the Brahmanda Purana?",
+    "options": ["To understand creation, Dharma, and the path to liberation", "To learn warfare", "To gain political influence", "To become wealthy"],
+    "answer": "To understand creation, Dharma, and the path to liberation"
+  },
+  {
+    "puranaId": 17,
+    "question": "Which virtue should guide every decision?",
+    "options": ["Righteousness", "Greed", "Hatred", "Pride"],
+    "answer": "Righteousness"
+  },
+  {
+    "puranaId": 17,
+    "question": "What is the ultimate message of the Brahmanda Purana?",
+    "options": [
+      "Understand creation, live according to Dharma, cultivate devotion, and attain liberation.",
+      "Material wealth is life's greatest achievement.",
+      "Political power is eternal.",
+      "Only rituals guarantee salvation."
+    ],
+    "answer": "Understand creation, live according to Dharma, cultivate devotion, and attain liberation."
+  }
+]

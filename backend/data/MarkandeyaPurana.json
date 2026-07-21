@@ -1,0 +1,622 @@
+[
+  {
+    "puranaId": 7,
+    "question": "After which sage is the Markandeya Purana named?",
+    "options": ["Markandeya", "Narada", "Vyasa", "Valmiki"],
+    "answer": "Markandeya"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who was the father of Sage Markandeya?",
+    "options": ["Mrikandu", "Vasistha", "Kashyapa", "Atri"],
+    "answer": "Mrikandu"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which deity granted Markandeya immortality?",
+    "options": ["Lord Shiva", "Lord Vishnu", "Brahma", "Indra"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 7,
+    "question": "Why is Sage Markandeya famous?",
+    "options": ["He conquered death through devotion", "He became a king", "He discovered fire", "He built a temple"],
+    "answer": "He conquered death through devotion"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who came to take Markandeya's life at the age of sixteen?",
+    "options": ["Yama", "Indra", "Agni", "Kubera"],
+    "answer": "Yama"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which Shiva Linga did Markandeya embrace?",
+    "options": ["The Shiva Linga he worshipped", "Somnath", "Kashi Vishwanath", "Mahakaleshwar"],
+    "answer": "The Shiva Linga he worshipped"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which weapon of Yama was stopped by Lord Shiva?",
+    "options": ["Noose", "Sword", "Bow", "Spear"],
+    "answer": "Noose"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which form of Shiva appeared to save Markandeya?",
+    "options": ["Kalantaka", "Nataraja", "Dakshinamurthy", "Ardhanarishvara"],
+    "answer": "Kalantaka"
+  },
+  {
+    "puranaId": 7,
+    "question": "The Markandeya Purana is one of how many Mahapuranas?",
+    "options": ["18", "12", "16", "24"],
+    "answer": "18"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who compiled the Markandeya Purana?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Markandeya"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which famous text is part of the Markandeya Purana?",
+    "options": ["Devi Mahatmya", "Bhagavad Gita", "Yoga Sutras", "Ramayana"],
+    "answer": "Devi Mahatmya"
+  },
+  {
+    "puranaId": 7,
+    "question": "Devi Mahatmya mainly glorifies which Goddess?",
+    "options": ["Durga", "Lakshmi", "Saraswati", "Radha"],
+    "answer": "Durga"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which festival celebrates Goddess Durga's victory?",
+    "options": ["Navaratri", "Diwali", "Holi", "Janmashtami"],
+    "answer": "Navaratri"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who defeated Mahishasura?",
+    "options": ["Goddess Durga", "Lakshmi", "Parvati", "Saraswati"],
+    "answer": "Goddess Durga"
+  },
+  {
+    "puranaId": 7,
+    "question": "Mahishasura was a?",
+    "options": ["Buffalo demon", "Snake demon", "Lion demon", "Elephant demon"],
+    "answer": "Buffalo demon"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which Goddess killed Shumbha and Nishumbha?",
+    "options": ["Durga", "Lakshmi", "Kali", "Saraswati"],
+    "answer": "Durga"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who emerged from Durga's forehead to destroy demons?",
+    "options": ["Kali", "Lakshmi", "Saraswati", "Ganga"],
+    "answer": "Kali"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which demon multiplied from every drop of his blood?",
+    "options": ["Raktabija", "Mahishasura", "Madhu", "Kaitabha"],
+    "answer": "Raktabija"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who drank the blood of Raktabija?",
+    "options": ["Kali", "Durga", "Lakshmi", "Parvati"],
+    "answer": "Kali"
+  },
+  {
+    "puranaId": 7,
+    "question": "What does the Markandeya Purana teach through Devi Mahatmya?",
+    "options": ["The victory of good over evil", "Only wealth matters", "War is supreme", "Kings are divine"],
+    "answer": "The victory of good over evil"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which virtue is emphasized throughout the Markandeya Purana?",
+    "options": ["Devotion", "Greed", "Anger", "Pride"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who grants protection to sincere devotees?",
+    "options": ["The Divine Mother", "Indra", "Kubera", "Agni"],
+    "answer": "The Divine Mother"
+  },
+  {
+    "puranaId": 7,
+    "question": "What is the result of sincere worship of the Goddess?",
+    "options": ["Blessings and protection", "Material suffering", "Defeat", "Confusion"],
+    "answer": "Blessings and protection"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which quality should devotees cultivate?",
+    "options": ["Faith", "Hatred", "Jealousy", "Cruelty"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 7,
+    "question": "What is the central message of the Markandeya Purana?",
+    "options": [
+      "Devotion and righteousness overcome evil",
+      "Wealth is life's purpose",
+      "Power is supreme",
+      "Only rituals matter"
+    ],
+    "answer": "Devotion and righteousness overcome evil"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who created the universe according to Hindu tradition?",
+    "options": ["Brahma", "Vishnu", "Shiva", "Indra"],
+    "answer": "Brahma"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who preserves the universe?",
+    "options": ["Vishnu", "Brahma", "Shiva", "Surya"],
+    "answer": "Vishnu"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who is the destroyer in the Trimurti?",
+    "options": ["Shiva", "Brahma", "Vishnu", "Indra"],
+    "answer": "Shiva"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which Goddess represents divine power (Shakti)?",
+    "options": ["Durga", "Lakshmi", "Saraswati", "Ganga"],
+    "answer": "Durga"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which demon was defeated by Goddess Chamunda?",
+    "options": ["Chanda and Munda", "Mahishasura", "Raktabija", "Madhu"],
+    "answer": "Chanda and Munda"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who gave Goddess Durga her divine weapons?",
+    "options": ["The Devas", "The Asuras", "The Sages", "Kings"],
+    "answer": "The Devas"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which weapon was given to Durga by Lord Shiva?",
+    "options": ["Trishula", "Chakra", "Bow", "Mace"],
+    "answer": "Trishula"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which weapon was gifted by Lord Vishnu?",
+    "options": ["Sudarshana Chakra", "Trident", "Bow", "Sword"],
+    "answer": "Sudarshana Chakra"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who gifted the Vajra to Goddess Durga?",
+    "options": ["Indra", "Agni", "Varuna", "Kubera"],
+    "answer": "Indra"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which animal is Goddess Durga's vehicle?",
+    "options": ["Lion", "Tiger", "Elephant", "Horse"],
+    "answer": "Lion"
+  },
+  {
+    "puranaId": 7,
+    "question": "What does Durga symbolize?",
+    "options": ["Courage and righteousness", "Greed", "Anger", "Pride"],
+    "answer": "Courage and righteousness"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which scripture contains the Devi Mahatmya?",
+    "options": ["Markandeya Purana", "Bhagavata Purana", "Agni Purana", "Garuda Purana"],
+    "answer": "Markandeya Purana"
+  },
+  {
+    "puranaId": 7,
+    "question": "How many chapters are there in the Devi Mahatmya?",
+    "options": ["13", "18", "12", "24"],
+    "answer": "13"
+  },
+  {
+    "puranaId": 7,
+    "question": "During which festival is the Devi Mahatmya widely recited?",
+    "options": ["Navaratri", "Diwali", "Janmashtami", "Rama Navami"],
+    "answer": "Navaratri"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which virtue helps devotees overcome fear?",
+    "options": ["Faith", "Pride", "Hatred", "Greed"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who blesses devotees with protection?",
+    "options": ["Divine Mother", "Kubera", "Indra", "Yama"],
+    "answer": "Divine Mother"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which quality is condemned in the Markandeya Purana?",
+    "options": ["Ego", "Compassion", "Humility", "Truthfulness"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who is considered the Mother of the Universe?",
+    "options": ["Durga", "Lakshmi", "Saraswati", "Parvati"],
+    "answer": "Durga"
+  },
+  {
+    "puranaId": 7,
+    "question": "What should accompany every act of worship?",
+    "options": ["Sincerity", "Pride", "Anger", "Violence"],
+    "answer": "Sincerity"
+  },
+  {
+    "puranaId": 7,
+    "question": "What is the reward of righteous living?",
+    "options": ["Peace and divine grace", "Suffering", "Defeat", "Fear"],
+    "answer": "Peace and divine grace"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who is the author of the Mahapuranas?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vasistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which sage narrated this Purana?",
+    "options": ["Markandeya", "Agastya", "Parashara", "Atri"],
+    "answer": "Markandeya"
+  },
+  {
+    "puranaId": 7,
+    "question": "What is considered stronger than physical strength?",
+    "options": ["Devotion", "Wealth", "Power", "Fame"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who ultimately destroys evil?",
+    "options": ["The Divine Mother", "Kings", "Warriors", "Demons"],
+    "answer": "The Divine Mother"
+  },
+  {
+    "puranaId": 7,
+    "question": "What is the main lesson of the Devi Mahatmya?",
+    "options": [
+      "Divine power always triumphs over evil",
+      "Wealth is supreme",
+      "Power alone wins",
+      "Knowledge is unnecessary"
+    ],
+    "answer": "Divine power always triumphs over evil"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who narrated the Markandeya Purana to Sage Jaimini?",
+    "options": ["Markandeya", "Vyasa", "Narada", "Shuka"],
+    "answer": "Markandeya"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which scripture glorifies the Divine Mother as the Supreme Reality?",
+    "options": ["Devi Mahatmya", "Bhagavad Gita", "Ramayana", "Yoga Sutras"],
+    "answer": "Devi Mahatmya"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who requested the gods to create Goddess Durga?",
+    "options": ["The Devas", "The Asuras", "The Rishis", "Humans"],
+    "answer": "The Devas"
+  },
+  {
+    "puranaId": 7,
+    "question": "From whose combined energies was Durga created?",
+    "options": ["All the gods", "Only Shiva", "Only Vishnu", "Only Brahma"],
+    "answer": "All the gods"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which demon brothers were defeated by the Goddess?",
+    "options": ["Shumbha and Nishumbha", "Madhu and Kaitabha", "Lava and Kusha", "Hiranyaksha and Hiranyakashipu"],
+    "answer": "Shumbha and Nishumbha"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which goddess is worshipped during Durga Puja?",
+    "options": ["Durga", "Lakshmi", "Saraswati", "Ganga"],
+    "answer": "Durga"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which demon represents uncontrolled ego?",
+    "options": ["Mahishasura", "Prahlada", "Dhruva", "Bali"],
+    "answer": "Mahishasura"
+  },
+  {
+    "puranaId": 7,
+    "question": "What does Mahishasura symbolize?",
+    "options": ["Ignorance and arrogance", "Knowledge", "Compassion", "Humility"],
+    "answer": "Ignorance and arrogance"
+  },
+  {
+    "puranaId": 7,
+    "question": "What does Goddess Durga symbolize?",
+    "options": ["Divine strength", "Material wealth", "Political power", "War"],
+    "answer": "Divine strength"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who blesses devotees with courage?",
+    "options": ["Durga", "Kubera", "Indra", "Varuna"],
+    "answer": "Durga"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which flower is commonly offered to Goddess Durga?",
+    "options": ["Red Hibiscus", "Lotus", "Rose", "Sunflower"],
+    "answer": "Red Hibiscus"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which color is associated with Goddess Durga?",
+    "options": ["Red", "Black", "Blue", "White"],
+    "answer": "Red"
+  },
+  {
+    "puranaId": 7,
+    "question": "How many forms of Durga are worshipped during Navaratri?",
+    "options": ["Nine", "Eight", "Ten", "Twelve"],
+    "answer": "Nine"
+  },
+  {
+    "puranaId": 7,
+    "question": "What is the meaning of Navaratri?",
+    "options": ["Nine Nights", "Ten Days", "Seven Weeks", "Five Festivals"],
+    "answer": "Nine Nights"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which festival ends with Vijayadashami?",
+    "options": ["Navaratri", "Diwali", "Holi", "Janmashtami"],
+    "answer": "Navaratri"
+  },
+  {
+    "puranaId": 7,
+    "question": "What does Vijayadashami celebrate?",
+    "options": ["Victory of good over evil", "Harvest", "Marriage", "Coronation"],
+    "answer": "Victory of good over evil"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which quality helps defeat evil?",
+    "options": ["Righteousness", "Greed", "Hatred", "Laziness"],
+    "answer": "Righteousness"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who protects sincere devotees?",
+    "options": ["The Divine Mother", "Demons", "Kings", "Warriors"],
+    "answer": "The Divine Mother"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which virtue is praised throughout the Markandeya Purana?",
+    "options": ["Truthfulness", "Dishonesty", "Violence", "Jealousy"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 7,
+    "question": "What should always accompany knowledge?",
+    "options": ["Humility", "Pride", "Anger", "Greed"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 7,
+    "question": "What is considered the greatest strength?",
+    "options": ["Faith in God", "Money", "Army", "Weapons"],
+    "answer": "Faith in God"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who grants liberation according to the Purana?",
+    "options": ["The Divine Mother", "Kings", "Sages", "Warriors"],
+    "answer": "The Divine Mother"
+  },
+  {
+    "puranaId": 7,
+    "question": "What is the fruit of sincere devotion?",
+    "options": ["Peace and liberation", "Pride", "Fear", "Confusion"],
+    "answer": "Peace and liberation"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which scripture is recited for the blessings of Goddess Durga?",
+    "options": ["Devi Mahatmya", "Bhagavad Gita", "Rig Veda", "Ramayana"],
+    "answer": "Devi Mahatmya"
+  },
+  {
+    "puranaId": 7,
+    "question": "What is the primary teaching of the Markandeya Purana?",
+    "options": [
+      "Faith, righteousness, and devotion always triumph",
+      "Wealth is the highest goal",
+      "Power is supreme",
+      "Only rituals matter"
+    ],
+    "answer": "Faith, righteousness, and devotion always triumph"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who is the Supreme Goddess praised in the Devi Mahatmya?",
+    "options": ["Durga", "Lakshmi", "Saraswati", "Ganga"],
+    "answer": "Durga"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which scripture is also known as the Chandi Path?",
+    "options": ["Devi Mahatmya", "Bhagavad Gita", "Ramayana", "Vishnu Sahasranama"],
+    "answer": "Devi Mahatmya"
+  },
+  {
+    "puranaId": 7,
+    "question": "How many major episodes are found in the Devi Mahatmya?",
+    "options": ["Three", "Four", "Five", "Seven"],
+    "answer": "Three"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who is the slayer of Madhu and Kaitabha in the Devi Mahatmya?",
+    "options": ["Mahakali", "Mahalakshmi", "Mahasaraswati", "Parvati"],
+    "answer": "Mahakali"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which form of the Goddess defeated Mahishasura?",
+    "options": ["Mahalakshmi", "Mahakali", "Mahasaraswati", "Annapurna"],
+    "answer": "Mahalakshmi"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which form of the Goddess defeated Shumbha and Nishumbha?",
+    "options": ["Mahasaraswati", "Mahakali", "Lakshmi", "Parvati"],
+    "answer": "Mahasaraswati"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who praises the Goddess after the defeat of Mahishasura?",
+    "options": ["The Devas", "The Asuras", "The Kings", "The Sages"],
+    "answer": "The Devas"
+  },
+  {
+    "puranaId": 7,
+    "question": "What does the word 'Devi' mean?",
+    "options": ["Goddess", "Queen", "Mother", "Saint"],
+    "answer": "Goddess"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which quality attracts the blessings of the Goddess?",
+    "options": ["Pure devotion", "Pride", "Greed", "Anger"],
+    "answer": "Pure devotion"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who is considered the Divine Mother of all beings?",
+    "options": ["Durga", "Lakshmi", "Saraswati", "Radha"],
+    "answer": "Durga"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which scripture is commonly recited during Durga Puja?",
+    "options": ["Devi Mahatmya", "Bhagavad Gita", "Ramcharitmanas", "Vedas"],
+    "answer": "Devi Mahatmya"
+  },
+  {
+    "puranaId": 7,
+    "question": "What does the lion of Goddess Durga symbolize?",
+    "options": ["Courage", "Greed", "Fear", "Pride"],
+    "answer": "Courage"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which virtue defeats evil according to the Markandeya Purana?",
+    "options": ["Righteousness", "Hatred", "Violence", "Jealousy"],
+    "answer": "Righteousness"
+  },
+  {
+    "puranaId": 7,
+    "question": "What should every devotee cultivate?",
+    "options": ["Faith", "Ego", "Pride", "Anger"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who protects those who surrender completely?",
+    "options": ["The Divine Mother", "Kings", "Demons", "Warriors"],
+    "answer": "The Divine Mother"
+  },
+  {
+    "puranaId": 7,
+    "question": "What is considered temporary in the Purana?",
+    "options": ["Material wealth", "Devotion", "Truth", "Compassion"],
+    "answer": "Material wealth"
+  },
+  {
+    "puranaId": 7,
+    "question": "What is eternal according to the Markandeya Purana?",
+    "options": ["Divine Truth", "Power", "Kingdoms", "Gold"],
+    "answer": "Divine Truth"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which quality leads to inner peace?",
+    "options": ["Humility", "Arrogance", "Hatred", "Jealousy"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 7,
+    "question": "What should a devotee remember in difficult times?",
+    "options": ["The Divine Mother", "Material wealth", "Political power", "Fame"],
+    "answer": "The Divine Mother"
+  },
+  {
+    "puranaId": 7,
+    "question": "Which path is praised throughout the Markandeya Purana?",
+    "options": ["Bhakti (Devotion)", "Violence", "Greed", "Pride"],
+    "answer": "Bhakti (Devotion)"
+  },
+  {
+    "puranaId": 7,
+    "question": "What is the fruit of reading the Markandeya Purana with devotion?",
+    "options": ["Spiritual growth", "Political success", "Military power", "Luxury"],
+    "answer": "Spiritual growth"
+  },
+  {
+    "puranaId": 7,
+    "question": "Who composed the 18 Mahapuranas?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vasistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 7,
+    "question": "How many Mahapuranas are recognized in Hindu tradition?",
+    "options": ["18", "12", "16", "24"],
+    "answer": "18"
+  },
+  {
+    "puranaId": 7,
+    "question": "According to the Markandeya Purana, what is stronger than evil?",
+    "options": ["Divine righteousness", "Physical strength", "Wealth", "Political power"],
+    "answer": "Divine righteousness"
+  },
+  {
+    "puranaId": 7,
+    "question": "What is the ultimate teaching of the Markandeya Purana?",
+    "options": [
+      "Faith in the Divine Mother leads to victory, peace, and liberation",
+      "Wealth is life's greatest achievement",
+      "Power is the highest virtue",
+      "Only rituals bring salvation"
+    ],
+    "answer": "Faith in the Divine Mother leads to victory, peace, and liberation"
+  }
+]

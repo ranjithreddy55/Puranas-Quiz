@@ -1,0 +1,622 @@
+[
+  {
+    "puranaId": 14,
+    "question": "Who compiled the Kurma Purana?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vasistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which avatar of Lord Vishnu is the central focus of the Kurma Purana?",
+    "options": ["Kurma", "Varaha", "Vamana", "Matsya"],
+    "answer": "Kurma"
+  },
+  {
+    "puranaId": 14,
+    "question": "Kurma is the _____ avatar of Lord Vishnu.",
+    "options": ["Second", "First", "Third", "Fifth"],
+    "answer": "Second"
+  },
+  {
+    "puranaId": 14,
+    "question": "Why did Lord Vishnu assume the Kurma avatar?",
+    "options": ["To support Mount Mandara during the churning of the ocean", "To defeat Ravana", "To rescue Earth", "To slay Hiranyakashipu"],
+    "answer": "To support Mount Mandara during the churning of the ocean"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which mountain was used for the churning of the ocean?",
+    "options": ["Mandara", "Meru", "Kailash", "Vindhya"],
+    "answer": "Mandara"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which serpent served as the churning rope?",
+    "options": ["Vasuki", "Shesha", "Takshaka", "Kaliya"],
+    "answer": "Vasuki"
+  },
+  {
+    "puranaId": 14,
+    "question": "Who participated in the Samudra Manthana?",
+    "options": ["Devas and Asuras", "Only Devas", "Only Asuras", "Sages"],
+    "answer": "Devas and Asuras"
+  },
+  {
+    "puranaId": 14,
+    "question": "What was the purpose of the Samudra Manthana?",
+    "options": ["To obtain Amrita", "To create Earth", "To defeat Ravana", "To build heaven"],
+    "answer": "To obtain Amrita"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is Amrita?",
+    "options": ["Nectar of immortality", "Sacred water", "Divine weapon", "Holy fire"],
+    "answer": "Nectar of immortality"
+  },
+  {
+    "puranaId": 14,
+    "question": "Who supported Mount Mandara on His back?",
+    "options": ["Lord Kurma", "Lord Shiva", "Garuda", "Ananta"],
+    "answer": "Lord Kurma"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which poison emerged during the churning of the ocean?",
+    "options": ["Halahala", "Kalakuta", "Garala", "Both Halahala and Kalakuta"],
+    "answer": "Both Halahala and Kalakuta"
+  },
+  {
+    "puranaId": 14,
+    "question": "Who drank the Halahala poison?",
+    "options": ["Lord Shiva", "Lord Vishnu", "Brahma", "Indra"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 14,
+    "question": "Why is Lord Shiva called Neelakantha?",
+    "options": ["Because the poison turned His throat blue", "Because He wore blue clothes", "Because of His necklace", "Because of His eyes"],
+    "answer": "Because the poison turned His throat blue"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which goddess emerged from the Ocean of Milk?",
+    "options": ["Lakshmi", "Parvati", "Saraswati", "Ganga"],
+    "answer": "Lakshmi"
+  },
+  {
+    "puranaId": 14,
+    "question": "Whom did Goddess Lakshmi choose as her husband?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which divine physician emerged during the churning?",
+    "options": ["Dhanvantari", "Charaka", "Sushruta", "Ashwini Kumaras"],
+    "answer": "Dhanvantari"
+  },
+  {
+    "puranaId": 14,
+    "question": "What did Dhanvantari carry?",
+    "options": ["Pot of Amrita", "Bow", "Trident", "Lotus"],
+    "answer": "Pot of Amrita"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which virtue is symbolized by Lord Kurma?",
+    "options": ["Patience", "Greed", "Pride", "Anger"],
+    "answer": "Patience"
+  },
+  {
+    "puranaId": 14,
+    "question": "What does the Kurma avatar teach?",
+    "options": ["Steadfastness in duty", "Material success", "Political power", "Luxury"],
+    "answer": "Steadfastness in duty"
+  },
+  {
+    "puranaId": 14,
+    "question": "Who protects the universe through different avatars?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which quality destroys spiritual growth?",
+    "options": ["Ego", "Humility", "Faith", "Compassion"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which path leads to liberation?",
+    "options": ["Devotion and Dharma", "Greed", "Violence", "Hatred"],
+    "answer": "Devotion and Dharma"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is considered temporary?",
+    "options": ["Material wealth", "The soul", "Truth", "Devotion"],
+    "answer": "Material wealth"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is eternal?",
+    "options": ["The soul", "The body", "Kingdoms", "Money"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is the central teaching of the Kurma Purana?",
+    "options": [
+      "Patience, devotion, and righteous living lead to divine grace and liberation.",
+      "Material wealth is life's greatest goal.",
+      "Political power is eternal.",
+      "Only rituals bring salvation."
+    ],
+    "answer": "Patience, devotion, and righteous living lead to divine grace and liberation."
+  },
+  {
+    "puranaId": 14,
+    "question": "Who distributed the Amrita among the Devas?",
+    "options": ["Mohini", "Lakshmi", "Parvati", "Saraswati"],
+    "answer": "Mohini"
+  },
+  {
+    "puranaId": 14,
+    "question": "Mohini is an avatar of whom?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 14,
+    "question": "Who disguised himself to drink the Amrita?",
+    "options": ["Rahu", "Ketu", "Bali", "Shukracharya"],
+    "answer": "Rahu"
+  },
+  {
+    "puranaId": 14,
+    "question": "Who revealed Rahu's deception?",
+    "options": ["Surya and Chandra", "Agni and Vayu", "Brahma and Shiva", "Narada and Indra"],
+    "answer": "Surya and Chandra"
+  },
+  {
+    "puranaId": 14,
+    "question": "What happened after Rahu drank the Amrita?",
+    "options": ["His head became immortal", "He became king of heaven", "He vanished", "He became a sage"],
+    "answer": "His head became immortal"
+  },
+  {
+    "puranaId": 14,
+    "question": "Who cut off Rahu's head?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Indra", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 14,
+    "question": "What became of Rahu's body?",
+    "options": ["Ketu", "Garuda", "Vasuki", "Kubera"],
+    "answer": "Ketu"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which celestial event is associated with Rahu and Ketu?",
+    "options": ["Solar and Lunar eclipses", "Monsoon", "Earthquakes", "Seasons"],
+    "answer": "Solar and Lunar eclipses"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which goddess symbolizes fortune and prosperity?",
+    "options": ["Lakshmi", "Parvati", "Durga", "Saraswati"],
+    "answer": "Lakshmi"
+  },
+  {
+    "puranaId": 14,
+    "question": "Who is the consort of Goddess Lakshmi?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 14,
+    "question": "What does the Kurma avatar teach about challenges?",
+    "options": ["Remain steady and patient", "Avoid all difficulties", "Use force always", "Seek wealth first"],
+    "answer": "Remain steady and patient"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which virtue is essential for spiritual growth?",
+    "options": ["Patience", "Greed", "Hatred", "Pride"],
+    "answer": "Patience"
+  },
+  {
+    "puranaId": 14,
+    "question": "What should accompany knowledge?",
+    "options": ["Humility", "Arrogance", "Anger", "Jealousy"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which quality destroys peace?",
+    "options": ["Greed", "Compassion", "Truthfulness", "Faith"],
+    "answer": "Greed"
+  },
+  {
+    "puranaId": 14,
+    "question": "Who blesses sincere devotees with protection?",
+    "options": ["Lord Vishnu", "Kubera", "Agni", "Varuna"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is the greatest wealth?",
+    "options": ["Devotion", "Gold", "Jewels", "Land"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 14,
+    "question": "What should every devotee practice daily?",
+    "options": ["Prayer", "Hatred", "Violence", "Dishonesty"],
+    "answer": "Prayer"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which quality leads to inner peace?",
+    "options": ["Contentment", "Greed", "Anger", "Jealousy"],
+    "answer": "Contentment"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which virtue is praised throughout the Kurma Purana?",
+    "options": ["Truthfulness", "Cruelty", "Hatred", "Pride"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 14,
+    "question": "What should accompany acts of charity?",
+    "options": ["Selflessness", "Expectation", "Pride", "Recognition"],
+    "answer": "Selflessness"
+  },
+  {
+    "puranaId": 14,
+    "question": "Who grants liberation to sincere devotees?",
+    "options": ["Lord Vishnu", "Indra", "Agni", "Kubera"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is the purpose of human life?",
+    "options": ["Realization of God", "Political power", "Material success", "Luxury"],
+    "answer": "Realization of God"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which path leads to Moksha?",
+    "options": ["Bhakti and Dharma", "Violence", "Greed", "Hatred"],
+    "answer": "Bhakti and Dharma"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is the reward of sincere devotion?",
+    "options": ["Divine grace", "Political authority", "Material wealth", "Worldly fame"],
+    "answer": "Divine grace"
+  },
+  {
+    "puranaId": 14,
+    "question": "According to the Kurma Purana, true success comes from?",
+    "options": [
+      "Patience, devotion, humility, and righteousness",
+      "Military power",
+      "Political authority",
+      "Material wealth"
+    ],
+    "answer": "Patience, devotion, humility, and righteousness"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which deity is worshipped as the Preserver of the universe?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Lord Brahma", "Lord Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 14,
+    "question": "What does the Kurma avatar symbolize?",
+    "options": ["Steadfast support", "Anger", "Destruction", "Luxury"],
+    "answer": "Steadfast support"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which quality should a devotee develop during hardships?",
+    "options": ["Patience", "Fear", "Greed", "Hatred"],
+    "answer": "Patience"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which virtue strengthens devotion?",
+    "options": ["Faith", "Pride", "Violence", "Jealousy"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 14,
+    "question": "Who protects the righteous through different avatars?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which quality is considered the greatest enemy of peace?",
+    "options": ["Greed", "Humility", "Charity", "Patience"],
+    "answer": "Greed"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is considered the greatest offering to God?",
+    "options": ["Pure devotion", "Gold", "Jewels", "Palaces"],
+    "answer": "Pure devotion"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which quality makes charity meaningful?",
+    "options": ["Selflessness", "Pride", "Expectation", "Recognition"],
+    "answer": "Selflessness"
+  },
+  {
+    "puranaId": 14,
+    "question": "What should every devotee remember daily?",
+    "options": ["Lord Vishnu", "Material wealth", "Political power", "Luxury"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which virtue helps overcome suffering?",
+    "options": ["Perseverance", "Hatred", "Dishonesty", "Cruelty"],
+    "answer": "Perseverance"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which path is praised throughout the Kurma Purana?",
+    "options": ["Bhakti Yoga", "Materialism", "Violence", "Greed"],
+    "answer": "Bhakti Yoga"
+  },
+  {
+    "puranaId": 14,
+    "question": "Who grants divine protection to sincere devotees?",
+    "options": ["Lord Vishnu", "Kubera", "Varuna", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 14,
+    "question": "What should accompany knowledge?",
+    "options": ["Humility", "Arrogance", "Pride", "Anger"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which quality destroys Dharma?",
+    "options": ["Ego", "Faith", "Compassion", "Truthfulness"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is the highest form of wealth?",
+    "options": ["Spiritual wisdom", "Gold", "Jewels", "Land"],
+    "answer": "Spiritual wisdom"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which virtue is praised as the foundation of righteous living?",
+    "options": ["Truthfulness", "Greed", "Violence", "Cruelty"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 14,
+    "question": "What should be controlled to achieve peace?",
+    "options": ["The mind", "Other people", "Nature", "Wealth"],
+    "answer": "The mind"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which quality removes ignorance?",
+    "options": ["Knowledge", "Hatred", "Violence", "Greed"],
+    "answer": "Knowledge"
+  },
+  {
+    "puranaId": 14,
+    "question": "Who is the ultimate refuge of all beings?",
+    "options": ["Lord Vishnu", "Brahma", "Shiva", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is the reward of practicing Dharma?",
+    "options": ["Peace", "Fear", "Confusion", "Sorrow"],
+    "answer": "Peace"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is temporary according to the Kurma Purana?",
+    "options": ["Worldly possessions", "The soul", "Truth", "Dharma"],
+    "answer": "Worldly possessions"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is eternal?",
+    "options": ["The soul", "The body", "Money", "Kingdoms"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is the ultimate goal of human life?",
+    "options": ["Moksha", "Political power", "Material wealth", "Worldly fame"],
+    "answer": "Moksha"
+  },
+  {
+    "puranaId": 14,
+    "question": "Who grants Moksha to sincere devotees?",
+    "options": ["Lord Vishnu", "Agni", "Kubera", "Yama"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is the central message of this section of the Kurma Purana?",
+    "options": [
+      "Patience, humility, devotion, and Dharma lead to divine grace and liberation.",
+      "Material wealth is life's greatest goal.",
+      "Political power is supreme.",
+      "Only rituals lead to salvation."
+    ],
+    "answer": "Patience, humility, devotion, and Dharma lead to divine grace and liberation."
+  },
+  {
+    "puranaId": 14,
+    "question": "Which sacred tree is often associated with Lord Vishnu?",
+    "options": ["Tulsi", "Banyan", "Neem", "Peepal"],
+    "answer": "Tulsi"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which virtue is considered the greatest strength of a devotee?",
+    "options": ["Faith", "Physical power", "Wealth", "Fame"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 14,
+    "question": "What should accompany every act of worship?",
+    "options": ["Sincerity", "Pride", "Greed", "Fear"],
+    "answer": "Sincerity"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which quality helps conquer anger?",
+    "options": ["Patience", "Violence", "Hatred", "Jealousy"],
+    "answer": "Patience"
+  },
+  {
+    "puranaId": 14,
+    "question": "Who is regarded as the eternal protector of Dharma?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is considered the greatest pilgrimage?",
+    "options": ["A pure and devoted heart", "Visiting every temple", "Owning a shrine", "Performing expensive rituals"],
+    "answer": "A pure and devoted heart"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which quality should be abandoned for spiritual progress?",
+    "options": ["Pride", "Humility", "Truthfulness", "Compassion"],
+    "answer": "Pride"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is the foundation of Bhakti?",
+    "options": ["Faith", "Wealth", "Power", "Fame"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is the greatest enemy of inner peace?",
+    "options": ["Ego", "Patience", "Compassion", "Knowledge"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which quality leads to lasting happiness?",
+    "options": ["Contentment", "Greed", "Luxury", "Power"],
+    "answer": "Contentment"
+  },
+  {
+    "puranaId": 14,
+    "question": "What should every devotee seek above worldly success?",
+    "options": ["God's grace", "Political influence", "Material wealth", "Public recognition"],
+    "answer": "God's grace"
+  },
+  {
+    "puranaId": 14,
+    "question": "Who grants wisdom to sincere devotees?",
+    "options": ["Lord Vishnu", "Kubera", "Agni", "Varuna"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which virtue brings harmony to society?",
+    "options": ["Compassion", "Hatred", "Cruelty", "Greed"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which quality purifies the mind?",
+    "options": ["Selfless service", "Pride", "Violence", "Dishonesty"],
+    "answer": "Selfless service"
+  },
+  {
+    "puranaId": 14,
+    "question": "What should accompany spiritual knowledge?",
+    "options": ["Humility", "Arrogance", "Jealousy", "Pride"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is considered the highest charity?",
+    "options": ["Helping others selflessly", "Giving for fame", "Donating for power", "Giving with pride"],
+    "answer": "Helping others selflessly"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which quality leads to liberation?",
+    "options": ["Devotion", "Greed", "Violence", "Hatred"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 14,
+    "question": "Who removes the suffering of sincere devotees?",
+    "options": ["Lord Vishnu", "Indra", "Kubera", "Yama"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 14,
+    "question": "What should devotees remember throughout life?",
+    "options": ["The Supreme Lord", "Material wealth", "Political success", "Luxury"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 14,
+    "question": "Which path is repeatedly praised in the Kurma Purana?",
+    "options": ["Bhakti and Dharma", "Materialism", "Violence", "Greed"],
+    "answer": "Bhakti and Dharma"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is the reward of truthful living?",
+    "options": ["Peace of mind", "Fear", "Confusion", "Sorrow"],
+    "answer": "Peace of mind"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is the highest treasure according to the Kurma Purana?",
+    "options": ["Spiritual wisdom", "Gold", "Jewels", "Kingdoms"],
+    "answer": "Spiritual wisdom"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is the ultimate destination of a true devotee?",
+    "options": ["Moksha", "Heavenly wealth", "Political authority", "Earthly fame"],
+    "answer": "Moksha"
+  },
+  {
+    "puranaId": 14,
+    "question": "Who is the source of all creation, preservation, and protection according to Vaishnava teachings?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 14,
+    "question": "What is the ultimate message of the Kurma Purana?",
+    "options": [
+      "Steadfast faith, patience, humility, devotion, and righteous living lead to God's grace and liberation.",
+      "Material wealth is the greatest achievement.",
+      "Political power is the highest goal.",
+      "Only rituals guarantee salvation."
+    ],
+    "answer": "Steadfast faith, patience, humility, devotion, and righteous living lead to God's grace and liberation."
+  }
+]

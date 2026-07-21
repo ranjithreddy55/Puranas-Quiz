@@ -1,0 +1,623 @@
+[
+  {
+    "puranaId": 12,
+    "question": "Who compiled the Skanda Purana?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vasistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 12,
+    "question": "The Skanda Purana is primarily dedicated to which deity?",
+    "options": ["Lord Skanda (Kartikeya)", "Lord Vishnu", "Lord Shiva", "Lord Brahma"],
+    "answer": "Lord Skanda (Kartikeya)"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who is the father of Lord Skanda?",
+    "options": ["Lord Shiva", "Lord Vishnu", "Lord Brahma", "Indra"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who is the mother of Lord Skanda?",
+    "options": ["Parvati", "Lakshmi", "Saraswati", "Ganga"],
+    "answer": "Parvati"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is another popular name of Lord Skanda?",
+    "options": ["Kartikeya", "Rama", "Krishna", "Narasimha"],
+    "answer": "Kartikeya"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which demon was slain by Lord Skanda?",
+    "options": ["Tarakasura", "Mahishasura", "Hiranyaksha", "Kamsa"],
+    "answer": "Tarakasura"
+  },
+  {
+    "puranaId": 12,
+    "question": "Why was Lord Skanda born?",
+    "options": ["To defeat Tarakasura", "To rule heaven", "To create the universe", "To become king"],
+    "answer": "To defeat Tarakasura"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is the vehicle of Lord Skanda?",
+    "options": ["Peacock", "Bull", "Garuda", "Lion"],
+    "answer": "Peacock"
+  },
+  {
+    "puranaId": 12,
+    "question": "What weapon does Lord Skanda primarily carry?",
+    "options": ["Spear (Vel)", "Trident", "Bow", "Chakra"],
+    "answer": "Spear (Vel)"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who is the commander of the celestial army?",
+    "options": ["Lord Skanda", "Indra", "Agni", "Hanuman"],
+    "answer": "Lord Skanda"
+  },
+  {
+    "puranaId": 12,
+    "question": "What does the peacock symbolize?",
+    "options": ["Victory over ego", "Material wealth", "Royal power", "Knowledge only"],
+    "answer": "Victory over ego"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which virtue is most praised in the Skanda Purana?",
+    "options": ["Courage", "Greed", "Hatred", "Jealousy"],
+    "answer": "Courage"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which quality should every devotee cultivate?",
+    "options": ["Discipline", "Pride", "Cruelty", "Anger"],
+    "answer": "Discipline"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who grants victory over evil?",
+    "options": ["Lord Skanda", "Kubera", "Agni", "Varuna"],
+    "answer": "Lord Skanda"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which festival is associated with Lord Skanda?",
+    "options": ["Skanda Shashti", "Janmashtami", "Rama Navami", "Ganesh Chaturthi"],
+    "answer": "Skanda Shashti"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who is the elder brother of Lord Skanda?",
+    "options": ["Ganesha", "Hanuman", "Krishna", "Rama"],
+    "answer": "Ganesha"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is the goal of defeating inner enemies?",
+    "options": ["Spiritual progress", "Material wealth", "Political success", "Physical strength"],
+    "answer": "Spiritual progress"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which quality destroys devotion?",
+    "options": ["Ego", "Humility", "Faith", "Compassion"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 12,
+    "question": "What should accompany worship?",
+    "options": ["Faith", "Pride", "Greed", "Hatred"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who protects sincere devotees?",
+    "options": ["Lord Skanda", "Indra", "Agni", "Kubera"],
+    "answer": "Lord Skanda"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is considered temporary?",
+    "options": ["Material wealth", "The soul", "Devotion", "Truth"],
+    "answer": "Material wealth"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is eternal?",
+    "options": ["The soul", "The body", "Money", "Kingdoms"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 12,
+    "question": "What leads to liberation?",
+    "options": ["Devotion and righteous living", "Political power", "Greed", "Violence"],
+    "answer": "Devotion and righteous living"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which virtue removes fear?",
+    "options": ["Faith", "Hatred", "Jealousy", "Dishonesty"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is the central teaching of the Skanda Purana?",
+    "options": [
+      "Devotion, courage, and Dharma lead to victory over evil and liberation.",
+      "Material wealth is life's highest goal.",
+      "Political power is supreme.",
+      "Only rituals are important."
+    ],
+    "answer": "Devotion, courage, and Dharma lead to victory over evil and liberation."
+  },
+  {
+    "puranaId": 12,
+    "question": "Which mountain is associated with the residence of Lord Shiva and his family?",
+    "options": ["Mount Kailash", "Mount Meru", "Vindhya", "Mandara"],
+    "answer": "Mount Kailash"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which sage narrated many stories found in the Skanda Purana?",
+    "options": ["Suta", "Valmiki", "Vasistha", "Gautama"],
+    "answer": "Suta"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who trained the celestial army under Lord Skanda's command?",
+    "options": ["Lord Skanda", "Indra", "Brahma", "Agni"],
+    "answer": "Lord Skanda"
+  },
+  {
+    "puranaId": 12,
+    "question": "What does Lord Skanda's spear (Vel) symbolize?",
+    "options": ["Divine wisdom", "Material wealth", "Political power", "Luxury"],
+    "answer": "Divine wisdom"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which quality helps defeat inner enemies?",
+    "options": ["Self-control", "Greed", "Hatred", "Jealousy"],
+    "answer": "Self-control"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who is the king of the Devas?",
+    "options": ["Indra", "Agni", "Varuna", "Kubera"],
+    "answer": "Indra"
+  },
+  {
+    "puranaId": 12,
+    "question": "Lord Skanda became the commander of whose army?",
+    "options": ["The Devas", "The Asuras", "The Yakshas", "The Gandharvas"],
+    "answer": "The Devas"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is the main purpose of Dharma?",
+    "options": ["Maintaining righteousness", "Accumulating wealth", "Winning wars", "Seeking fame"],
+    "answer": "Maintaining righteousness"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which quality is praised as the root of success?",
+    "options": ["Discipline", "Anger", "Greed", "Pride"],
+    "answer": "Discipline"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who blesses devotees with courage?",
+    "options": ["Lord Skanda", "Kubera", "Surya", "Varuna"],
+    "answer": "Lord Skanda"
+  },
+  {
+    "puranaId": 12,
+    "question": "What does the peacock beneath Skanda represent?",
+    "options": ["Victory over pride", "Material wealth", "Kingship", "Luxury"],
+    "answer": "Victory over pride"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which quality should be abandoned?",
+    "options": ["Arrogance", "Faith", "Compassion", "Patience"],
+    "answer": "Arrogance"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is the fruit of sincere devotion?",
+    "options": ["Peace", "Fear", "Confusion", "Pride"],
+    "answer": "Peace"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which deity is worshipped before beginning auspicious work?",
+    "options": ["Ganesha", "Skanda", "Surya", "Agni"],
+    "answer": "Ganesha"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who is the younger son of Shiva and Parvati?",
+    "options": ["Skanda", "Ganesha", "Ayyappa", "Hanuman"],
+    "answer": "Skanda"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is the greatest strength of a devotee?",
+    "options": ["Faith", "Wealth", "Weapons", "Political influence"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which practice purifies the mind?",
+    "options": ["Prayer", "Greed", "Violence", "Hatred"],
+    "answer": "Prayer"
+  },
+  {
+    "puranaId": 12,
+    "question": "What should accompany knowledge?",
+    "options": ["Humility", "Pride", "Jealousy", "Dishonesty"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who protects the righteous?",
+    "options": ["Lord Skanda", "Indra", "Agni", "Yama"],
+    "answer": "Lord Skanda"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which quality strengthens devotion?",
+    "options": ["Perseverance", "Laziness", "Hatred", "Greed"],
+    "answer": "Perseverance"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is considered the greatest victory?",
+    "options": ["Victory over oneself", "Victory in battle", "Political victory", "Winning wealth"],
+    "answer": "Victory over oneself"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who grants blessings to sincere devotees?",
+    "options": ["Lord Skanda", "Only kings", "Only sages", "Only priests"],
+    "answer": "Lord Skanda"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which path leads to spiritual growth?",
+    "options": ["Bhakti and Dharma", "Greed", "Violence", "Pride"],
+    "answer": "Bhakti and Dharma"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is the reward of following Dharma?",
+    "options": ["Peace and prosperity", "Fear", "Confusion", "Misery"],
+    "answer": "Peace and prosperity"
+  },
+  {
+    "puranaId": 12,
+    "question": "According to the Skanda Purana, what is the key to conquering evil?",
+    "options": [
+      "Faith, courage, discipline, and devotion",
+      "Political influence",
+      "Material wealth",
+      "Military power alone"
+    ],
+    "answer": "Faith, courage, discipline, and devotion"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who is also known as Subrahmanya?",
+    "options": ["Lord Skanda", "Lord Ganesha", "Lord Vishnu", "Lord Rama"],
+    "answer": "Lord Skanda"
+  },
+  {
+    "puranaId": 12,
+    "question": "What does the name 'Skanda' signify?",
+    "options": ["One who attacks evil", "King of Heaven", "Creator of Earth", "Lord of Wealth"],
+    "answer": "One who attacks evil"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which bird serves as Lord Skanda's vehicle?",
+    "options": ["Peacock", "Garuda", "Swan", "Eagle"],
+    "answer": "Peacock"
+  },
+  {
+    "puranaId": 12,
+    "question": "What does the peacock symbolize in Skanda worship?",
+    "options": ["Victory over ego and pride", "Material prosperity", "Royal authority", "Knowledge only"],
+    "answer": "Victory over ego and pride"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who blessed Skanda with divine powers?",
+    "options": ["Lord Shiva", "Lord Brahma", "Indra", "Varuna"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which goddess is regarded as Skanda's mother?",
+    "options": ["Parvati", "Lakshmi", "Saraswati", "Ganga"],
+    "answer": "Parvati"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is the primary purpose of spiritual discipline?",
+    "options": ["Purification of the mind", "Material success", "Political influence", "Luxury"],
+    "answer": "Purification of the mind"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which quality should a warrior of Dharma possess?",
+    "options": ["Fearlessness", "Greed", "Cruelty", "Hatred"],
+    "answer": "Fearlessness"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which weapon of Skanda symbolizes knowledge cutting through ignorance?",
+    "options": ["Vel (Spear)", "Sword", "Bow", "Trident"],
+    "answer": "Vel (Spear)"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which quality leads to victory over temptation?",
+    "options": ["Self-control", "Pride", "Greed", "Anger"],
+    "answer": "Self-control"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which virtue is considered the root of true courage?",
+    "options": ["Faith", "Wealth", "Power", "Fame"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 12,
+    "question": "What should every devotee practice daily?",
+    "options": ["Prayer", "Jealousy", "Violence", "Dishonesty"],
+    "answer": "Prayer"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who grants protection to sincere devotees?",
+    "options": ["Lord Skanda", "Kubera", "Yama", "Agni"],
+    "answer": "Lord Skanda"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which quality destroys spiritual progress?",
+    "options": ["Ego", "Humility", "Patience", "Kindness"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which quality strengthens character?",
+    "options": ["Discipline", "Laziness", "Pride", "Greed"],
+    "answer": "Discipline"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who should be remembered before every righteous action?",
+    "options": ["God", "Kings", "Warriors", "Merchants"],
+    "answer": "God"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is the greatest enemy of a devotee?",
+    "options": ["One's own ego", "Other people", "Animals", "Nature"],
+    "answer": "One's own ego"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which virtue removes fear from the heart?",
+    "options": ["Devotion", "Hatred", "Jealousy", "Greed"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is considered the greatest victory?",
+    "options": ["Victory over one's own mind", "Winning battles", "Becoming king", "Accumulating wealth"],
+    "answer": "Victory over one's own mind"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is temporary according to the Skanda Purana?",
+    "options": ["Worldly possessions", "The soul", "Truth", "Dharma"],
+    "answer": "Worldly possessions"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is eternal?",
+    "options": ["The soul", "The body", "Gold", "Kingdoms"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which path leads to liberation?",
+    "options": ["Devotion and righteous living", "Violence", "Greed", "Pride"],
+    "answer": "Devotion and righteous living"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which quality is most pleasing to Lord Skanda?",
+    "options": ["Sincerity", "Arrogance", "Dishonesty", "Cruelty"],
+    "answer": "Sincerity"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is the reward of sincere worship?",
+    "options": ["Inner peace and divine grace", "Political power", "Material riches", "Worldly fame"],
+    "answer": "Inner peace and divine grace"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is the central message of this section of the Skanda Purana?",
+    "options": [
+      "Conquer inner enemies through faith, discipline, courage, and devotion.",
+      "Material wealth is the greatest achievement.",
+      "Political power is eternal.",
+      "Only rituals are necessary."
+    ],
+    "answer": "Conquer inner enemies through faith, discipline, courage, and devotion."
+  },
+  {
+    "puranaId": 12,
+    "question": "Which sacred pilgrimage is extensively described in the Skanda Purana?",
+    "options": ["Kashi (Varanasi)", "Mathura", "Ayodhya", "Dwarka"],
+    "answer": "Kashi (Varanasi)"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which river is considered most sacred in the Skanda Purana?",
+    "options": ["Ganga", "Yamuna", "Godavari", "Kaveri"],
+    "answer": "Ganga"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which city is regarded as the city of Lord Shiva?",
+    "options": ["Kashi", "Ayodhya", "Mathura", "Dwarka"],
+    "answer": "Kashi"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who grants liberation in the holy city of Kashi?",
+    "options": ["Lord Shiva", "Lord Vishnu", "Lord Brahma", "Lord Skanda"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which virtue is considered the highest form of strength?",
+    "options": ["Self-control", "Physical power", "Wealth", "Fame"],
+    "answer": "Self-control"
+  },
+  {
+    "puranaId": 12,
+    "question": "What should accompany every pilgrimage?",
+    "options": ["Devotion", "Pride", "Greed", "Luxury"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which offering is most valuable to God?",
+    "options": ["A pure heart", "Gold", "Jewels", "Expensive gifts"],
+    "answer": "A pure heart"
+  },
+  {
+    "puranaId": 12,
+    "question": "What should a devotee practice every day?",
+    "options": ["Prayer and righteous conduct", "Anger", "Greed", "Violence"],
+    "answer": "Prayer and righteous conduct"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which quality should be removed from the heart?",
+    "options": ["Jealousy", "Kindness", "Faith", "Compassion"],
+    "answer": "Jealousy"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who protects sincere devotees from difficulties?",
+    "options": ["Lord Skanda", "Indra", "Agni", "Kubera"],
+    "answer": "Lord Skanda"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which quality leads to lasting happiness?",
+    "options": ["Contentment", "Greed", "Hatred", "Pride"],
+    "answer": "Contentment"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which path destroys ignorance?",
+    "options": ["Knowledge and devotion", "Violence", "Materialism", "Luxury"],
+    "answer": "Knowledge and devotion"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is considered the greatest wealth?",
+    "options": ["Spiritual wisdom", "Gold", "Land", "Jewels"],
+    "answer": "Spiritual wisdom"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which quality brings divine grace?",
+    "options": ["Humility", "Arrogance", "Hatred", "Dishonesty"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 12,
+    "question": "What should devotees avoid?",
+    "options": ["Pride", "Faith", "Patience", "Truthfulness"],
+    "answer": "Pride"
+  },
+  {
+    "puranaId": 12,
+    "question": "Who removes the fears of sincere devotees?",
+    "options": ["Lord Skanda", "Indra", "Yama", "Varuna"],
+    "answer": "Lord Skanda"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which virtue is praised as the foundation of Dharma?",
+    "options": ["Truthfulness", "Greed", "Violence", "Cruelty"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is the purpose of human life according to the Skanda Purana?",
+    "options": ["Realizing God", "Accumulating wealth", "Winning wars", "Political power"],
+    "answer": "Realizing God"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which quality helps conquer anger?",
+    "options": ["Patience", "Hatred", "Greed", "Pride"],
+    "answer": "Patience"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is the reward of living according to Dharma?",
+    "options": ["Peace and liberation", "Fear", "Confusion", "Sorrow"],
+    "answer": "Peace and liberation"
+  },
+  {
+    "puranaId": 12,
+    "question": "What should every devotee seek above worldly success?",
+    "options": ["God's grace", "Political influence", "Material wealth", "Public fame"],
+    "answer": "God's grace"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is the eternal reality according to the Purana?",
+    "options": ["The Supreme Lord", "The body", "Money", "Kingdoms"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 12,
+    "question": "Which path is repeatedly emphasized throughout the Skanda Purana?",
+    "options": ["Bhakti (Devotion)", "Materialism", "Violence", "Greed"],
+    "answer": "Bhakti (Devotion)"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is the ultimate reward of sincere devotion?",
+    "options": ["Moksha (Liberation)", "Political authority", "Material prosperity", "Worldly fame"],
+    "answer": "Moksha (Liberation)"
+  },
+  {
+    "puranaId": 12,
+    "question": "What is the ultimate message of the Skanda Purana?",
+    "options": [
+      "Faith, courage, devotion, and righteous living lead to victory over evil and liberation.",
+      "Material wealth is the greatest goal.",
+      "Political power is eternal.",
+      "Only rituals bring salvation."
+    ],
+    "answer": "Faith, courage, devotion, and righteous living lead to victory over evil and liberation."
+  }
+]
+

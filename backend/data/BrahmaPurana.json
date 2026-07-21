@@ -1,0 +1,612 @@
+[
+  {
+    "puranaId": 4,
+    "question": "Which Purana is traditionally regarded as the first among the eighteen Mahapuranas?",
+    "options": ["Brahma Purana", "Vishnu Purana", "Shiva Purana", "Bhagavata Purana"],
+    "answer": "Brahma Purana"
+  },
+  {
+    "puranaId": 4,
+    "question": "Who is the creator of the universe according to the Brahma Purana?",
+    "options": ["Brahma", "Vishnu", "Shiva", "Indra"],
+    "answer": "Brahma"
+  },
+  {
+    "puranaId": 4,
+    "question": "From whose navel was Lord Brahma born?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Indra", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 4,
+    "question": "On which flower did Lord Brahma appear?",
+    "options": ["Lotus", "Rose", "Lily", "Jasmine"],
+    "answer": "Lotus"
+  },
+  {
+    "puranaId": 4,
+    "question": "How many heads does Lord Brahma usually have?",
+    "options": ["Four", "Three", "Five", "One"],
+    "answer": "Four"
+  },
+  {
+    "puranaId": 4,
+    "question": "Who is the consort of Lord Brahma?",
+    "options": ["Saraswati", "Lakshmi", "Parvati", "Ganga"],
+    "answer": "Saraswati"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which goddess represents wisdom and learning?",
+    "options": ["Saraswati", "Lakshmi", "Durga", "Parvati"],
+    "answer": "Saraswati"
+  },
+  {
+    "puranaId": 4,
+    "question": "What is the vehicle of Lord Brahma?",
+    "options": ["Swan", "Garuda", "Bull", "Lion"],
+    "answer": "Swan"
+  },
+  {
+    "puranaId": 4,
+    "question": "What is the Sanskrit name of Brahma's vehicle?",
+    "options": ["Hamsa", "Garuda", "Nandi", "Airavata"],
+    "answer": "Hamsa"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which scripture mainly glorifies Lord Brahma and sacred places?",
+    "options": ["Brahma Purana", "Agni Purana", "Padma Purana", "Garuda Purana"],
+    "answer": "Brahma Purana"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which city is highly praised in the Brahma Purana?",
+    "options": ["Puri", "Ayodhya", "Mathura", "Dwarka"],
+    "answer": "Puri"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which deity is worshipped at Puri?",
+    "options": ["Jagannath", "Rama", "Shiva", "Hanuman"],
+    "answer": "Jagannath"
+  },
+  {
+    "puranaId": 4,
+    "question": "Jagannath is considered a form of which deity?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Surya"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which famous temple is located in Puri?",
+    "options": ["Jagannath Temple", "Kashi Vishwanath", "Kedarnath", "Somnath"],
+    "answer": "Jagannath Temple"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which festival is associated with Lord Jagannath?",
+    "options": ["Rath Yatra", "Navaratri", "Deepavali", "Holi"],
+    "answer": "Rath Yatra"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which ocean is near the Jagannath Temple?",
+    "options": ["Bay of Bengal", "Arabian Sea", "Indian Ocean", "Pacific Ocean"],
+    "answer": "Bay of Bengal"
+  },
+  {
+    "puranaId": 4,
+    "question": "Who performs the work of creation in the Trimurti?",
+    "options": ["Brahma", "Vishnu", "Shiva", "Indra"],
+    "answer": "Brahma"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which deity preserves the universe?",
+    "options": ["Vishnu", "Brahma", "Shiva", "Agni"],
+    "answer": "Vishnu"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which deity destroys the universe at the end of time?",
+    "options": ["Shiva", "Brahma", "Vishnu", "Surya"],
+    "answer": "Shiva"
+  },
+  {
+    "puranaId": 4,
+    "question": "How many Mahapuranas are there in Hindu tradition?",
+    "options": ["18", "12", "10", "24"],
+    "answer": "18"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which sage narrated many of the Puranas?",
+    "options": ["Suta", "Valmiki", "Narada", "Agastya"],
+    "answer": "Suta"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which sacred river is praised in the Brahma Purana?",
+    "options": ["Ganga", "Thames", "Nile", "Amazon"],
+    "answer": "Ganga"
+  },
+  {
+    "puranaId": 4,
+    "question": "What is considered the highest goal of life in the Brahma Purana?",
+    "options": ["Moksha", "Wealth", "Power", "Fame"],
+    "answer": "Moksha"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which virtue is repeatedly praised in the Brahma Purana?",
+    "options": ["Righteousness", "Greed", "Jealousy", "Hatred"],
+    "answer": "Righteousness"
+  },
+  {
+    "puranaId": 4,
+    "question": "The Brahma Purana encourages devotion to whom?",
+    "options": ["The Supreme Lord", "Only Brahma", "Only Shiva", "Only Indra"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who was the devoted child blessed by Lord Vishnu after intense penance?",
+    "options": ["Dhruva", "Prahlada", "Markandeya", "Nachiketa"],
+    "answer": "Dhruva"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who guided Dhruva to worship Lord Vishnu?",
+    "options": ["Narada", "Vyasa", "Parashara", "Vashistha"],
+    "answer": "Narada"
+  },
+  {
+    "puranaId": 3,
+    "question": "What celestial position did Dhruva attain?",
+    "options": ["Pole Star", "Sun", "Moon", "Indra's Throne"],
+    "answer": "Pole Star"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who was Prahlada's father?",
+    "options": ["Hiranyakashipu", "Hiranyaksha", "Bali", "Ravana"],
+    "answer": "Hiranyakashipu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Prahlada was a devotee of which deity?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who attempted to kill Prahlada many times?",
+    "options": ["Hiranyakashipu", "Ravana", "Bali", "Kamsa"],
+    "answer": "Hiranyakashipu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who protected Prahlada from every danger?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Indra", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which demon king was famous for his generosity?",
+    "options": ["Mahabali", "Ravana", "Hiranyaksha", "Bhasmasura"],
+    "answer": "Mahabali"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who was Mahabali's grandfather?",
+    "options": ["Prahlada", "Hiranyakashipu", "Virochana", "Ravana"],
+    "answer": "Prahlada"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which avatar sent Mahabali to Sutala?",
+    "options": ["Vamana", "Rama", "Krishna", "Narasimha"],
+    "answer": "Vamana"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who became the gatekeeper of Mahabali after the Vamana episode?",
+    "options": ["Lord Vishnu", "Garuda", "Indra", "Narada"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which yuga is considered the present age?",
+    "options": ["Kali Yuga", "Treta Yuga", "Satya Yuga", "Dvapara Yuga"],
+    "answer": "Kali Yuga"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which yuga preceded Kali Yuga?",
+    "options": ["Dvapara Yuga", "Treta Yuga", "Satya Yuga", "Krita Yuga"],
+    "answer": "Dvapara Yuga"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who is expected to appear at the end of Kali Yuga?",
+    "options": ["Kalki", "Krishna", "Buddha", "Parashurama"],
+    "answer": "Kalki"
+  },
+  {
+    "puranaId": 3,
+    "question": "What animal will Kalki ride?",
+    "options": ["White Horse", "Elephant", "Lion", "Garuda"],
+    "answer": "White Horse"
+  },
+  {
+    "puranaId": 3,
+    "question": "What weapon will Kalki carry?",
+    "options": ["Sword", "Bow", "Trident", "Mace"],
+    "answer": "Sword"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which quality is most praised in the Vishnu Purana?",
+    "options": ["Bhakti", "Pride", "Greed", "Jealousy"],
+    "answer": "Bhakti"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who is known as the protector of devotees?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which goddess is the embodiment of prosperity?",
+    "options": ["Lakshmi", "Parvati", "Saraswati", "Ganga"],
+    "answer": "Lakshmi"
+  },
+  {
+    "puranaId": 3,
+    "question": "What flower is associated with Lord Vishnu?",
+    "options": ["Lotus", "Rose", "Jasmine", "Lily"],
+    "answer": "Lotus"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which festival celebrates the birth of Lord Krishna?",
+    "options": ["Janmashtami", "Rama Navami", "Diwali", "Holi"],
+    "answer": "Janmashtami"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which festival celebrates Lord Rama's birth?",
+    "options": ["Rama Navami", "Janmashtami", "Shivaratri", "Navaratri"],
+    "answer": "Rama Navami"
+  },
+  {
+    "puranaId": 3,
+    "question": "What is the eternal abode of Lord Vishnu called?",
+    "options": ["Vaikuntha", "Kailasa", "Svarga", "Goloka"],
+    "answer": "Vaikuntha"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which sage asked Parashara about creation and Vishnu's greatness?",
+    "options": ["Maitreya", "Narada", "Vyasa", "Agastya"],
+    "answer": "Maitreya"
+  },
+  {
+    "puranaId": 3,
+    "question": "According to the Vishnu Purana, what leads to liberation?",
+    "options": [
+      "Devotion to Lord Vishnu",
+      "Accumulating wealth",
+      "Political power",
+      "Performing sacrifices only"
+    ],
+    "answer": "Devotion to Lord Vishnu"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which quality is considered the foundation of spiritual life?",
+    "options": ["Truthfulness", "Greed", "Anger", "Pride"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 4,
+    "question": "Who is called the creator in the Trimurti?",
+    "options": ["Brahma", "Vishnu", "Shiva", "Indra"],
+    "answer": "Brahma"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which deity symbolizes preservation?",
+    "options": ["Vishnu", "Brahma", "Shiva", "Surya"],
+    "answer": "Vishnu"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which deity represents destruction and transformation?",
+    "options": ["Shiva", "Vishnu", "Brahma", "Agni"],
+    "answer": "Shiva"
+  },
+  {
+    "puranaId": 4,
+    "question": "What is the primary purpose of human life according to the Brahma Purana?",
+    "options": ["Attaining Moksha", "Becoming wealthy", "Winning battles", "Gaining fame"],
+    "answer": "Attaining Moksha"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which goddess is worshipped before beginning studies?",
+    "options": ["Saraswati", "Lakshmi", "Durga", "Parvati"],
+    "answer": "Saraswati"
+  },
+  {
+    "puranaId": 4,
+    "question": "What color is commonly associated with Goddess Saraswati?",
+    "options": ["White", "Red", "Blue", "Green"],
+    "answer": "White"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which book is often depicted in Saraswati's hand?",
+    "options": ["Vedas", "Ramayana", "Mahabharata", "Bhagavad Gita"],
+    "answer": "Vedas"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which festival celebrates Goddess Saraswati in many parts of India?",
+    "options": ["Vasant Panchami", "Diwali", "Navaratri", "Janmashtami"],
+    "answer": "Vasant Panchami"
+  },
+  {
+    "puranaId": 4,
+    "question": "Who compiled the Mahapuranas?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vashistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 4,
+    "question": "How many Mahapuranas did Vedavyasa compile?",
+    "options": ["18", "12", "24", "10"],
+    "answer": "18"
+  },
+  {
+    "puranaId": 4,
+    "question": "What does pilgrimage help a devotee achieve?",
+    "options": ["Spiritual purification", "Political power", "Material wealth", "Physical strength"],
+    "answer": "Spiritual purification"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which sacred city is famous for Lord Jagannath's temple?",
+    "options": ["Puri", "Mathura", "Ayodhya", "Haridwar"],
+    "answer": "Puri"
+  },
+  {
+    "puranaId": 4,
+    "question": "The Rath Yatra involves carrying Lord Jagannath on what?",
+    "options": ["A chariot", "An elephant", "A horse", "A palanquin"],
+    "answer": "A chariot"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which ocean lies beside Puri?",
+    "options": ["Bay of Bengal", "Arabian Sea", "Indian Ocean", "Pacific Ocean"],
+    "answer": "Bay of Bengal"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which virtue destroys ignorance according to the Brahma Purana?",
+    "options": ["Knowledge", "Pride", "Greed", "Hatred"],
+    "answer": "Knowledge"
+  },
+  {
+    "puranaId": 4,
+    "question": "Who is regarded as the goddess of wisdom?",
+    "options": ["Saraswati", "Lakshmi", "Durga", "Sita"],
+    "answer": "Saraswati"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which deity grants wisdom to seekers?",
+    "options": ["Saraswati", "Lakshmi", "Parvati", "Indra"],
+    "answer": "Saraswati"
+  },
+  {
+    "puranaId": 4,
+    "question": "What should accompany knowledge according to the Purana?",
+    "options": ["Humility", "Arrogance", "Jealousy", "Anger"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which scripture encourages respect for teachers?",
+    "options": ["Brahma Purana", "Arthashastra", "Manusmriti", "Yoga Sutras"],
+    "answer": "Brahma Purana"
+  },
+  {
+    "puranaId": 4,
+    "question": "What is the reward of righteous deeds?",
+    "options": ["Spiritual progress", "Unlimited wealth", "Political success", "Physical strength"],
+    "answer": "Spiritual progress"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which sacred river is considered highly purifying?",
+    "options": ["Ganga", "Godavari", "Krishna", "Kaveri"],
+    "answer": "Ganga"
+  },
+  {
+    "puranaId": 4,
+    "question": "What should every devotee cultivate daily?",
+    "options": ["Faith", "Hatred", "Pride", "Laziness"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which quality brings peace of mind?",
+    "options": ["Contentment", "Greed", "Anger", "Envy"],
+    "answer": "Contentment"
+  },
+  {
+    "puranaId": 4,
+    "question": "According to the Brahma Purana, who ultimately guides sincere devotees?",
+    "options": ["The Supreme Lord", "Kings", "Warriors", "Merchants"],
+    "answer": "The Supreme Lord"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which deity is seated on a lotus?",
+    "options": ["Brahma", "Shiva", "Indra", "Agni"],
+    "answer": "Brahma"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which goddess is the wife of Brahma?",
+    "options": ["Saraswati", "Lakshmi", "Parvati", "Radha"],
+    "answer": "Saraswati"
+  },
+  {
+    "puranaId": 4,
+    "question": "What does Saraswati symbolize?",
+    "options": ["Knowledge", "Wealth", "Power", "Victory"],
+    "answer": "Knowledge"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which bird is associated with Saraswati?",
+    "options": ["Swan", "Peacock", "Parrot", "Eagle"],
+    "answer": "Swan"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which instrument is held by Saraswati?",
+    "options": ["Veena", "Flute", "Drum", "Conch"],
+    "answer": "Veena"
+  },
+  {
+    "puranaId": 4,
+    "question": "Who compiled the eighteen Mahapuranas?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Agastya"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 4,
+    "question": "How many Vedas were classified by Vedavyasa?",
+    "options": ["Four", "Three", "Five", "Six"],
+    "answer": "Four"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which pilgrimage is especially praised in the Brahma Purana?",
+    "options": ["Puri", "Kedarnath", "Badrinath", "Rameswaram"],
+    "answer": "Puri"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which deity is worshipped in Puri?",
+    "options": ["Jagannath", "Shiva", "Hanuman", "Ganesha"],
+    "answer": "Jagannath"
+  },
+  {
+    "puranaId": 4,
+    "question": "Jagannath is considered a form of whom?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Surya"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 4,
+    "question": "What is the purpose of pilgrimage according to the Brahma Purana?",
+    "options": ["Purification", "Entertainment", "Trade", "Politics"],
+    "answer": "Purification"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which river is regarded as sacred?",
+    "options": ["Ganga", "Amazon", "Nile", "Thames"],
+    "answer": "Ganga"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which quality is praised the most?",
+    "options": ["Truth", "Greed", "Hatred", "Jealousy"],
+    "answer": "Truth"
+  },
+  {
+    "puranaId": 4,
+    "question": "What destroys ignorance?",
+    "options": ["Knowledge", "Wealth", "Power", "Strength"],
+    "answer": "Knowledge"
+  },
+  {
+    "puranaId": 4,
+    "question": "What should accompany knowledge?",
+    "options": ["Humility", "Pride", "Anger", "Envy"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 4,
+    "question": "Who preserves the universe?",
+    "options": ["Vishnu", "Brahma", "Shiva", "Indra"],
+    "answer": "Vishnu"
+  },
+  {
+    "puranaId": 4,
+    "question": "Who destroys the universe at the end of time?",
+    "options": ["Shiva", "Brahma", "Vishnu", "Agni"],
+    "answer": "Shiva"
+  },
+  {
+    "puranaId": 4,
+    "question": "What is the highest goal of human life?",
+    "options": ["Moksha", "Wealth", "Kingdom", "Victory"],
+    "answer": "Moksha"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which virtue leads to spiritual progress?",
+    "options": ["Devotion", "Pride", "Greed", "Hatred"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which festival is associated with Lord Jagannath?",
+    "options": ["Rath Yatra", "Diwali", "Holi", "Navaratri"],
+    "answer": "Rath Yatra"
+  },
+  {
+    "puranaId": 4,
+    "question": "Which ocean is near Puri?",
+    "options": ["Bay of Bengal", "Arabian Sea", "Pacific Ocean", "Red Sea"],
+    "answer": "Bay of Bengal"
+  },
+  {
+    "puranaId": 4,
+    "question": "Who teaches devotion throughout the universe?",
+    "options": ["Narada", "Indra", "Kubera", "Yama"],
+    "answer": "Narada"
+  },
+  {
+    "puranaId": 4,
+    "question": "According to the Brahma Purana, what should every person follow?",
+    "options": ["Dharma", "Greed", "Violence", "Ego"],
+    "answer": "Dharma"
+  },
+  {
+    "puranaId": 4,
+    "question": "What is the reward of righteous living?",
+    "options": ["Liberation", "Luxury", "Power", "Fame"],
+    "answer": "Liberation"
+  },
+  {
+    "puranaId": 4,
+    "question": "What is the central teaching of the Brahma Purana?",
+    "options": [
+      "Live righteously and worship the Supreme",
+      "Seek wealth above all",
+      "Win every battle",
+      "Perform rituals only"
+    ],
+    "answer": "Live righteously and worship the Supreme"
+  }
+]

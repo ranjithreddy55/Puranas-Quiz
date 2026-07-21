@@ -1,0 +1,612 @@
+[
+  {
+    "puranaId": 3,
+    "question": "Who is the central deity of the Vishnu Purana?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who is the consort of Lord Vishnu?",
+    "options": ["Lakshmi", "Parvati", "Saraswati", "Sita"],
+    "answer": "Lakshmi"
+  },
+  {
+    "puranaId": 3,
+    "question": "On which serpent does Lord Vishnu rest?",
+    "options": ["Shesha", "Vasuki", "Takshaka", "Kaliya"],
+    "answer": "Shesha"
+  },
+  {
+    "puranaId": 3,
+    "question": "What is the name of Vishnu's heavenly abode?",
+    "options": ["Vaikuntha", "Kailasa", "Brahmaloka", "Svarga"],
+    "answer": "Vaikuntha"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which goddess emerged during the Samudra Manthana and became Vishnu's consort?",
+    "options": ["Lakshmi", "Parvati", "Ganga", "Saraswati"],
+    "answer": "Lakshmi"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which weapon is carried by Lord Vishnu?",
+    "options": ["Sudarshana Chakra", "Trishula", "Vajra", "Bow Pinaka"],
+    "answer": "Sudarshana Chakra"
+  },
+  {
+    "puranaId": 3,
+    "question": "What is the name of Vishnu's conch?",
+    "options": ["Panchajanya", "Devadatta", "Ananta", "Shankha"],
+    "answer": "Panchajanya"
+  },
+  {
+    "puranaId": 3,
+    "question": "What is the name of Vishnu's mace?",
+    "options": ["Kaumodaki", "Vajra", "Gada", "Pinaka"],
+    "answer": "Kaumodaki"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which bird serves as Lord Vishnu's vehicle?",
+    "options": ["Garuda", "Peacock", "Swan", "Nandi"],
+    "answer": "Garuda"
+  },
+  {
+    "puranaId": 3,
+    "question": "How many principal avatars of Vishnu are traditionally recognized?",
+    "options": ["10", "12", "18", "24"],
+    "answer": "10"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which was Vishnu's first avatar?",
+    "options": ["Matsya", "Kurma", "Varaha", "Narasimha"],
+    "answer": "Matsya"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which avatar rescued the Vedas from the demon Hayagriva?",
+    "options": ["Matsya", "Kurma", "Varaha", "Rama"],
+    "answer": "Matsya"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which avatar supported Mount Mandara during the churning of the ocean?",
+    "options": ["Kurma", "Varaha", "Narasimha", "Vamana"],
+    "answer": "Kurma"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which avatar lifted the Earth from the cosmic ocean?",
+    "options": ["Varaha", "Kurma", "Matsya", "Narasimha"],
+    "answer": "Varaha"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which demon was killed by Varaha?",
+    "options": ["Hiranyaksha", "Hiranyakashipu", "Ravana", "Madhu"],
+    "answer": "Hiranyaksha"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which avatar appeared as half-man and half-lion?",
+    "options": ["Narasimha", "Varaha", "Kurma", "Vamana"],
+    "answer": "Narasimha"
+  },
+  {
+    "puranaId": 3,
+    "question": "Whom did Narasimha kill?",
+    "options": ["Hiranyakashipu", "Hiranyaksha", "Ravana", "Kamsa"],
+    "answer": "Hiranyakashipu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who was the devoted son of Hiranyakashipu?",
+    "options": ["Prahlada", "Dhruva", "Markandeya", "Narada"],
+    "answer": "Prahlada"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which avatar appeared as a dwarf Brahmin?",
+    "options": ["Vamana", "Parashurama", "Rama", "Krishna"],
+    "answer": "Vamana"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which king was humbled by Vamana?",
+    "options": ["Mahabali", "Harishchandra", "Dasharatha", "Janaka"],
+    "answer": "Mahabali"
+  },
+  {
+    "puranaId": 3,
+    "question": "How many steps of land did Vamana ask from Mahabali?",
+    "options": ["Three", "Five", "Seven", "One"],
+    "answer": "Three"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which avatar is known for carrying an axe?",
+    "options": ["Parashurama", "Rama", "Krishna", "Balarama"],
+    "answer": "Parashurama"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which avatar defeated Ravana?",
+    "options": ["Rama", "Krishna", "Vamana", "Parashurama"],
+    "answer": "Rama"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which avatar delivered the Bhagavad Gita?",
+    "options": ["Krishna", "Rama", "Narasimha", "Vamana"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which future avatar of Vishnu is expected at the end of Kali Yuga?",
+    "options": ["Kalki", "Buddha", "Parashurama", "Vamana"],
+    "answer": "Kalki"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who narrated the Vishnu Purana to Sage Maitreya?",
+    "options": ["Parashara", "Vyasa", "Narada", "Vashistha"],
+    "answer": "Parashara"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who was the father of Sage Parashara?",
+    "options": ["Shakti", "Vyasa", "Vashistha", "Pulastya"],
+    "answer": "Shakti"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who compiled the Vedas and authored the Mahabharata?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vashistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who is considered the son of Sage Parashara?",
+    "options": ["Vedavyasa", "Shuka", "Narada", "Agastya"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which Purana mainly explains the greatness of Lord Vishnu?",
+    "options": ["Vishnu Purana", "Shiva Purana", "Skanda Purana", "Agni Purana"],
+    "answer": "Vishnu Purana"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who is called the Preserver in the Trimurti?",
+    "options": ["Vishnu", "Shiva", "Brahma", "Indra"],
+    "answer": "Vishnu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who is the creator in the Trimurti?",
+    "options": ["Brahma", "Vishnu", "Shiva", "Agni"],
+    "answer": "Brahma"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who is the destroyer in the Trimurti?",
+    "options": ["Shiva", "Vishnu", "Brahma", "Surya"],
+    "answer": "Shiva"
+  },
+  {
+    "puranaId": 3,
+    "question": "From whose navel did Brahma emerge?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Indra", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 3,
+    "question": "What flower emerged from Vishnu's navel?",
+    "options": ["Lotus", "Rose", "Lily", "Jasmine"],
+    "answer": "Lotus"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who created the universe according to Vishnu Purana?",
+    "options": ["Brahma under Vishnu's guidance", "Shiva", "Indra", "Surya"],
+    "answer": "Brahma under Vishnu's guidance"
+  },
+  {
+    "puranaId": 3,
+    "question": "What is the primary quality associated with Lord Vishnu?",
+    "options": ["Preservation", "Destruction", "Creation", "War"],
+    "answer": "Preservation"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which demon stole the Vedas?",
+    "options": ["Hayagriva", "Ravana", "Madhu", "Kaitabha"],
+    "answer": "Hayagriva"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which avatar recovered the Vedas?",
+    "options": ["Matsya", "Kurma", "Varaha", "Vamana"],
+    "answer": "Matsya"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which mountain was used during the churning of the ocean?",
+    "options": ["Mandara", "Meru", "Kailasa", "Vindhya"],
+    "answer": "Mandara"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which serpent served as the churning rope?",
+    "options": ["Vasuki", "Shesha", "Takshaka", "Kaliya"],
+    "answer": "Vasuki"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who consumed the deadly poison during Samudra Manthana?",
+    "options": ["Lord Shiva", "Lord Vishnu", "Brahma", "Agni"],
+    "answer": "Lord Shiva"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which nectar emerged from Samudra Manthana?",
+    "options": ["Amrita", "Soma", "Madhu", "Payasam"],
+    "answer": "Amrita"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who distributed the Amrita among the Devas?",
+    "options": ["Mohini", "Lakshmi", "Parvati", "Saraswati"],
+    "answer": "Mohini"
+  },
+  {
+    "puranaId": 3,
+    "question": "Mohini is an incarnation of whom?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Lakshmi"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who disguised himself to drink Amrita?",
+    "options": ["Rahu", "Ketu", "Bali", "Madhu"],
+    "answer": "Rahu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who cut off Rahu's head?",
+    "options": ["Lord Vishnu", "Indra", "Shiva", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 3,
+    "question": "What weapon did Vishnu use to cut Rahu's head?",
+    "options": ["Sudarshana Chakra", "Kaumodaki", "Bow", "Sword"],
+    "answer": "Sudarshana Chakra"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which virtue is emphasized throughout the Vishnu Purana?",
+    "options": ["Devotion", "Greed", "Anger", "Pride"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 3,
+    "question": "What is the ultimate goal of devotion to Lord Vishnu?",
+    "options": ["Moksha", "Wealth", "Power", "Long life"],
+    "answer": "Moksha"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who was the devoted child blessed by Lord Vishnu after intense penance?",
+    "options": ["Dhruva", "Prahlada", "Markandeya", "Nachiketa"],
+    "answer": "Dhruva"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who guided Dhruva to worship Lord Vishnu?",
+    "options": ["Narada", "Vyasa", "Parashara", "Vashistha"],
+    "answer": "Narada"
+  },
+  {
+    "puranaId": 3,
+    "question": "What celestial position did Dhruva attain?",
+    "options": ["Pole Star", "Sun", "Moon", "Indra's Throne"],
+    "answer": "Pole Star"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who was Prahlada's father?",
+    "options": ["Hiranyakashipu", "Hiranyaksha", "Bali", "Ravana"],
+    "answer": "Hiranyakashipu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Prahlada was a devotee of which deity?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who attempted to kill Prahlada many times?",
+    "options": ["Hiranyakashipu", "Ravana", "Bali", "Kamsa"],
+    "answer": "Hiranyakashipu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who protected Prahlada from every danger?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Indra", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which demon king was famous for his generosity?",
+    "options": ["Mahabali", "Ravana", "Hiranyaksha", "Bhasmasura"],
+    "answer": "Mahabali"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who was Mahabali's grandfather?",
+    "options": ["Prahlada", "Hiranyakashipu", "Virochana", "Ravana"],
+    "answer": "Prahlada"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which avatar sent Mahabali to Sutala?",
+    "options": ["Vamana", "Rama", "Krishna", "Narasimha"],
+    "answer": "Vamana"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who became the gatekeeper of Mahabali after the Vamana episode?",
+    "options": ["Lord Vishnu", "Garuda", "Indra", "Narada"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which yuga is considered the present age?",
+    "options": ["Kali Yuga", "Treta Yuga", "Satya Yuga", "Dvapara Yuga"],
+    "answer": "Kali Yuga"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which yuga preceded Kali Yuga?",
+    "options": ["Dvapara Yuga", "Treta Yuga", "Satya Yuga", "Krita Yuga"],
+    "answer": "Dvapara Yuga"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who is expected to appear at the end of Kali Yuga?",
+    "options": ["Kalki", "Krishna", "Buddha", "Parashurama"],
+    "answer": "Kalki"
+  },
+  {
+    "puranaId": 3,
+    "question": "What animal will Kalki ride?",
+    "options": ["White Horse", "Elephant", "Lion", "Garuda"],
+    "answer": "White Horse"
+  },
+  {
+    "puranaId": 3,
+    "question": "What weapon will Kalki carry?",
+    "options": ["Sword", "Bow", "Trident", "Mace"],
+    "answer": "Sword"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which quality is most praised in the Vishnu Purana?",
+    "options": ["Bhakti", "Pride", "Greed", "Jealousy"],
+    "answer": "Bhakti"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who is known as the protector of devotees?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which goddess is the embodiment of prosperity?",
+    "options": ["Lakshmi", "Parvati", "Saraswati", "Ganga"],
+    "answer": "Lakshmi"
+  },
+  {
+    "puranaId": 3,
+    "question": "What flower is associated with Lord Vishnu?",
+    "options": ["Lotus", "Rose", "Jasmine", "Lily"],
+    "answer": "Lotus"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which festival celebrates the birth of Lord Krishna?",
+    "options": ["Janmashtami", "Rama Navami", "Diwali", "Holi"],
+    "answer": "Janmashtami"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which festival celebrates Lord Rama's birth?",
+    "options": ["Rama Navami", "Janmashtami", "Shivaratri", "Navaratri"],
+    "answer": "Rama Navami"
+  },
+  {
+    "puranaId": 3,
+    "question": "What is the eternal abode of Lord Vishnu called?",
+    "options": ["Vaikuntha", "Kailasa", "Svarga", "Goloka"],
+    "answer": "Vaikuntha"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which sage asked Parashara about creation and Vishnu's greatness?",
+    "options": ["Maitreya", "Narada", "Vyasa", "Agastya"],
+    "answer": "Maitreya"
+  },
+  {
+    "puranaId": 3,
+    "question": "According to the Vishnu Purana, what leads to liberation?",
+    "options": [
+      "Devotion to Lord Vishnu",
+      "Accumulating wealth",
+      "Political power",
+      "Performing sacrifices only"
+    ],
+    "answer": "Devotion to Lord Vishnu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who is regarded as the Supreme Being in the Vishnu Purana?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which virtue is repeatedly emphasized in the Vishnu Purana?",
+    "options": ["Devotion", "Greed", "Anger", "Pride"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who is the goddess of fortune and prosperity?",
+    "options": ["Lakshmi", "Parvati", "Saraswati", "Durga"],
+    "answer": "Lakshmi"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which jewel is found on Lord Vishnu's chest?",
+    "options": ["Kaustubha", "Syamantaka", "Chintamani", "Nagamani"],
+    "answer": "Kaustubha"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which mark is present on Lord Vishnu's chest?",
+    "options": ["Shrivatsa", "Tilaka", "Trident", "Lotus"],
+    "answer": "Shrivatsa"
+  },
+  {
+    "puranaId": 3,
+    "question": "What is the name of Vishnu's bow?",
+    "options": ["Sharanga", "Pinaka", "Gandiva", "Kodanda"],
+    "answer": "Sharanga"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who is the eternal servant of Lord Vishnu?",
+    "options": ["Garuda", "Nandi", "Hanuman", "Airavata"],
+    "answer": "Garuda"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which sage is famous for constantly chanting Narayana's name?",
+    "options": ["Narada", "Vyasa", "Agastya", "Vashistha"],
+    "answer": "Narada"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who protects the universe whenever Dharma declines?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which incarnation established righteousness in Ayodhya?",
+    "options": ["Rama", "Krishna", "Parashurama", "Vamana"],
+    "answer": "Rama"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which incarnation delivered the Bhagavad Gita?",
+    "options": ["Krishna", "Rama", "Narasimha", "Buddha"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who was Krishna's foster father?",
+    "options": ["Nanda", "Vasudeva", "Dasharatha", "Janaka"],
+    "answer": "Nanda"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who was Krishna's biological mother?",
+    "options": ["Devaki", "Yashoda", "Kunti", "Rohini"],
+    "answer": "Devaki"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who raised Krishna in Gokula?",
+    "options": ["Yashoda", "Devaki", "Kunti", "Satyabhama"],
+    "answer": "Yashoda"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which king imprisoned Devaki and Vasudeva?",
+    "options": ["Kamsa", "Jarasandha", "Shishupala", "Duryodhana"],
+    "answer": "Kamsa"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who killed Kamsa?",
+    "options": ["Krishna", "Balarama", "Rama", "Arjuna"],
+    "answer": "Krishna"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which city became Krishna's kingdom?",
+    "options": ["Dwarka", "Mathura", "Ayodhya", "Indraprastha"],
+    "answer": "Dwarka"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which scripture contains the teachings of Lord Krishna?",
+    "options": ["Bhagavad Gita", "Ramayana", "Yoga Sutras", "Rigveda"],
+    "answer": "Bhagavad Gita"
+  },
+  {
+    "puranaId": 3,
+    "question": "What is the highest path according to the Vishnu Purana?",
+    "options": ["Bhakti", "Wealth", "Power", "Fame"],
+    "answer": "Bhakti"
+  },
+  {
+    "puranaId": 3,
+    "question": "Who grants liberation to sincere devotees?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Surya"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which flower is commonly offered to Lord Vishnu?",
+    "options": ["Lotus", "Rose", "Jasmine", "Marigold"],
+    "answer": "Lotus"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which sacred plant is especially dear to Lord Vishnu?",
+    "options": ["Tulsi", "Bilva", "Neem", "Peepal"],
+    "answer": "Tulsi"
+  },
+  {
+    "puranaId": 3,
+    "question": "Which mantra is widely associated with Lord Vishnu?",
+    "options": ["Om Namo Narayanaya", "Om Namah Shivaya", "Gayatri Mantra", "Om Gan Ganapataye Namah"],
+    "answer": "Om Namo Narayanaya"
+  },
+  {
+    "puranaId": 3,
+    "question": "What is the ultimate destination of Vishnu's devotees?",
+    "options": ["Vaikuntha", "Kailasa", "Svarga", "Brahmaloka"],
+    "answer": "Vaikuntha"
+  },
+  {
+    "puranaId": 3,
+    "question": "What is the main message of the Vishnu Purana?",
+    "options": [
+      "Faith, devotion and righteous living lead to liberation",
+      "Wealth is the greatest achievement",
+      "Power alone brings success",
+      "Only rituals matter"
+    ],
+    "answer": "Faith, devotion and righteous living lead to liberation"
+  }
+]

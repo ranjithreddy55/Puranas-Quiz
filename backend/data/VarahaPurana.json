@@ -1,0 +1,627 @@
+[
+  {
+    "puranaId": 11,
+    "question": "Who compiled the Varaha Purana?",
+    "options": ["Vedavyasa", "Valmiki", "Narada", "Vasistha"],
+    "answer": "Vedavyasa"
+  },
+  {
+    "puranaId": 11,
+    "question": "The Varaha Purana is dedicated primarily to which deity?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Lord Brahma", "Lord Ganesha"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which avatar of Vishnu gives this Purana its name?",
+    "options": ["Varaha", "Kurma", "Narasimha", "Vamana"],
+    "answer": "Varaha"
+  },
+  {
+    "puranaId": 11,
+    "question": "Varaha is the incarnation of Vishnu in the form of a?",
+    "options": ["Boar", "Lion", "Fish", "Tortoise"],
+    "answer": "Boar"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which demon dragged the Earth into the cosmic ocean?",
+    "options": ["Hiranyaksha", "Hiranyakashipu", "Madhu", "Kamsa"],
+    "answer": "Hiranyaksha"
+  },
+  {
+    "puranaId": 11,
+    "question": "Whom did Lord Varaha rescue from the cosmic ocean?",
+    "options": ["Bhudevi (Earth)", "Lakshmi", "Saraswati", "Parvati"],
+    "answer": "Bhudevi (Earth)"
+  },
+  {
+    "puranaId": 11,
+    "question": "What is another name for Mother Earth in the Varaha Purana?",
+    "options": ["Bhudevi", "Sridevi", "Ganga", "Yamuna"],
+    "answer": "Bhudevi"
+  },
+  {
+    "puranaId": 11,
+    "question": "What weapon did Varaha primarily use against Hiranyaksha?",
+    "options": ["His tusks", "Chakra", "Bow", "Trident"],
+    "answer": "His tusks"
+  },
+  {
+    "puranaId": 11,
+    "question": "What does the Varaha avatar symbolize?",
+    "options": [
+      "Protection of the Earth and Dharma",
+      "Destruction of knowledge",
+      "Material wealth",
+      "Political power"
+    ],
+    "answer": "Protection of the Earth and Dharma"
+  },
+  {
+    "puranaId": 11,
+    "question": "Who is the divine consort of Lord Vishnu?",
+    "options": ["Lakshmi", "Parvati", "Saraswati", "Radha"],
+    "answer": "Lakshmi"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which virtue is repeatedly praised in the Varaha Purana?",
+    "options": ["Devotion", "Greed", "Hatred", "Jealousy"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which quality destroys righteousness?",
+    "options": ["Pride", "Humility", "Compassion", "Truthfulness"],
+    "answer": "Pride"
+  },
+  {
+    "puranaId": 11,
+    "question": "Who preserves the universe according to Hindu tradition?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Lord Brahma", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 11,
+    "question": "What should devotees cultivate?",
+    "options": ["Faith", "Anger", "Greed", "Cruelty"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which path leads to liberation according to the Purana?",
+    "options": ["Bhakti", "Violence", "Materialism", "Pride"],
+    "answer": "Bhakti"
+  },
+  {
+    "puranaId": 11,
+    "question": "Who defeated Hiranyaksha?",
+    "options": ["Lord Varaha", "Indra", "Shiva", "Brahma"],
+    "answer": "Lord Varaha"
+  },
+  {
+    "puranaId": 11,
+    "question": "What does Bhudevi represent?",
+    "options": ["Mother Earth", "The Moon", "Knowledge", "Fire"],
+    "answer": "Mother Earth"
+  },
+  {
+    "puranaId": 11,
+    "question": "What should humans protect according to the Varaha Purana?",
+    "options": ["Nature and Dharma", "Only wealth", "Only kingdoms", "Only temples"],
+    "answer": "Nature and Dharma"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which quality pleases Lord Vishnu?",
+    "options": ["Humility", "Arrogance", "Dishonesty", "Cruelty"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 11,
+    "question": "What is considered temporary?",
+    "options": ["Material wealth", "The soul", "Devotion", "Truth"],
+    "answer": "Material wealth"
+  },
+  {
+    "puranaId": 11,
+    "question": "What is eternal?",
+    "options": ["The soul", "The body", "Money", "Kingdoms"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 11,
+    "question": "Who protects sincere devotees?",
+    "options": ["Lord Vishnu", "Indra", "Kubera", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which virtue brings divine grace?",
+    "options": ["Compassion", "Hatred", "Jealousy", "Pride"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 11,
+    "question": "What is the reward of sincere devotion?",
+    "options": ["Liberation", "Fear", "Confusion", "Pride"],
+    "answer": "Liberation"
+  },
+  {
+    "puranaId": 11,
+    "question": "What is the central teaching of the Varaha Purana?",
+    "options": [
+      "Devotion to Lord Vishnu and protection of Dharma lead to liberation",
+      "Material wealth is the highest goal",
+      "Power is greater than Dharma",
+      "Only rituals matter"
+    ],
+    "answer": "Devotion to Lord Vishnu and protection of Dharma lead to liberation"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which sacred weapon is associated with Lord Vishnu?",
+    "options": ["Sudarshana Chakra", "Trishula", "Vajra", "Bow Pinaka"],
+    "answer": "Sudarshana Chakra"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which conch is carried by Lord Vishnu?",
+    "options": ["Panchajanya", "Devadatta", "Ananta", "Shankha Raja"],
+    "answer": "Panchajanya"
+  },
+  {
+    "puranaId": 11,
+    "question": "Where does Lord Vishnu reside?",
+    "options": ["Vaikuntha", "Kailasa", "Satyaloka", "Indraloka"],
+    "answer": "Vaikuntha"
+  },
+  {
+    "puranaId": 11,
+    "question": "Who is the gatekeeper of Vaikuntha?",
+    "options": ["Jaya and Vijaya", "Garuda", "Narada", "Hanuman"],
+    "answer": "Jaya and Vijaya"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which bird serves as the vehicle of Lord Vishnu?",
+    "options": ["Garuda", "Peacock", "Swan", "Eagle"],
+    "answer": "Garuda"
+  },
+  {
+    "puranaId": 11,
+    "question": "Garuda represents which quality?",
+    "options": ["Strength and devotion", "Greed", "Pride", "Fear"],
+    "answer": "Strength and devotion"
+  },
+  {
+    "puranaId": 11,
+    "question": "What does the Sudarshana Chakra symbolize?",
+    "options": ["Divine justice", "Wealth", "Music", "Agriculture"],
+    "answer": "Divine justice"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which quality is praised above all?",
+    "options": ["Truthfulness", "Dishonesty", "Cruelty", "Jealousy"],
+    "answer": "Truthfulness"
+  },
+  {
+    "puranaId": 11,
+    "question": "What should accompany every prayer?",
+    "options": ["Faith", "Pride", "Hatred", "Anger"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 11,
+    "question": "Who blesses sincere devotees?",
+    "options": ["Lord Vishnu", "Only kings", "Only sages", "Only warriors"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which virtue protects society?",
+    "options": ["Dharma", "Greed", "Violence", "Dishonesty"],
+    "answer": "Dharma"
+  },
+  {
+    "puranaId": 11,
+    "question": "What should humans preserve according to the Varaha Purana?",
+    "options": ["Nature", "Hatred", "Greed", "Conflict"],
+    "answer": "Nature"
+  },
+  {
+    "puranaId": 11,
+    "question": "Who is considered the Mother of all living beings?",
+    "options": ["Bhudevi", "Lakshmi", "Parvati", "Saraswati"],
+    "answer": "Bhudevi"
+  },
+  {
+    "puranaId": 11,
+    "question": "What is the result of harming nature?",
+    "options": ["Adharma", "Prosperity", "Liberation", "Wisdom"],
+    "answer": "Adharma"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which quality removes ignorance?",
+    "options": ["Knowledge", "Anger", "Greed", "Pride"],
+    "answer": "Knowledge"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which path is considered easiest to attain Vishnu?",
+    "options": ["Bhakti", "Violence", "Material wealth", "Pride"],
+    "answer": "Bhakti"
+  },
+  {
+    "puranaId": 11,
+    "question": "What should be offered with devotion?",
+    "options": ["Flowers and pure heart", "Gold only", "Weapons", "Jewels only"],
+    "answer": "Flowers and pure heart"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which quality destroys devotion?",
+    "options": ["Ego", "Humility", "Compassion", "Truthfulness"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 11,
+    "question": "What is the greatest wealth according to the Purana?",
+    "options": ["Devotion", "Gold", "Land", "Jewels"],
+    "answer": "Devotion"
+  },
+  {
+    "puranaId": 11,
+    "question": "What is the fruit of righteous living?",
+    "options": ["Peace", "Fear", "Confusion", "Pride"],
+    "answer": "Peace"
+  },
+  {
+    "puranaId": 11,
+    "question": "Who removes the suffering of devotees?",
+    "options": ["Lord Vishnu", "Indra", "Agni", "Kubera"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 11,
+    "question": "What should a devotee avoid?",
+    "options": ["Jealousy", "Compassion", "Faith", "Charity"],
+    "answer": "Jealousy"
+  },
+  {
+    "puranaId": 11,
+    "question": "What leads to eternal happiness?",
+    "options": ["Living according to Dharma", "Accumulating wealth", "Seeking power", "Winning battles"],
+    "answer": "Living according to Dharma"
+  },
+  {
+    "puranaId": 11,
+    "question": "Who is the protector of the universe?",
+    "options": ["Lord Vishnu", "Lord Brahma", "Lord Indra", "Lord Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 11,
+    "question": "According to the Varaha Purana, what is the highest duty of every person?",
+    "options": [
+      "Protect Dharma, nature, and worship Lord Vishnu",
+      "Earn maximum wealth",
+      "Become politically powerful",
+      "Win every battle"
+    ],
+    "answer": "Protect Dharma, nature, and worship Lord Vishnu"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which goddess is worshipped as the Earth in the Varaha Purana?",
+    "options": ["Bhudevi", "Lakshmi", "Parvati", "Saraswati"],
+    "answer": "Bhudevi"
+  },
+  {
+    "puranaId": 11,
+    "question": "Who rescued Bhudevi from the cosmic ocean?",
+    "options": ["Lord Varaha", "Lord Shiva", "Lord Brahma", "Lord Indra"],
+    "answer": "Lord Varaha"
+  },
+  {
+    "puranaId": 11,
+    "question": "What quality is essential for receiving Vishnu's grace?",
+    "options": ["Humility", "Pride", "Greed", "Anger"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which scripture emphasizes protecting nature as a sacred duty?",
+    "options": ["Varaha Purana", "Charaka Samhita", "Arthashastra", "Panini Sutras"],
+    "answer": "Varaha Purana"
+  },
+  {
+    "puranaId": 11,
+    "question": "Who is regarded as the preserver of the universe?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Lord Brahma", "Lord Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which quality should a devotee always practice?",
+    "options": ["Compassion", "Cruelty", "Hatred", "Jealousy"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 11,
+    "question": "What does Bhakti primarily mean?",
+    "options": ["Devotion to God", "Material success", "Political power", "Military strength"],
+    "answer": "Devotion to God"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which virtue is praised as the foundation of Dharma?",
+    "options": ["Truth", "Pride", "Greed", "Violence"],
+    "answer": "Truth"
+  },
+  {
+    "puranaId": 11,
+    "question": "Who rides Garuda?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Brahma", "Surya"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 11,
+    "question": "Garuda represents?",
+    "options": ["Strength and devotion", "Fear", "Luxury", "Pride"],
+    "answer": "Strength and devotion"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which weapon symbolizes Vishnu's protection of Dharma?",
+    "options": ["Sudarshana Chakra", "Trishula", "Bow", "Sword"],
+    "answer": "Sudarshana Chakra"
+  },
+  {
+    "puranaId": 11,
+    "question": "What should accompany every act of worship?",
+    "options": ["Faith", "Arrogance", "Greed", "Hatred"],
+    "answer": "Faith"
+  },
+  {
+    "puranaId": 11,
+    "question": "What is considered temporary?",
+    "options": ["Material possessions", "The soul", "Devotion", "Truth"],
+    "answer": "Material possessions"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which quality leads to inner peace?",
+    "options": ["Contentment", "Jealousy", "Greed", "Hatred"],
+    "answer": "Contentment"
+  },
+  {
+    "puranaId": 11,
+    "question": "Who protects those who surrender with devotion?",
+    "options": ["Lord Vishnu", "Indra", "Kubera", "Yama"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 11,
+    "question": "What should devotees avoid?",
+    "options": ["Ego", "Humility", "Kindness", "Patience"],
+    "answer": "Ego"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which virtue strengthens society?",
+    "options": ["Righteousness", "Hatred", "Violence", "Dishonesty"],
+    "answer": "Righteousness"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which offering is acceptable to Vishnu when given with devotion?",
+    "options": ["A leaf, flower, fruit or water", "Only gold", "Only jewels", "Only expensive gifts"],
+    "answer": "A leaf, flower, fruit or water"
+  },
+  {
+    "puranaId": 11,
+    "question": "What should people protect for future generations?",
+    "options": ["Nature", "Greed", "Conflict", "Luxury"],
+    "answer": "Nature"
+  },
+  {
+    "puranaId": 11,
+    "question": "What is the result of living according to Dharma?",
+    "options": ["Prosperity and peace", "Fear", "Confusion", "Suffering"],
+    "answer": "Prosperity and peace"
+  },
+  {
+    "puranaId": 11,
+    "question": "What removes ignorance?",
+    "options": ["Spiritual knowledge", "Anger", "Greed", "Violence"],
+    "answer": "Spiritual knowledge"
+  },
+  {
+    "puranaId": 11,
+    "question": "What is the highest wealth?",
+    "options": ["Devotion to Vishnu", "Gold", "Property", "Jewels"],
+    "answer": "Devotion to Vishnu"
+  },
+  {
+    "puranaId": 11,
+    "question": "What is the destiny of sincere devotees?",
+    "options": ["Liberation", "Fear", "Confusion", "Sorrow"],
+    "answer": "Liberation"
+  },
+  {
+    "puranaId": 11,
+    "question": "Who is described as the eternal protector of the universe?",
+    "options": ["Lord Vishnu", "Lord Brahma", "Lord Shiva", "Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 11,
+    "question": "According to the Varaha Purana, what is the path to eternal happiness?",
+    "options": [
+      "Faith, devotion, compassion, and righteous living",
+      "Political authority",
+      "Material wealth",
+      "Military victories"
+    ],
+    "answer": "Faith, devotion, compassion, and righteous living"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which avatar of Vishnu restored the Earth after defeating Hiranyaksha?",
+    "options": ["Varaha", "Kurma", "Vamana", "Narasimha"],
+    "answer": "Varaha"
+  },
+  {
+    "puranaId": 11,
+    "question": "What do the tusks of Varaha symbolize?",
+    "options": ["Divine strength and protection", "Royal authority", "Material wealth", "Military power"],
+    "answer": "Divine strength and protection"
+  },
+  {
+    "puranaId": 11,
+    "question": "Who is the eternal companion of Lord Vishnu?",
+    "options": ["Lakshmi", "Parvati", "Saraswati", "Radha"],
+    "answer": "Lakshmi"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which sacred plant is especially dear to Lord Vishnu?",
+    "options": ["Tulsi", "Bilva", "Neem", "Banyan"],
+    "answer": "Tulsi"
+  },
+  {
+    "puranaId": 11,
+    "question": "Offering Tulsi to Vishnu represents?",
+    "options": ["Pure devotion", "Material prosperity", "Political success", "Physical strength"],
+    "answer": "Pure devotion"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which quality is considered the greatest ornament of a devotee?",
+    "options": ["Humility", "Pride", "Greed", "Jealousy"],
+    "answer": "Humility"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which virtue helps maintain harmony in society?",
+    "options": ["Compassion", "Cruelty", "Violence", "Hatred"],
+    "answer": "Compassion"
+  },
+  {
+    "puranaId": 11,
+    "question": "What should be protected as a sacred gift from God?",
+    "options": ["The Earth", "Gold", "Palaces", "Weapons"],
+    "answer": "The Earth"
+  },
+  {
+    "puranaId": 11,
+    "question": "Who is known as the Preserver among the Trimurti?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Lord Brahma", "Lord Indra"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which quality destroys Dharma?",
+    "options": ["Greed", "Truthfulness", "Patience", "Charity"],
+    "answer": "Greed"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which virtue leads to divine blessings?",
+    "options": ["Kindness", "Jealousy", "Hatred", "Dishonesty"],
+    "answer": "Kindness"
+  },
+  {
+    "puranaId": 11,
+    "question": "What should devotees remember at all times?",
+    "options": ["Lord Vishnu", "Material wealth", "Political power", "Luxury"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 11,
+    "question": "What is considered the greatest pilgrimage?",
+    "options": ["A pure heart devoted to God", "Owning many temples", "Traveling for wealth", "Political influence"],
+    "answer": "A pure heart devoted to God"
+  },
+  {
+    "puranaId": 11,
+    "question": "What is the reward of protecting nature?",
+    "options": ["Divine merit", "Material pride", "Political success", "Physical power"],
+    "answer": "Divine merit"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which quality should be abandoned?",
+    "options": ["Hatred", "Compassion", "Truthfulness", "Faith"],
+    "answer": "Hatred"
+  },
+  {
+    "puranaId": 11,
+    "question": "Who grants liberation to sincere devotees?",
+    "options": ["Lord Vishnu", "Kubera", "Indra", "Agni"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 11,
+    "question": "What is the highest purpose of human life?",
+    "options": ["Realization of God", "Accumulating wealth", "Political leadership", "Military conquest"],
+    "answer": "Realization of God"
+  },
+  {
+    "puranaId": 11,
+    "question": "What does Dharma ensure?",
+    "options": ["Peace and harmony", "Conflict", "Fear", "Confusion"],
+    "answer": "Peace and harmony"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which quality makes a true devotee?",
+    "options": ["Selfless devotion", "Arrogance", "Greed", "Violence"],
+    "answer": "Selfless devotion"
+  },
+  {
+    "puranaId": 11,
+    "question": "What should every devotee practice daily?",
+    "options": ["Prayer and righteous conduct", "Pride", "Luxury", "Competition"],
+    "answer": "Prayer and righteous conduct"
+  },
+  {
+    "puranaId": 11,
+    "question": "What is considered eternal?",
+    "options": ["The soul", "The body", "Money", "Kingdoms"],
+    "answer": "The soul"
+  },
+  {
+    "puranaId": 11,
+    "question": "Which path is repeatedly praised in the Varaha Purana?",
+    "options": ["Bhakti Yoga", "Violence", "Materialism", "Greed"],
+    "answer": "Bhakti Yoga"
+  },
+  {
+    "puranaId": 11,
+    "question": "Who protects those who surrender with complete faith?",
+    "options": ["Lord Vishnu", "Brahma", "Indra", "Surya"],
+    "answer": "Lord Vishnu"
+  },
+  {
+    "puranaId": 11,
+    "question": "What is the ultimate reward of sincere devotion?",
+    "options": ["Moksha (Liberation)", "Political power", "Material wealth", "Worldly fame"],
+    "answer": "Moksha (Liberation)"
+  },
+  {
+    "puranaId": 11,
+    "question": "What is the ultimate message of the Varaha Purana?",
+    "options": [
+      "Protect the Earth, follow Dharma, and worship Lord Vishnu with devotion to attain liberation.",
+      "Material wealth is the highest goal.",
+      "Political power is supreme.",
+      "Only rituals lead to salvation."
+    ],
+    "answer": "Protect the Earth, follow Dharma, and worship Lord Vishnu with devotion to attain liberation."
+  }
+]
