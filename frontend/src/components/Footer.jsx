@@ -45,10 +45,10 @@ export default function Footer() {
         {/* Contact */}
         <div>
           <h3 className="text-xl font-bold mb-4">
-            Contact
+            Contact Us
           </h3>
 
-          <p>Email: support@puranasquiz.com</p>
+          <p>Email: ranjithkumarreddy2006@gmail.com</p>
           <p>Made with Devotion</p>
         </div>
 
