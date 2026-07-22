@@ -22,9 +22,9 @@ export default function Login() {
 
     try {
       const res = await axios.post(
-        '${import.meta.env.VITE_API_URL}/api/login',
-        form
-      );
+  `${import.meta.env.VITE_API_URL}/api/login`,
+  form
+);
 
       localStorage.setItem("token", res.data.token);
 

@@ -23,9 +23,9 @@ export default function Register() {
 
     try {
       const res = await axios.post(
-        '${import.meta.env.VITE_API_URL}/api/register',
-        form
-      );
+  `${import.meta.env.VITE_API_URL}/api/register`,
+  form
+);
 
       alert(res.data.message);
 
