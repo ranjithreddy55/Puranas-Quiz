@@ -3,6 +3,18 @@ import { useNavigate } from "react-router-dom";
 export default function CategoryCard(props) {
   const navigate = useNavigate();
 
+  const handleStartQuiz = () => {
+    const user = JSON.parse(localStorage.getItem("user"));
+
+    if (!user) {
+      alert("Please login to start the quiz.");
+      navigate("/login");
+      return;
+    }
+
+    navigate(`/quiz/${props.id}`);
+  };
+
   return (
     <div className="bg-white rounded-xl shadow-lg p-6 hover:shadow-2xl hover:-translate-y-2 transition-all duration-300">
       <h1 className="text-2xl font-bold text-red-600">
@@ -16,11 +28,11 @@ export default function CategoryCard(props) {
       <p>{props.difficulty}</p>
 
       <button
-  onClick={() => navigate(`/quiz/${props.id}`)}
-  className="mt-6 w-full bg-orange-600 text-white py-3 rounded-lg hover:bg-orange-700 hover:scale-105 transition-all duration-300"
->
-  Start Quiz
-</button>
+        onClick={handleStartQuiz}
+        className="mt-6 w-full bg-orange-600 text-white py-3 rounded-lg hover:bg-orange-700 hover:scale-105 transition-all duration-300"
+      >
+        Start Quiz
+      </button>
     </div>
   );
 }

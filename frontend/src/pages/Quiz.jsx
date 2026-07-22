@@ -60,7 +60,13 @@ export default function Quiz() {
   try {
     const user = JSON.parse(localStorage.getItem("user"));
 
-    await axios.post(`${import.meta.env.VITE_API_URL}/api/results`, {
+if (!user) {
+  alert("Please login before submitting the quiz.");
+  navigate("/login");
+  return;
+}
+
+await axios.post(`${import.meta.env.VITE_API_URL}/api/results`, {
   userEmail: user.email,
   puranaId: Number(id),
   score,
