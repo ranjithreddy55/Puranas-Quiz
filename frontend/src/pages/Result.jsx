@@ -1,6 +1,5 @@
 import { useLocation, useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
-import DivineBackground from "../components/DivineBackground";
 
 export default function Result() {
 
