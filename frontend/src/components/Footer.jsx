@@ -31,6 +31,13 @@ export default function Footer() {
             <Link to="/leaderboard" className="hover:text-yellow-300">
               Leaderboard
             </Link>
+            <Link to="/privacy-policy" className="hover:text-yellow-300">
+  Privacy Policy
+</Link>
+
+<Link to="/terms-and-conditions" className="hover:text-yellow-300">
+  Terms & Conditions
+</Link>
 
             <Link to="/login" className="hover:text-yellow-300">
               Login
@@ -55,7 +62,7 @@ export default function Footer() {
       </div>
 
       <div className="border-t border-orange-500 py-4 text-center text-orange-100">
-        © 2026 Puranas Quiz. All Rights Reserved.
+        © {new Date().getFullYear()} Puranas Quiz. All Rights Reserved.
       </div>
     </footer>
   );
