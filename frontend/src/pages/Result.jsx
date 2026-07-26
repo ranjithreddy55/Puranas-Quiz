@@ -67,7 +67,6 @@ export default function Result() {
 
   return (
 
-    <DivineBackground>
 
 
 
@@ -310,7 +309,6 @@ export default function Result() {
 
 
 
-    </DivineBackground>
 
   );
 }
