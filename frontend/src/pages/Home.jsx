@@ -99,9 +99,16 @@ console.log(filteredPuranas[0]);
       🚀 Start Quiz
     </button>
 
-    <button className="border-2 border-orange-600 text-orange-600 px-8 py-4 rounded-xl hover:bg-orange-600 hover:text-white">
-      📖 Learn More
-    </button>
+    <button
+  onClick={() => {
+    document
+      .getElementById("mahapuranas")
+      ?.scrollIntoView({ behavior: "smooth" });
+  }}
+  className="border-2 border-orange-600 text-orange-600 px-8 py-4 rounded-xl hover:bg-orange-600 hover:text-white"
+>
+  📖 Learn More
+</button>
   </motion.div>
 </div>
 
@@ -136,7 +143,10 @@ console.log(filteredPuranas[0]);
       </section>
 
       {/* Search */}
-      <section className="py-20 bg-orange-50/40 backdrop-blur-sm">
+      <section
+  id="mahapuranas"
+  className="py-20 bg-orange-50/40 backdrop-blur-sm"
+>
 
         <div className="max-w-xl mx-auto mb-10">
           <input
